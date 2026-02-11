@@ -1,0 +1,2037 @@
+[
+  {
+    "id": "000",
+    "page": 56,
+    "label": [
+      "98.1149969816208,151.128737926483,826.06499698162,290.388737926483:EM-RM-110a.1"
+    ],
+    "company": "npc",
+    "esg_report": "reports/NPC_全國加油站.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "001",
+    "page": 13,
+    "label": [],
+    "company": "gtg",
+    "esg_report": "reports/GTG_大台北區瓦斯.pdf",
+    "sasb_report": "sasb/SASB-IF-GU.pdf"
+  },
+  {
+    "id": "002",
+    "page": 76,
+    "label": [],
+    "company": "largan",
+    "esg_report": "reports/LARGAN_大立光.pdf",
+    "sasb_report": "sasb/SASB-TC-HW.pdf"
+  },
+  {
+    "id": "003",
+    "page": 169,
+    "label": [
+      "78.1443243243243,238.712305019305,482.262115830115,349.602822393822:TC-SC-320a.1"
+    ],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "004",
+    "page": 114,
+    "label": [],
+    "company": "esun",
+    "esg_report": "reports/E.SUN_玉山金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "005",
+    "page": 33,
+    "label": [
+      "434.348223880597,416.965917910447,781.994343283582,547.647350746268:TC-SC-110a.2",
+      "433.465415384615,117.216992307692,777.12923076923,159.527361538461:TC-SC-110a.1",
+      "59.5799076923076,141.394346153846,417.059353846153,225.151607692307:TC-SC-150a.1"
+    ],
+    "company": "alchip",
+    "esg_report": "reports/Alchip_世芯.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "006",
+    "page": 34,
+    "label": [
+      "661.280852156057,186.710998459958,1130.65580082135,313.833380390143:FN-CB-240a.2",
+      "663.391044776119,507.908768656716,1127.7647761194,622.817574626865:FN-CB-000.A",
+      "68.4505133470225,245.382867043121,528.04681724846,272.274140143737:FN-CB-240a.1",
+      "663.391044776119,319.553097014925,1126.58014925373,504.354888059701:FN-CB-000.B"
+    ],
+    "company": "mfhc",
+    "esg_report": "reports/MFHC_兆豐金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "007",
+    "page": 19,
+    "label": [],
+    "company": "alchip",
+    "esg_report": "reports/Alchip_世芯.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "008",
+    "page": 39,
+    "label": [
+      "640.686342288557,400.552362686567,947.702447761194,550.605250248756:TC-HW-230a.1"
+    ],
+    "company": "largan",
+    "esg_report": "reports/LARGAN_大立光.pdf",
+    "sasb_report": "sasb/SASB-TC-HW.pdf"
+  },
+  {
+    "id": "009",
+    "page": 65,
+    "label": [],
+    "company": "fpcc",
+    "esg_report": "reports/FPCC_台塑石化.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "010",
+    "page": 112,
+    "label": [
+      "55.0543818615751,94.7377410501193,826.619441527446,549.639640811455:FN-CB-230a.2"
+    ],
+    "company": "esun",
+    "esg_report": "reports/E.SUN_玉山金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "011",
+    "page": 55,
+    "label": [
+      "110.157746268656,365.866126865671,802.936880597015,548.485052238806:EM-RM-140a.1"
+    ],
+    "company": "npc",
+    "esg_report": "reports/NPC_全國加油站.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "012",
+    "page": 51,
+    "label": [
+      "438.046626752139,299.349071872453,632.274847611035,501.842323406196:TC-SC-110a.1",
+      "420.581094527363,113.732835820895,795.92039800995,180.757711442786:TC-SC-110a.2"
+    ],
+    "company": "psi",
+    "esg_report": "reports/PSI_昇陽半導體.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "013",
+    "page": 39,
+    "label": [
+      "67.22818275154,191.600320841889,534.158470225872,341.946984086242:FN-CB-230a.2"
+    ],
+    "company": "mfhc",
+    "esg_report": "reports/MFHC_兆豐金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "014",
+    "page": 57,
+    "label": [
+      "48.5697830845771,248.031666666666,199.017647761194,336.878830845771:EM-RM-110a.1",
+      "40.063921718377,72.6691346062052,558.905915035799,490.072687828162:EM-RM-110a.2"
+    ],
+    "company": "fpcc",
+    "esg_report": "reports/FPCC_台塑石化.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "015",
+    "page": 19,
+    "label": [],
+    "company": "gtg",
+    "esg_report": "reports/GTG_大台北區瓦斯.pdf",
+    "sasb_report": "sasb/SASB-IF-GU.pdf"
+  },
+  {
+    "id": "016",
+    "page": 60,
+    "label": [
+      "209.896906429959,58.7628865979381,947.216494058825,509.072164948453:HC-BP-330a.1"
+    ],
+    "company": "standard",
+    "esg_report": "reports/Standard_生達化學製藥.pdf",
+    "sasb_report": "sasb/SASB-HC-BP.pdf"
+  },
+  {
+    "id": "017",
+    "page": 5,
+    "label": [],
+    "company": "pegavision",
+    "esg_report": "reports/Pegavision_晶碩.pdf",
+    "sasb_report": "sasb/SASB-HC-MS.pdf"
+  },
+  {
+    "id": "018",
+    "page": 176,
+    "label": [
+      "10.4192432432432,85.400583011583,715.950857142857,361.510528957528:TC-SC-320a.1"
+    ],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "019",
+    "page": 68,
+    "label": [
+      "53.5355692307692,187.158623076923,790.081384615384,455.699946153846:HC-BP-330a.2"
+    ],
+    "company": "spt",
+    "esg_report": "reports/SPT_神隆.pdf",
+    "sasb_report": "sasb/SASB-HC-BP.pdf"
+  },
+  {
+    "id": "020",
+    "page": 70,
+    "label": [],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "021",
+    "page": 69,
+    "label": [
+      "413.108792362768,58.1687720763723,765.135350835322,210.4725:TC-HW-430a.1",
+      "422.673726899384,235.75513090349,584.309691991786,318.734022073921:TC-HW-430a.2"
+    ],
+    "company": "inx",
+    "esg_report": "reports/INX_群創.pdf",
+    "sasb_report": "sasb/SASB-TC-HW.pdf"
+  },
+  {
+    "id": "022",
+    "page": 65,
+    "label": [
+      "53.5355692307692,119.807423076923,414.468923076923,258.827207692307:HC-BP-330a.1"
+    ],
+    "company": "spt",
+    "esg_report": "reports/SPT_神隆.pdf",
+    "sasb_report": "sasb/SASB-HC-BP.pdf"
+  },
+  {
+    "id": "023",
+    "page": 52,
+    "label": [],
+    "company": "psi",
+    "esg_report": "reports/PSI_昇陽半導體.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "024",
+    "page": 86,
+    "label": [
+      "41.2265721649484,201.009676606974,805.003067010309,567.709186916253:FN-CB-410a.2"
+    ],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "025",
+    "page": 56,
+    "label": [
+      "37.5066501193317,72.953275894988,552.654806682577,396.02192124105:EM-RM-110a.2",
+      "26.140998568019,399.999899284009,307.156733174224,555.993466825775:EM-RM-110a.1"
+    ],
+    "company": "fpcc",
+    "esg_report": "reports/FPCC_台塑石化.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "026",
+    "page": 68,
+    "label": [],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "027",
+    "page": 30,
+    "label": [
+      "164.663134328358,64.8583208955223,524.789701492537,317.183843283582:IF-GU-540a.4"
+    ],
+    "company": "gtg",
+    "esg_report": "reports/GTG_大台北區瓦斯.pdf",
+    "sasb_report": "sasb/SASB-IF-GU.pdf"
+  },
+  {
+    "id": "028",
+    "page": 75,
+    "label": [
+      "611.751729729729,280.684175675675,784.030378378378,320.34077027027:TC-HW-330a.1"
+    ],
+    "company": "kye",
+    "esg_report": "reports/KYE_昆盈.pdf",
+    "sasb_report": "sasb/SASB-TC-HW.pdf"
+  },
+  {
+    "id": "029",
+    "page": 5,
+    "label": [],
+    "company": "gtg",
+    "esg_report": "reports/GTG_大台北區瓦斯.pdf",
+    "sasb_report": "sasb/SASB-IF-GU.pdf"
+  },
+  {
+    "id": "030",
+    "page": 76,
+    "label": [
+      "111.388523076923,67.9988076923076,803.033538461538,562.771084615384:EM-RM-320a.2"
+    ],
+    "company": "npc",
+    "esg_report": "reports/NPC_全國加油站.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "031",
+    "page": 54,
+    "label": [
+      "50.9390407960198,250.99323880597,557.367876616915,486.142066666666:EM-RM-110a.2"
+    ],
+    "company": "fpcc",
+    "esg_report": "reports/FPCC_台塑石化.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "032",
+    "page": 32,
+    "label": [
+      "63.0338153846153,203.564684615384,412.741969230769,245.011576923076:TC-SC-140a.1",
+      "429.14803076923,94.7665923076922,781.446615384615,176.7969:TC-SC-140a.1",
+      "159.74323076923,104.264838461538,408.424584615384,167.298653846153:TC-SC-140a.1"
+    ],
+    "company": "alchip",
+    "esg_report": "reports/Alchip_世芯.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "033",
+    "page": 107,
+    "label": [
+      "138.868453608247,359.406506503881,787.644510309278,474.406944648211:FN-CB-240a.2",
+      "603.300324324324,216.323472972972,659.209621621621,240.377472972972:FN-CB-240a.1",
+      "698.866216216216,209.822391891891,751.524972972972,244.928229729729:FN-CB-240a.1"
+    ],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "034",
+    "page": 52,
+    "label": [
+      "231.674594594594,199.267731660231,422.898069498069,256.267036679536:IF-GU-240a.3",
+      "232.593938223938,126.639584942084,458.752471042471,179.042171814671:IF-GU-240a.1",
+      "351.189266409266,249.831631274131,477.139343629343,300.39553088803:IF-GU-240a.4",
+      "833.629466119096,289.386768480492,1025.53536960985,310.166388603696:IF-GU-000.C",
+      "838.518788501026,194.044982032854,1100.09753593429,290.609099075975:IF-GU-000.B",
+      "364.97942084942,339.927306949806,474.381312741312,479.667538610038:IF-GU-420a.2",
+      "226.158532818532,532.070125482625,480.816718146718,578.95665057915:IF-GU-540a.2",
+      "363.140733590733,476.909507722007,430.252818532818,528.39275096525:IF-GU-540a.1",
+      "843.957451737451,146.865144787644,1050.80976833976,192.832326254826:IF-GU-000.A",
+      "230.75525096525,584.472712355212,506.558339768339,672.7297007722:IF-GU-540a.3"
+    ],
+    "company": "gtg",
+    "esg_report": "reports/GTG_大台北區瓦斯.pdf",
+    "sasb_report": "sasb/SASB-IF-GU.pdf"
+  },
+  {
+    "id": "035",
+    "page": 94,
+    "label": [
+      "571.621723076923,279.550653846153,784.037046153846,338.267084615384:HC-BP-260a.2",
+      "571.621723076923,395.256561538461,722.730184615384,415.11653076923:HC-BP-270a.2",
+      "570.758246153846,189.749053846153,785.763999999999,277.8237:HC-BP-260a.1"
+    ],
+    "company": "spt",
+    "esg_report": "reports/SPT_神隆.pdf",
+    "sasb_report": "sasb/SASB-HC-BP.pdf"
+  },
+  {
+    "id": "036",
+    "page": 82,
+    "label": [
+      "26.0481081081081,89.8659729729729,485.983274131274,348.85859073359:TC-SC-440a.1"
+    ],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "037",
+    "page": 173,
+    "label": [],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "038",
+    "page": 28,
+    "label": [
+      "674.052686567164,67.2275746268656,1138.42641791044,325.476231343283:IF-GU-540a.4"
+    ],
+    "company": "gtg",
+    "esg_report": "reports/GTG_大台北區瓦斯.pdf",
+    "sasb_report": "sasb/SASB-IF-GU.pdf"
+  },
+  {
+    "id": "039",
+    "page": 163,
+    "label": [],
+    "company": "inx",
+    "esg_report": "reports/INX_群創.pdf",
+    "sasb_report": "sasb/SASB-TC-HW.pdf"
+  },
+  {
+    "id": "040",
+    "page": 49,
+    "label": [
+      "67.505412371134,570.301405486372,583.001288659793,752.020518005508:HC-MS-410a.1",
+      "79.7791237113402,208.34625,564.590721649484,259.895837628865:HC-MS-430a.2",
+      "56.2598806682577,567.571270883054,575.669284009546,802.271581145584:HC-MS-430a.3"
+    ],
+    "company": "pegavision",
+    "esg_report": "reports/Pegavision_晶碩.pdf",
+    "sasb_report": "sasb/SASB-HC-MS.pdf"
+  },
+  {
+    "id": "041",
+    "page": 57,
+    "label": [
+      "730.285824742268,569.193363402061,826.020773195876,586.37655927835:HC-MS-250a.1",
+      "351.028144329896,597.422899484536,749.923762886597,615.833466494845:HC-MS-250a.3",
+      "729.058453608247,625.65243556701,881.252474226804,644.063002577319:HC-MS-270a.1",
+      "238.11,585.188001193317,1107.01260143198,600.531605011933:HC-MS-250a.2",
+      "730.759835221421,555.119992276004,892.60597322348,572.285491761071:HC-MS-240a.2",
+      "733.365086644334,727.612874005504,919.516375304128,739.88658534571:HC-MS-510a.1"
+    ],
+    "company": "pegavision",
+    "esg_report": "reports/Pegavision_晶碩.pdf",
+    "sasb_report": "sasb/SASB-HC-MS.pdf"
+  },
+  {
+    "id": "042",
+    "page": 49,
+    "label": [],
+    "company": "gtg",
+    "esg_report": "reports/GTG_大台北區瓦斯.pdf",
+    "sasb_report": "sasb/SASB-IF-GU.pdf"
+  },
+  {
+    "id": "043",
+    "page": 14,
+    "label": [
+      "565.010663484486,169.081249403341,765.135350835322,240.611760143198:FN-CB-000.B",
+      "358.456267303102,201.631650357995,553.758673031026,224.135631264916:FN-CB-000.A"
+    ],
+    "company": "esun",
+    "esg_report": "reports/E.SUN_玉山金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "044",
+    "page": 46,
+    "label": [],
+    "company": "spt",
+    "esg_report": "reports/SPT_神隆.pdf",
+    "sasb_report": "sasb/SASB-HC-BP.pdf"
+  },
+  {
+    "id": "045",
+    "page": 16,
+    "label": [],
+    "company": "esun",
+    "esg_report": "reports/E.SUN_玉山金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "046",
+    "page": 30,
+    "label": [
+      "62.785223880597,99.2125,537.820597014925,345.614888059701:FN-CB-410a.2"
+    ],
+    "company": "mfhc",
+    "esg_report": "reports/MFHC_兆豐金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "047",
+    "page": 115,
+    "label": [],
+    "company": "esun",
+    "esg_report": "reports/E.SUN_玉山金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "048",
+    "page": 96,
+    "label": [],
+    "company": "esun",
+    "esg_report": "reports/E.SUN_玉山金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "049",
+    "page": 75,
+    "label": [
+      "551.891395235253,203.922805412371,943.116338534222,342.002197164948:TC-HW-330a.1"
+    ],
+    "company": "largan",
+    "esg_report": "reports/LARGAN_大立光.pdf",
+    "sasb_report": "sasb/SASB-TC-HW.pdf"
+  },
+  {
+    "id": "050",
+    "page": 42,
+    "label": [],
+    "company": "gtg",
+    "esg_report": "reports/GTG_大台北區瓦斯.pdf",
+    "sasb_report": "sasb/SASB-IF-GU.pdf"
+  },
+  {
+    "id": "051",
+    "page": 54,
+    "label": [
+      "52.0833313459465,131.73149442771,790.545264335637,329.185076901937:TC-HW-440a.1"
+    ],
+    "company": "kye",
+    "esg_report": "reports/KYE_昆盈.pdf",
+    "sasb_report": "sasb/SASB-TC-HW.pdf"
+  },
+  {
+    "id": "052",
+    "page": 95,
+    "label": [],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "053",
+    "page": 45,
+    "label": [],
+    "company": "psi",
+    "esg_report": "reports/PSI_昇陽半導體.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "054",
+    "page": 30,
+    "label": [
+      "622.268377088305,369.240984486873,1113.83198090692,796.020483293556:HC-MS-000.A"
+    ],
+    "company": "pegavision",
+    "esg_report": "reports/Pegavision_晶碩.pdf",
+    "sasb_report": "sasb/SASB-HC-MS.pdf"
+  },
+  {
+    "id": "055",
+    "page": 79,
+    "label": [
+      "50.3467263681592,145.561270646766,543.744644776119,534.711849751243:EM-RM-320a.2"
+    ],
+    "company": "fpcc",
+    "esg_report": "reports/FPCC_台塑石化.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "056",
+    "page": 61,
+    "label": [
+      "48.2228162291169,349.51495346062,422.753355608591,467.258996420047:FN-CB-410a.2"
+    ],
+    "company": "esun",
+    "esg_report": "reports/E.SUN_玉山金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "057",
+    "page": 105,
+    "label": [
+      "56.4153092783505,303.232287371134,791.984149484536,372.666514175257:FN-CB-240a.1"
+    ],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "058",
+    "page": 110,
+    "label": [],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "059",
+    "page": 35,
+    "label": [],
+    "company": "mfhc",
+    "esg_report": "reports/MFHC_兆豐金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "060",
+    "page": 163,
+    "label": [
+      "1.38011455847255,67.5106038186157,948.598739856802,588.273830548926:TC-SC-320a.1"
+    ],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "061",
+    "page": 53,
+    "label": [],
+    "company": "kye",
+    "esg_report": "reports/KYE_昆盈.pdf",
+    "sasb_report": "sasb/SASB-TC-HW.pdf"
+  },
+  {
+    "id": "062",
+    "page": 43,
+    "label": [],
+    "company": "gtg",
+    "esg_report": "reports/GTG_大台北區瓦斯.pdf",
+    "sasb_report": "sasb/SASB-IF-GU.pdf"
+  },
+  {
+    "id": "063",
+    "page": 50,
+    "label": [],
+    "company": "alchip",
+    "esg_report": "reports/Alchip_世芯.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "064",
+    "page": 71,
+    "label": [
+      "50.6399969816207,401.163756036758,420.94499698162,451.803756036758:FN-CB-230a.1",
+      "53.9589729729729,331.392608108108,406.967675675675,541.377527027027:FN-CB-230a.2"
+    ],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "065",
+    "page": 67,
+    "label": [
+      "38.643215274463,104.208817661097,563.168034367541,181.211106921241:EM-RM-150a.1"
+    ],
+    "company": "fpcc",
+    "esg_report": "reports/FPCC_台塑石化.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "066",
+    "page": 55,
+    "label": [
+      "56.2599751789976,120.120729832935,540.436731264916,636.973734128878:EM-RM-110a.2"
+    ],
+    "company": "fpcc",
+    "esg_report": "reports/FPCC_台塑石化.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "067",
+    "page": 20,
+    "label": [],
+    "company": "gtg",
+    "esg_report": "reports/GTG_大台北區瓦斯.pdf",
+    "sasb_report": "sasb/SASB-IF-GU.pdf"
+  },
+  {
+    "id": "068",
+    "page": 36,
+    "label": [
+      "66.0058521560575,450.734407084188,531.713809034907,618.193698665297:FN-CB-240a.4"
+    ],
+    "company": "mfhc",
+    "esg_report": "reports/MFHC_兆豐金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "069",
+    "page": 72,
+    "label": [],
+    "company": "inx",
+    "esg_report": "reports/INX_群創.pdf",
+    "sasb_report": "sasb/SASB-TC-HW.pdf"
+  },
+  {
+    "id": "070",
+    "page": 78,
+    "label": [],
+    "company": "npc",
+    "esg_report": "reports/NPC_全國加油站.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "071",
+    "page": 41,
+    "label": [],
+    "company": "gtg",
+    "esg_report": "reports/GTG_大台北區瓦斯.pdf",
+    "sasb_report": "sasb/SASB-IF-GU.pdf"
+  },
+  {
+    "id": "072",
+    "page": 41,
+    "label": [],
+    "company": "fpcc",
+    "esg_report": "reports/FPCC_台塑石化.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "073",
+    "page": 84,
+    "label": [
+      "449.468993839835,66.3398947638603,774.469650924024,219.332225359342:TC-HW-330a.1",
+      "94.2156160164271,63.7468044147843,417.487546201232,295.396208932238:TC-HW-330a.1"
+    ],
+    "company": "inx",
+    "esg_report": "reports/INX_群創.pdf",
+    "sasb_report": "sasb/SASB-TC-HW.pdf"
+  },
+  {
+    "id": "074",
+    "page": 2,
+    "label": [],
+    "company": "spt",
+    "esg_report": "reports/SPT_神隆.pdf",
+    "sasb_report": "sasb/SASB-HC-BP.pdf"
+  },
+  {
+    "id": "075",
+    "page": 180,
+    "label": [],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "076",
+    "page": 71,
+    "label": [],
+    "company": "inx",
+    "esg_report": "reports/INX_群創.pdf",
+    "sasb_report": "sasb/SASB-TC-HW.pdf"
+  },
+  {
+    "id": "077",
+    "page": 101,
+    "label": [],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "078",
+    "page": 13,
+    "label": [],
+    "company": "esun",
+    "esg_report": "reports/E.SUN_玉山金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "079",
+    "page": 118,
+    "label": [
+      "150.892525059665,224.843663484486,307.305508353221,279.128169451074:TC-SC-150a.1",
+      "18.965259391771,113.935233654302,160.342647584973,384.621208609579:TC-SC-150a.1"
+    ],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "080",
+    "page": 58,
+    "label": [
+      "189.540489552238,269.256086069651,569.608658706467,532.835829353233:TC-HW-440a.1"
+    ],
+    "company": "largan",
+    "esg_report": "reports/LARGAN_大立光.pdf",
+    "sasb_report": "sasb/SASB-TC-HW.pdf"
+  },
+  {
+    "id": "081",
+    "page": 79,
+    "label": [
+      "292.718676923076,103.401361538461,800.443107692307,484.194684615384:EM-RM-320a.1"
+    ],
+    "company": "npc",
+    "esg_report": "reports/NPC_全國加油站.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "082",
+    "page": 125,
+    "label": [],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "083",
+    "page": 33,
+    "label": [],
+    "company": "mfhc",
+    "esg_report": "reports/MFHC_兆豐金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "084",
+    "page": 65,
+    "label": [],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "085",
+    "page": 82,
+    "label": [],
+    "company": "standard",
+    "esg_report": "reports/Standard_生達化學製藥.pdf",
+    "sasb_report": "sasb/SASB-HC-BP.pdf"
+  },
+  {
+    "id": "086",
+    "page": 91,
+    "label": [
+      "449.224702702702,90.2025,778.829513513513,529.675581081081:FN-CB-410a.2"
+    ],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "087",
+    "page": 22,
+    "label": [],
+    "company": "gtg",
+    "esg_report": "reports/GTG_大台北區瓦斯.pdf",
+    "sasb_report": "sasb/SASB-IF-GU.pdf"
+  },
+  {
+    "id": "088",
+    "page": 18,
+    "label": [],
+    "company": "gtg",
+    "esg_report": "reports/GTG_大台北區瓦斯.pdf",
+    "sasb_report": "sasb/SASB-IF-GU.pdf"
+  },
+  {
+    "id": "089",
+    "page": 73,
+    "label": [
+      "36.3700849642004,271.568036754176,563.736316945107,577.588204773269:EM-RM-320a.1",
+      "35.8018023866348,106.766089260143,254.590594749403,138.874054892601:EM-RM-320a.1"
+    ],
+    "company": "fpcc",
+    "esg_report": "reports/FPCC_台塑石化.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "090",
+    "page": 74,
+    "label": [],
+    "company": "fpcc",
+    "esg_report": "reports/FPCC_台塑石化.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "091",
+    "page": 41,
+    "label": [],
+    "company": "alchip",
+    "esg_report": "reports/Alchip_世芯.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "092",
+    "page": 75,
+    "label": [],
+    "company": "fpcc",
+    "esg_report": "reports/FPCC_台塑石化.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "093",
+    "page": 111,
+    "label": [
+      "54.6525250596658,95.1395978520286,428.379350835322,398.943340095465:FN-CB-230a.2"
+    ],
+    "company": "esun",
+    "esg_report": "reports/E.SUN_玉山金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "094",
+    "page": 41,
+    "label": [],
+    "company": "spt",
+    "esg_report": "reports/SPT_神隆.pdf",
+    "sasb_report": "sasb/SASB-HC-BP.pdf"
+  },
+  {
+    "id": "095",
+    "page": 40,
+    "label": [
+      "187.566109452736,38.2536144278606,563.68551840796,585.156901990049:TC-HW-230a.1"
+    ],
+    "company": "largan",
+    "esg_report": "reports/LARGAN_大立光.pdf",
+    "sasb_report": "sasb/SASB-TC-HW.pdf"
+  },
+  {
+    "id": "096",
+    "page": 15,
+    "label": [],
+    "company": "esun",
+    "esg_report": "reports/E.SUN_玉山金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "097",
+    "page": 172,
+    "label": [],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "098",
+    "page": 74,
+    "label": [],
+    "company": "esun",
+    "esg_report": "reports/E.SUN_玉山金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "099",
+    "page": 62,
+    "label": [],
+    "company": "fpcc",
+    "esg_report": "reports/FPCC_台塑石化.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "100",
+    "page": 29,
+    "label": [
+      "674.052686567164,358.645783582089,1131.31865671641,602.678917910447:IF-GU-540a.4"
+    ],
+    "company": "gtg",
+    "esg_report": "reports/GTG_大台北區瓦斯.pdf",
+    "sasb_report": "sasb/SASB-IF-GU.pdf"
+  },
+  {
+    "id": "101",
+    "page": 48,
+    "label": [],
+    "company": "gtg",
+    "esg_report": "reports/GTG_大台北區瓦斯.pdf",
+    "sasb_report": "sasb/SASB-IF-GU.pdf"
+  },
+  {
+    "id": "102",
+    "page": 166,
+    "label": [
+      "27.1422529832935,69.8107947494033,920.536410501193,162.738508353221:TC-SC-320a.1"
+    ],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "103",
+    "page": 67,
+    "label": [
+      "422.673726899384,207.231137063655,753.724928131416,534.824884496919:TC-HW-440a.1"
+    ],
+    "company": "inx",
+    "esg_report": "reports/INX_群創.pdf",
+    "sasb_report": "sasb/SASB-TC-HW.pdf"
+  },
+  {
+    "id": "104",
+    "page": 58,
+    "label": [
+      "53.3082985074626,173.992363184079,546.113902487562,425.725995024875:EM-RM-110a.2"
+    ],
+    "company": "fpcc",
+    "esg_report": "reports/FPCC_台塑石化.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "105",
+    "page": 102,
+    "label": [
+      "32.2026730310262,311.3308424821,262.221766109785,528.928904534606:TC-SC-130a.1",
+      "33.4904247104247,144.93911583011499,258.992617760617,187.36032046332:TC-SC-130a.1"
+    ],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "106",
+    "page": 39,
+    "label": [
+      "42.3370520286396,282.649547016706,554.075513126491,592.363551789976:EM-RM-530a.1"
+    ],
+    "company": "fpcc",
+    "esg_report": "reports/FPCC_台塑石化.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "107",
+    "page": 48,
+    "label": [],
+    "company": "alchip",
+    "esg_report": "reports/Alchip_世芯.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "108",
+    "page": 31,
+    "label": [
+      "676.421940298507,595.571156716417,1130.13402985074,764.972798507462:IF-GU-540a.4"
+    ],
+    "company": "gtg",
+    "esg_report": "reports/GTG_大台北區瓦斯.pdf",
+    "sasb_report": "sasb/SASB-IF-GU.pdf"
+  },
+  {
+    "id": "109",
+    "page": 31,
+    "label": [],
+    "company": "mfhc",
+    "esg_report": "reports/MFHC_兆豐金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "110",
+    "page": 76,
+    "label": [],
+    "company": "esun",
+    "esg_report": "reports/E.SUN_玉山金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "111",
+    "page": 48,
+    "label": [
+      "400.66547262434,243.637740229024,819.40608085332,323.469582805053:TC-SC-130a.1"
+    ],
+    "company": "psi",
+    "esg_report": "reports/PSI_昇陽半導體.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "112",
+    "page": 82,
+    "label": [
+      "201.396683778234,144.996968685831,375.998100616016,159.691147330595:TC-HW-330a.1",
+      "90.7581622176591,178.707143223819,413.165728952772,385.290007700205:TC-HW-330a.1"
+    ],
+    "company": "inx",
+    "esg_report": "reports/INX_群創.pdf",
+    "sasb_report": "sasb/SASB-TC-HW.pdf"
+  },
+  {
+    "id": "113",
+    "page": 108,
+    "label": [],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "114",
+    "page": 175,
+    "label": [
+      "53.5846795366795,237.968073359073,357.231196911196,348.85859073359:TC-SC-320a.1"
+    ],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "115",
+    "page": 89,
+    "label": [],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "116",
+    "page": 113,
+    "label": [
+      "412.305078758949,207.257645584725,782.817050119331,311.740414081145:FN-CB-230a.1",
+      "54.2506682577565,60.9817696897374,413.912505966587,521.911521479713:FN-CB-230a.2"
+    ],
+    "company": "esun",
+    "esg_report": "reports/E.SUN_玉山金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "117",
+    "page": 46,
+    "label": [],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "118",
+    "page": 60,
+    "label": [
+      "39.0567525773195,227.047511658521,809.342706185567,554.690269390479:FN-CB-550a.2"
+    ],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "119",
+    "page": 31,
+    "label": [
+      "68.2613513513513,426.308391891891,414.243388059701,473.091917910447:TC-SC-130a.1"
+    ],
+    "company": "alchip",
+    "esg_report": "reports/Alchip_世芯.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "120",
+    "page": 55,
+    "label": [],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "121",
+    "page": 50,
+    "label": [],
+    "company": "pegavision",
+    "esg_report": "reports/Pegavision_晶碩.pdf",
+    "sasb_report": "sasb/SASB-HC-MS.pdf"
+  },
+  {
+    "id": "122",
+    "page": 171,
+    "label": [],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "123",
+    "page": 62,
+    "label": [
+      "53.0450978520286,57.3650584725537,830.638009546539,593.44203221957:FN-CB-410a.2"
+    ],
+    "company": "esun",
+    "esg_report": "reports/E.SUN_玉山金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "124",
+    "page": 159,
+    "label": [],
+    "company": "inx",
+    "esg_report": "reports/INX_群創.pdf",
+    "sasb_report": "sasb/SASB-TC-HW.pdf"
+  },
+  {
+    "id": "125",
+    "page": 178,
+    "label": [],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "126",
+    "page": 99,
+    "label": [],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "127",
+    "page": 11,
+    "label": [],
+    "company": "pegavision",
+    "esg_report": "reports/Pegavision_晶碩.pdf",
+    "sasb_report": "sasb/SASB-HC-MS.pdf"
+  },
+  {
+    "id": "128",
+    "page": 38,
+    "label": [
+      "42.0529107398568,656.295341766109,552.93894797136,783.590639140811:EM-RM-530a.1"
+    ],
+    "company": "fpcc",
+    "esg_report": "reports/FPCC_台塑石化.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "129",
+    "page": 95,
+    "label": [
+      "153.311722007721,429.979841698841,913.916478764478,542.358822393822:TC-SC-110a.2"
+    ],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "130",
+    "page": 72,
+    "label": [],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "131",
+    "page": 70,
+    "label": [
+      "96.808706365503,269.465305441478,772.74092402464,496.792892710472:TC-HW-440a.1"
+    ],
+    "company": "inx",
+    "esg_report": "reports/INX_群創.pdf",
+    "sasb_report": "sasb/SASB-TC-HW.pdf"
+  },
+  {
+    "id": "132",
+    "page": 80,
+    "label": [
+      "41.2004868735083,113.58548019093,574.817827207637,486.094709785202:EM-RM-320a.2"
+    ],
+    "company": "fpcc",
+    "esg_report": "reports/FPCC_台塑石化.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "133",
+    "page": 64,
+    "label": [],
+    "company": "fpcc",
+    "esg_report": "reports/FPCC_台塑石化.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "134",
+    "page": 77,
+    "label": [],
+    "company": "spt",
+    "esg_report": "reports/SPT_神隆.pdf",
+    "sasb_report": "sasb/SASB-HC-BP.pdf"
+  },
+  {
+    "id": "135",
+    "page": 57,
+    "label": [
+      "209.896906429959,41.4432989690721,942.268040450577,516.494845360824:HC-BP-240a.1"
+    ],
+    "company": "standard",
+    "esg_report": "reports/Standard_生達化學製藥.pdf",
+    "sasb_report": "sasb/SASB-HC-BP.pdf"
+  },
+  {
+    "id": "136",
+    "page": 109,
+    "label": [],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "137",
+    "page": 92,
+    "label": [],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "138",
+    "page": 18,
+    "label": [],
+    "company": "pegavision",
+    "esg_report": "reports/Pegavision_晶碩.pdf",
+    "sasb_report": "sasb/SASB-HC-MS.pdf"
+  },
+  {
+    "id": "139",
+    "page": 167,
+    "label": [],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "140",
+    "page": 40,
+    "label": [
+      "54.609081081081,402.254391891891,413.468756756756,552.429364864864:TC-SC-320a.1"
+    ],
+    "company": "alchip",
+    "esg_report": "reports/Alchip_世芯.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "141",
+    "page": 77,
+    "label": [
+      "53.3082985074626,555.442854726368,552.037046766169,782.299280597014:EM-RM-320a.2"
+    ],
+    "company": "fpcc",
+    "esg_report": "reports/FPCC_台塑石化.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "142",
+    "page": 59,
+    "label": [
+      "17.2798424821002,73.8411873508353,810.947026252983,552.452638424821:FN-CB-410a.2"
+    ],
+    "company": "esun",
+    "esg_report": "reports/E.SUN_玉山金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "143",
+    "page": 93,
+    "label": [],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "144",
+    "page": 68,
+    "label": [],
+    "company": "largan",
+    "esg_report": "reports/LARGAN_大立光.pdf",
+    "sasb_report": "sasb/SASB-TC-HW.pdf"
+  },
+  {
+    "id": "145",
+    "page": 75,
+    "label": [
+      "56.2599522673031,88.7098890214797,775.583627684964,305.712562052506:FN-CB-240a.1"
+    ],
+    "company": "esun",
+    "esg_report": "reports/E.SUN_玉山金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "146",
+    "page": 61,
+    "label": [
+      "40.3480630071599,399.999899284009,556.348643436754,731.02450071599:EM-RM-120a.1"
+    ],
+    "company": "fpcc",
+    "esg_report": "reports/FPCC_台塑石化.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "147",
+    "page": 66,
+    "label": [],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "148",
+    "page": 87,
+    "label": [
+      "26.0378350515463,66.4808621739849,809.342706185567,565.539367328624:FN-CB-410a.2"
+    ],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "149",
+    "page": 179,
+    "label": [],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "150",
+    "page": 72,
+    "label": [],
+    "company": "fpcc",
+    "esg_report": "reports/FPCC_台塑石化.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "151",
+    "page": 96,
+    "label": [
+      "367.65044015444,160.56798069498,913.172247104247,382.349015444015:TC-SC-110a.2"
+    ],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "152",
+    "page": 113,
+    "label": [],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "153",
+    "page": 32,
+    "label": [
+      "162.293880597014,64.8583208955223,518.866567164179,646.510111940298:IF-GU-540a.4"
+    ],
+    "company": "gtg",
+    "esg_report": "reports/GTG_大台北區瓦斯.pdf",
+    "sasb_report": "sasb/SASB-IF-GU.pdf"
+  },
+  {
+    "id": "154",
+    "page": 57,
+    "label": [
+      "48.108,70.0491486486486,408.267891891891,548.528716216216:FN-CB-510a.2"
+    ],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "155",
+    "page": 177,
+    "label": [],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "156",
+    "page": 112,
+    "label": [
+      "473.379293556085,339.853210023866,701.558233890214,567.572112171837:TC-SC-140a.1"
+    ],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "157",
+    "page": 48,
+    "label": [],
+    "company": "pegavision",
+    "esg_report": "reports/Pegavision_晶碩.pdf",
+    "sasb_report": "sasb/SASB-HC-MS.pdf"
+  },
+  {
+    "id": "158",
+    "page": 84,
+    "label": [],
+    "company": "spt",
+    "esg_report": "reports/SPT_神隆.pdf",
+    "sasb_report": "sasb/SASB-HC-BP.pdf"
+  },
+  {
+    "id": "159",
+    "page": 40,
+    "label": [
+      "63.5611909650924,295.498421457905,531.713809034907,355.39262063655:FN-CB-230a.1",
+      "64.7835215605749,107.259509753593,532.93613963039,291.831429671457:FN-CB-230a.2"
+    ],
+    "company": "mfhc",
+    "esg_report": "reports/MFHC_兆豐金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "160",
+    "page": 29,
+    "label": [
+      "66.0058521560575,103.592517967145,530.491478439425,763.65103952772:FN-CB-410a.2"
+    ],
+    "company": "mfhc",
+    "esg_report": "reports/MFHC_兆豐金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "161",
+    "page": 73,
+    "label": [],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "162",
+    "page": 3,
+    "label": [],
+    "company": "pegavision",
+    "esg_report": "reports/Pegavision_晶碩.pdf",
+    "sasb_report": "sasb/SASB-HC-MS.pdf"
+  },
+  {
+    "id": "163",
+    "page": 75,
+    "label": [],
+    "company": "psi",
+    "esg_report": "reports/PSI_昇陽半導體.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "164",
+    "page": 59,
+    "label": [
+      "207.422679625835,43.9175257731958,957.11340127532,509.072164948453:HC-BP-330a.1"
+    ],
+    "company": "standard",
+    "esg_report": "reports/Standard_生達化學製藥.pdf",
+    "sasb_report": "sasb/SASB-HC-BP.pdf"
+  },
+  {
+    "id": "165",
+    "page": 164,
+    "label": [],
+    "company": "inx",
+    "esg_report": "reports/INX_群創.pdf",
+    "sasb_report": "sasb/SASB-TC-HW.pdf"
+  },
+  {
+    "id": "166",
+    "page": 106,
+    "label": [],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "167",
+    "page": 98,
+    "label": [
+      "28.0623293556085,110.294155131264,337.668028639618,529.388942720763:TC-SC-110a.2"
+    ],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "168",
+    "page": 36,
+    "label": [],
+    "company": "gtg",
+    "esg_report": "reports/GTG_大台北區瓦斯.pdf",
+    "sasb_report": "sasb/SASB-IF-GU.pdf"
+  },
+  {
+    "id": "169",
+    "page": 83,
+    "label": [],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "170",
+    "page": 57,
+    "label": [],
+    "company": "largan",
+    "esg_report": "reports/LARGAN_大立光.pdf",
+    "sasb_report": "sasb/SASB-TC-HW.pdf"
+  },
+  {
+    "id": "171",
+    "page": 88,
+    "label": [
+      "221.036756756756,150.012445945945,782.730162162162,566.081635135135:FN-CB-410a.2"
+    ],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "172",
+    "page": 15,
+    "label": [],
+    "company": "gtg",
+    "esg_report": "reports/GTG_大台北區瓦斯.pdf",
+    "sasb_report": "sasb/SASB-IF-GU.pdf"
+  },
+  {
+    "id": "173",
+    "page": 61,
+    "label": [
+      "15.188737113402,64.3110425863561,833.210721649484,342.04794980285:FN-CB-550a.2"
+    ],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "174",
+    "page": 35,
+    "label": [],
+    "company": "alchip",
+    "esg_report": "reports/Alchip_世芯.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "175",
+    "page": 105,
+    "label": [],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "176",
+    "page": 77,
+    "label": [
+      "79.1657899761336,452.390294749403,777.99476849642,534.770939140811:FN-CB-240a.3",
+      "73.137937947494,241.817330548926,777.59291169451,439.932733890214:FN-CB-240a.4"
+    ],
+    "company": "esun",
+    "esg_report": "reports/E.SUN_玉山金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "177",
+    "page": 69,
+    "label": [],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "178",
+    "page": 1,
+    "label": [],
+    "company": "pegavision",
+    "esg_report": "reports/Pegavision_晶碩.pdf",
+    "sasb_report": "sasb/SASB-HC-MS.pdf"
+  },
+  {
+    "id": "179",
+    "page": 59,
+    "label": [],
+    "company": "psi",
+    "esg_report": "reports/PSI_昇陽半導體.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "180",
+    "page": 3,
+    "label": [],
+    "company": "gtg",
+    "esg_report": "reports/GTG_大台北區瓦斯.pdf",
+    "sasb_report": "sasb/SASB-IF-GU.pdf"
+  },
+  {
+    "id": "181",
+    "page": 68,
+    "label": [
+      "93.3512525667351,65.9077130390143,416.62318275154,232.729858829568:TC-HW-440a.1"
+    ],
+    "company": "inx",
+    "esg_report": "reports/INX_群創.pdf",
+    "sasb_report": "sasb/SASB-TC-HW.pdf"
+  },
+  {
+    "id": "182",
+    "page": 109,
+    "label": [
+      "39.5632840095465,232.204274463007,256.701307875895,273.607711217183:TC-SC-140a.1"
+    ],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "183",
+    "page": 76,
+    "label": [
+      "37.7907914081145,555.993466825775,554.92793699284,779.612661097852:EM-RM-320a.2"
+    ],
+    "company": "fpcc",
+    "esg_report": "reports/FPCC_台塑石化.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "184",
+    "page": 58,
+    "label": [
+      "21.7002673031026,70.6263329355608,830.638009546539,547.228499999999:FN-CB-410a.2"
+    ],
+    "company": "esun",
+    "esg_report": "reports/E.SUN_玉山金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "185",
+    "page": 37,
+    "label": [],
+    "company": "pegavision",
+    "esg_report": "reports/Pegavision_晶碩.pdf",
+    "sasb_report": "sasb/SASB-HC-MS.pdf"
+  },
+  {
+    "id": "186",
+    "page": 62,
+    "label": [],
+    "company": "standard",
+    "esg_report": "reports/Standard_生達化學製藥.pdf",
+    "sasb_report": "sasb/SASB-HC-BP.pdf"
+  },
+  {
+    "id": "187",
+    "page": 114,
+    "label": [],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "188",
+    "page": 43,
+    "label": [
+      "40.1885096525096,127.077555984555,250.061837837837,256.573864864864:TC-SC-410a.2"
+    ],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "189",
+    "page": 80,
+    "label": [],
+    "company": "kye",
+    "esg_report": "reports/KYE_昆盈.pdf",
+    "sasb_report": "sasb/SASB-TC-HW.pdf"
+  },
+  {
+    "id": "190",
+    "page": 70,
+    "label": [],
+    "company": "mfhc",
+    "esg_report": "reports/MFHC_兆豐金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "191",
+    "page": 22,
+    "label": [
+      "395.265729729729,131.809418918918,512.935297297297,251.42931081081:TC-HW-330a.1"
+    ],
+    "company": "kye",
+    "esg_report": "reports/KYE_昆盈.pdf",
+    "sasb_report": "sasb/SASB-TC-HW.pdf"
+  },
+  {
+    "id": "192",
+    "page": 45,
+    "label": [],
+    "company": "gtg",
+    "esg_report": "reports/GTG_大台北區瓦斯.pdf",
+    "sasb_report": "sasb/SASB-IF-GU.pdf"
+  },
+  {
+    "id": "193",
+    "page": 97,
+    "label": [
+      "436.22254054054,66.1485,781.429945945946,281.984391891891:FN-CB-510a.2",
+      "60.6803770883054,443.549445107398,436.818343675417,556.069349642004:FN-CB-510a.1"
+    ],
+    "company": "esun",
+    "esg_report": "reports/E.SUN_玉山金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "194",
+    "page": 94,
+    "label": [],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "195",
+    "page": 97,
+    "label": [
+      "29.309946332737,309.90957960644,699.990483005366,587.492012522361:TC-SC-110a.1",
+      "266.434934362934,188.104552123552,475.56403088803,293.041216216216:TC-SC-110a.2"
+    ],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "196",
+    "page": 174,
+    "label": [],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "197",
+    "page": 16,
+    "label": [],
+    "company": "pegavision",
+    "esg_report": "reports/Pegavision_晶碩.pdf",
+    "sasb_report": "sasb/SASB-HC-MS.pdf"
+  },
+  {
+    "id": "198",
+    "page": 59,
+    "label": [
+      "546.794536082474,56.5961248182513,809.342706185567,290.936640282168:FN-CB-550a.2"
+    ],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "199",
+    "page": 56,
+    "label": [
+      "437.522756756756,399.653959459459,797.03254054054,547.228499999999:FN-CB-510a.2"
+    ],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "200",
+    "page": 33,
+    "label": [],
+    "company": "gtg",
+    "esg_report": "reports/GTG_大台北區瓦斯.pdf",
+    "sasb_report": "sasb/SASB-IF-GU.pdf"
+  },
+  {
+    "id": "201",
+    "page": 111,
+    "label": [],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "202",
+    "page": 39,
+    "label": [],
+    "company": "gtg",
+    "esg_report": "reports/GTG_大台北區瓦斯.pdf",
+    "sasb_report": "sasb/SASB-IF-GU.pdf"
+  },
+  {
+    "id": "203",
+    "page": 81,
+    "label": [
+      "34.9493785202863,63.8607546539379,549.813393794749,226.105430548926:EM-RM-320a.2"
+    ],
+    "company": "fpcc",
+    "esg_report": "reports/FPCC_台塑石化.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "204",
+    "page": 98,
+    "label": [],
+    "company": "esun",
+    "esg_report": "reports/E.SUN_玉山金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "205",
+    "page": 40,
+    "label": [
+      "40.9163455847255,209.341094510739,547.824404773269,381.246574224343:EM-RM-530a.1"
+    ],
+    "company": "fpcc",
+    "esg_report": "reports/FPCC_台塑石化.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "206",
+    "page": 42,
+    "label": [
+      "50.9390407960198,137.861183084577,560.329448756218,187.615595024875:EM-RM-530a.1"
+    ],
+    "company": "fpcc",
+    "esg_report": "reports/FPCC_台塑石化.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "207",
+    "page": 95,
+    "label": [],
+    "company": "spt",
+    "esg_report": "reports/SPT_神隆.pdf",
+    "sasb_report": "sasb/SASB-HC-BP.pdf"
+  },
+  {
+    "id": "208",
+    "page": 14,
+    "label": [],
+    "company": "gtg",
+    "esg_report": "reports/GTG_大台北區瓦斯.pdf",
+    "sasb_report": "sasb/SASB-IF-GU.pdf"
+  },
+  {
+    "id": "209",
+    "page": 63,
+    "label": [],
+    "company": "tcfh",
+    "esg_report": "reports/TCFH_合庫金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "210",
+    "page": 32,
+    "label": [],
+    "company": "kye",
+    "esg_report": "reports/KYE_昆盈.pdf",
+    "sasb_report": "sasb/SASB-TC-HW.pdf"
+  },
+  {
+    "id": "211",
+    "page": 83,
+    "label": [],
+    "company": "standard",
+    "esg_report": "reports/Standard_生達化學製藥.pdf",
+    "sasb_report": "sasb/SASB-HC-BP.pdf"
+  },
+  {
+    "id": "212",
+    "page": 170,
+    "label": [
+      "23.0711814671814,89.8659729729729,930.289575289575,290.808521235521:TC-SC-320a.1"
+    ],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "213",
+    "page": 60,
+    "label": [],
+    "company": "esun",
+    "esg_report": "reports/E.SUN_玉山金.pdf",
+    "sasb_report": "sasb/SASB-FN-CB.pdf"
+  },
+  {
+    "id": "214",
+    "page": 43,
+    "label": [],
+    "company": "alchip",
+    "esg_report": "reports/Alchip_世芯.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "215",
+    "page": 78,
+    "label": [
+      "47.9774686567164,79.8143691542288,546.706216915422,140.82275522388:EM-RM-320a.2"
+    ],
+    "company": "fpcc",
+    "esg_report": "reports/FPCC_台塑石化.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "216",
+    "page": 75,
+    "label": [],
+    "company": "npc",
+    "esg_report": "reports/NPC_全國加油站.pdf",
+    "sasb_report": "sasb/SASB-EM-RM.pdf"
+  },
+  {
+    "id": "217",
+    "page": 104,
+    "label": [],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "218",
+    "page": 165,
+    "label": [
+      "45.0837422434367,274.527787589498,920.99644868735,305.350346062052:TC-SC-320a.1"
+    ],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "219",
+    "page": 43,
+    "label": [],
+    "company": "psi",
+    "esg_report": "reports/PSI_昇陽半導體.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "220",
+    "page": 168,
+    "label": [
+      "32.746193050193,130.054482625482,692.135444015443,536.404969111969:TC-SC-320a.1"
+    ],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  },
+  {
+    "id": "221",
+    "page": 162,
+    "label": [],
+    "company": "inx",
+    "esg_report": "reports/INX_群創.pdf",
+    "sasb_report": "sasb/SASB-TC-HW.pdf"
+  },
+  {
+    "id": "222",
+    "page": 164,
+    "label": [
+      "37.2630930787589,84.0719785202864,944.918434367541,298.449773269689:TC-SC-320a.1"
+    ],
+    "company": "tsmc",
+    "esg_report": "reports/TSMC_台積電.pdf",
+    "sasb_report": "sasb/SASB-TC-SC.pdf"
+  }
+]
