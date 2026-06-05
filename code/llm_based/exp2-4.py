@@ -381,7 +381,7 @@ def main():
     args = parse_args()
 
     # Use env var key (do NOT hardcode keys in code)
-    api_key = "AIzaSyCrUt8-BDZTI6M31KEcIhWvm_qVmFKPE0E"
+    api_key = "YOUR_KEY"  
     if not api_key:
         raise RuntimeError("Missing OPENAI_API_KEY environment variable.")
     # client = OpenAI(api_key=api_key)
