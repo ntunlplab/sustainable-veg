@@ -1,0 +1,27 @@
+{
+  "page": {
+    "width": 1754,
+    "height": 1241
+  },
+  "objects": [
+    {
+      "id": 1,
+      "text": "取水概況\n新竹\n<table><tr><th>類別</th><th>2021年</th><th>2022年</th></tr><tr><td>第三方供水</td><td>0.72</td><td>1.10</td></tr><tr><td>總取水量</td><td>0.72</td><td>1.10</td></tr><tr><td>重複利用水量</td><td>-</td><td>-</td></tr><tr><td>總用水量</td><td>0.72</td><td>1.10</td></tr></table>\n# 註1：世芯電子之取水來源皆為臺灣自來水公司(第三方供水)並且皆為淡水，未有從地表水、地下水及海水等取水情形。\n# 註2：臺灣非為水資源壓力地區，故世芯未取用來自於水資源壓力地區之水源。",
+      "bbox": [136, 180, 695, 393],
+      "type": "paragraph"
+    },
+    {
+      "id": 2,
+      "text": "排水概況\n臺北\n<table><tr><th>排水型式</th><th>類別</th><th>2021年</th><th>2022年</th></tr><tr><td>排放終點</td><td>第三方排水</td><td>0.99</td><td>0.91</td></tr><tr><td>處理情況</td><td>污水處理廠</td><td>0.99</td><td>0.91</td></tr><tr><td>總排水量</td><td></td><td>0.99</td><td>0.91</td></tr></table>\n# 註：世芯電子之排水終點皆為第三方排水並且皆為淡水，未有排放至地表水、地下水及海水等情形。",
+      "bbox": [136, 543, 695, 756],
+      "type": "paragraph"
+    },
+    {
+      "id": 3,
+      "text": "排水概況\n新竹\n<table><tr><th>排水型式</th><th>類別</th><th>2021年</th><th>2022年</th></tr><tr><td>排放終點</td><td>第三方排水</td><td>0.72</td><td>1.10</td></tr><tr><td>處理情況</td><td>污水處理廠</td><td>0.72</td><td>1.10</td></tr><tr><td>總排水量</td><td></td><td>0.72</td><td>1.10</td></tr></table>\n# 註1：世芯電子之排水終點皆為第三方排水並且皆為淡水，未有排放至地表水、地下水及海水等情形。",
+      "bbox": [136, 1006, 695, 1219],
+      "type": "paragraph"
+    },
+    {
+      "id": 4,
+      "text": "耗水概況\n臺北\n<table><tr><th>年度</th><th>2021年</th><th>2022年</th></tr><tr><td>總耗水量</td><td>0.99</td><td>0.91</td></tr></table>\n耗水概況\n新竹\n<table><tr><th>年度</th><th>2021年</th><th>2022年</th></tr><tr><td>總耗水量</td><td>0.72</td><td>1.10</td></tr></table>\n2021~2022 用水密集度統計表\n<table><tr><th>年度</th><th>2021</th><th>2022</th></tr><tr><td>年度營業收入（新臺幣仟元）</td><td>1

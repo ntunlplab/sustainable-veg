@@ -1,0 +1,14 @@
+{
+  "page": {
+    "width": 1754,
+    "height": 1241
+  },
+  "objects": [
+    {
+      "id": 1,
+      "text": "5.2 勞僱關係\n育嬰假\n\n<table>\n  <tr>\n    <th rowspan=\"2\">員工育嬰留停 / 年度</th>\n    <th rowspan=\"2\">性別</th>\n    <th colspan=\"3\">統計</th>\n  </tr>\n  <tr>\n    <th>2020 年</th>\n    <th>2021 年</th>\n    <th>2022 年</th>\n  </tr>\n  <tr>\n    <td>享有育嬰留停資格的員工人數</td>\n    <td>男</td>\n    <td>1</td>\n    <td>1</td>\n    <td>2</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td>女</td>\n    <td>0</td>\n    <td>1</td>\n    <td>0</td>\n  </tr>\n  <tr>\n    <td>申請育嬰留停的員工數</td>\n    <td>男</td>\n    <td>1</td>\n    <td>1</td>\n    <td>0</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td>女</td>\n    <td>0</td>\n    <td>1</td>\n    <td>0</td>\n  </tr>\n  <tr>\n    <td>育嬰留停期滿應復職的員工數 (A)</td>\n    <td>男</td>\n    <td>1</td>\n    <td>1</td>\n    <td>0</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td>女</td>\n    <td>0</td>\n    <td>1</td>\n    <td>0</td>\n  </tr>\n  <tr>\n    <td>育嬰留停期滿後實際復職的員工數 (B)<br>(含提前復職)</td>\n    <td>男</td>\n    <td>0</td>\n    <td>0</td>\n    <td>0</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td>女</td>\n    <td>0</td>\n    <td>1</td>\n    <td>0</td>\n  </tr>\n  <tr>\n    <td>復職率（B/A）</td>\n    <td>男</td>\n    <td>0%</td>\n    <td>0%</td>\n    <td>N/A</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td>女</td>\n    <td>N/A</td>\n    <td>100%</td>\n    <td>N/A</td>\n  </tr>\n  <tr>\n    <td>前一年育嬰留停期滿且復職後十二個月仍在職的員工數（C）</td>\n    <td>男</td>\n    <td>0</td>\n    <td>0</td>\n    <td>0</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td>女</td>\n    <td>0</td>\n    <td>0</td>\n    <td>1</td>\n  </tr>\n  <tr>\n    <td>留任率（C/ 前一年 B）</td>\n    <td>男</td>\n    <td>N/A</td>\n    <td>N/A</td>\n    <td>N/A</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td>女</td>\n    <td>N/A</td>\n    <td>N/A</td>\n    <td>100%</td>\n  </tr>\n</table>\n\n註 1：享有育嬰留停資格的員工人數以近 3 年有申請產假、陪產假的男女員工人數為準。\n註 2：復職率 = （當年度實際復職員工總數 / 當年度應復職員工總數）*100%。\n註 3：留任率 = （前一年復職後十二個月仍在職員工總數 / 前一年實際復職人數）*100%。",
+      "bbox": [109, 316, 1100, 1008],
+      "type": "table"
+    }
+  ]
+}

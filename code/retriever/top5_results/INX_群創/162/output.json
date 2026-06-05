@@ -1,0 +1,96 @@
+{
+  "page": {
+    "width": 1754,
+    "height": 1241
+  },
+  "objects": [
+    {
+      "id": 0,
+      "text": "<table>\n<tr><th rowspan=\"2\">廠區註2</th><th rowspan=\"2\">項目</th><th colspan=\"3\">主管人員註3</th><th colspan=\"2\">專業人員註3</th><th colspan=\"2\">行政人員註3</th><th colspan=\"2\">技術人員註3</th><th rowspan=\"2\">總計</th></tr>\n<tr><th>基層</th><th>中階</th><th>高階</th><th>專案人員註3</th><th>行政人員註3</th><th>技術人員註3</th></tr>\n<tr><td rowspan=\"2\">上海</td><td><30歲</td><td>女性</td><td>0</td><td>0</td><td>0</td><td>8</td><td>0</td><td>269</td><td>277</td></tr>\n<tr><td></td><td>男性</td><td>0</td><td>0</td><td>0</td><td>31</td><td>1</td><td>658</td><td>690</td></tr>\n<tr><td rowspan=\"2\"></td><td>30-50歲</td><td>女性</td><td>10</td><td>0</td><td>0</td><td>37</td><td>28</td><td>953</td><td>1,028</td></tr>\n<tr><td></td><td>男性</td><td>21</td><td>0</td><td>0</td><td>72</td><td>5</td><td>359</td><td>457</td></tr>\n<tr><td rowspan=\"2\"></td><td>>50歲</td><td>女性</td><td>3</td><td>0</td><td>0</td><td>1</td><td>0</td><td>17</td><td>21</td></tr>\n<tr><td></td><td>男性</td><td>6</td><td>0</td><td>0</td><td>2</td><td>3</td><td>7</td><td>18</td></tr>\n<tr><td colspan=\"2\">人數合計</td><td>40</td><td>0</td><td>0</td><td>151</td><td>37</td><td>2,263</td><td>2,491</td></tr>\n<tr><td colspan=\"2\">比例%</td><td>1.61%</td><td>0.00%</td><td>0.00%</td><td>6.06%</td><td>1.49%</td><td>90.85%</td><td>100%</td></tr>\n<tr><th rowspan=\"2\">廠區註2</th><th rowspan=\"2\">項目</th><th colspan=\"3\">主管人員註3</th><th colspan=\"2\">專業人員註3</th><th colspan=\"2\">行政人員註3</th><th colspan=\"2\">技術人員註3</th><th rowspan=\"2\">總計</th></tr>\n<tr><th>基層</th><th>中階</th><th>高階</th><th>專案人員註3</th><th>行政人員註3</th><th>技術人員註3</th></tr>\n<tr><td rowspan=\"2\">海外其他</td><td><30歲</td><td>女性</td><td>0</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>3</td></tr>\n<tr><td></td><td>男性</td><td>0</td><td>0</td><td>0</td><td>7</td><td>1</td><td>0</td><td>8</td></tr>\n<tr><td rowspan=\"2\"></td><td>30-50歲</td><td>女性</td><td>0</td><td>0</td><td>0</td><td>13</td><td>7</td><td>0</td><td>20</td></tr>\n<tr><td></td><td>男性</td><td>3</td><td>0</td><td>0</td><td>94</td><td>4</td><td>0</td><td>101</td></tr>\n<tr><td rowspan=\"2\"></td><td>>50歲</td><td>女性</td><td>0</td><td>0</td><td>0</td><td>6</td><td>6</td><td>0</td><td>12</td></tr>\n<tr><td></td><td>男性</td><td>10</td><td>6</td><td>0</td><td>119</td><td>5</td><td>0</td><td>140</td></tr>\n<tr><td colspan=\"2\">人數合計</td><td>13</td><td>6</td><td>0</td><td>242</td><td>23</td><td>0</td><td>284</td></tr>\n<tr><td colspan=\"2\">比例%</td><td>4.58%</td><td>2.11%</td><td>0.00%</td><td>85.21%</td><td>8.10%</td><td>0.00%</td><td>100%</td></tr>\n</table>",
+      "bbox": [
+        204,
+        227,
+        1552,
+        872
+      ],
+      "type": "table",
+      "bbox_pdf": [
+        97.91651253607824,
+        108.88610170965326,
+        744.9334679215365,
+        418.27612639126716
+      ],
+      "retrieval": [
+        {
+          "code": "TC-HW-000.C",
+          "text": "一般資訊。自有場所產量之百分比。",
+          "score": 0.7256853580474854
+        },
+        {
+          "code": "TC-HW-330a.1",
+          "text": "員工多元及包容性。針對高階管理階層、非高階管理階層、技術員工及所有其他員工之性別及多元群體之代表性之百分比。",
+          "score": 0.7038264274597168
+        },
+        {
+          "code": "TC-HW-000.A",
+          "text": "一般資訊。生產單位數量，按產品類別劃分。",
+          "score": 0.6950801610946655
+        },
+        {
+          "code": "TC-HW-000.B",
+          "text": "一般資訊。製造場所之面積。",
+          "score": 0.6806694269180298
+        },
+        {
+          "code": "TC-HW-430a.1",
+          "text": "供應鏈管理。一階供應商場所於責任商業聯盟(RBA)有效性查核程序(VAP)或同等程序中經查核之百分比，按所有場所及高風險場所。",
+          "score": 0.6801964640617371
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "text": "註1：資料基準日為2022年12月31日在職人力。<br>註2：台灣廠區之當地主管係指台灣籍主管人員；中國大陸廠區之當地主管係指中國籍主管人員；海外其它之當地主管係指台灣籍以外之主管人員。<br>註3：人員定義：基層管理人員為副理級與經理級；中階主管為總廠處與廠處；高階管理人員為CEO以下2層主管；專業人員為工程技術類人員；行政人員為行政事務類人員；技術人員為直接生產人員。",
+      "bbox": [
+        204,
+        1017,
+        1552,
+        1037
+      ],
+      "type": "paragraph",
+      "bbox_pdf": [
+        97.91651253607824,
+        487.82892263752143,
+        744.9334679215365,
+        497.4224117749358
+      ],
+      "retrieval": [
+        {
+          "code": "TC-HW-330a.1",
+          "text": "員工多元及包容性。針對高階管理階層、非高階管理階層、技術員工及所有其他員工之性別及多元群體之代表性之百分比。",
+          "score": 0.6531239748001099
+        },
+        {
+          "code": "TC-HW-430a.1",
+          "text": "供應鏈管理。一階供應商場所於責任商業聯盟(RBA)有效性查核程序(VAP)或同等程序中經查核之百分比，按所有場所及高風險場所。",
+          "score": 0.6343377828598022
+        },
+        {
+          "code": "TC-HW-440a.1",
+          "text": "材料取得。與關鍵材料之使用有關之風險管理之描述。",
+          "score": 0.6249415874481201
+        },
+        {
+          "code": "TC-HW-000.C",
+          "text": "一般資訊。自有場所產量之百分比。",
+          "score": 0.6118702292442322
+        },
+        {
+          "code": "TC-HW-000.A",
+          "text": "一般資訊。生產單位數量，按產品類別劃分。",
+          "score": 0.6103671789169312
+        }
+      ]
+    }
+  ]
+}

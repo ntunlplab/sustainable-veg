@@ -1,0 +1,15 @@
+{
+  "page": {
+    "width": 1754,
+    "height": 1241
+  },
+  "objects": [
+    {
+      "id": 1,
+      "text": "GRI 400：社會系列\nGRI 準則\t揭露項目\t報告書章節與說明\t頁碼\nGRI 401 勞雇關係 2016\n<table><tr><th>GRI 準則</th><th>揭露項目</th><th>報告書章節與說明</th><th>頁碼</th></tr><tr><td>401-1</td><td>新進員工和離職員工</td><td>5.1.2 新進與離職員工</td><td>p.36</td></tr><tr><td>401-2</td><td>提供給全職員工(不包含臨時或兼職員工)的福利</td><td>關於報告書<br>5.1.2 新進與離職員工<br>5.2.2 福利委員會<br>5.2.4 公平的薪資待遇</td><td>p.5<br>p.36<br>p.37<br>p.38</td></tr><tr><td>401-3</td><td>育嬰假</td><td>5.2.2 福利委員會</td><td>p.37</td></tr></table>\nGRI 403 職業安全衛生 2018\n<table><tr><th>GRI 準則</th><th>揭露項目</th><th>報告書章節與說明</th><th>頁碼</th></tr><tr><td>403-3</td><td>職業健康服務</td><td>5.4.3 職業健康服務</td><td>p.43</td></tr><tr><td>403-5</td><td>有關職業安全衛生之工作者訓練</td><td>5.4.4 職業安全衛生教育訓練</td><td>p.43</td></tr></table>\nGRI 404 訓練與教育 2016\n<table><tr><th>GRI 準則</th><th>揭露項目</th><th>報告書章節與說明</th><th>頁碼</th></tr><tr><td>404-1</td><td>每名員工每年接受訓練的平均時數</td><td>5.3.1 員工培育</td><td>p.39</td></tr></table>",
+      "bbox": [102, 170, 850, 1166],
+      "type": "paragraph"
+    },
+    {
+      "id": 2,
+      "text": "<table><tr><th>GRI 準則</th><th>揭露項目</th><th>報告書章節與說明</th><th>頁碼</th></tr><tr><td>404-3</td><td>定期接受績效及職業發展檢核的員工百分比</td><td>5.3.2 績效考核<br>3.2.5 董事會暨功能性委員會績效評估</td><td>p.39<br>p.21</td></tr></table>\nGRI 405 員工多元化與平等機會 2016\n<table><tr><th>GRI 準則</th><th>揭露項目</th><th>報告書章節與說明</th><th>頁碼</th></tr><tr><td>405-1</td><td>治理單位與員工的多元化</td><td>3.2.1 董事會組成與遴選機制<br>5.1.1 員工結構</td><td>p.19<br>p.35</td></tr><tr><td>405-2</td><td>女性對男性基本薪資與薪酬的比率</td><td>關於報告書、5.2.4 公平的薪資待遇</td><td>p.5<br>p.38</td></tr></table>\nGRI 406 不歧視 2016\n<table><tr><th>GRI 準則</th><th>揭露

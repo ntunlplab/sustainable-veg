@@ -1,0 +1,386 @@
+[
+  {
+    "bbox": [
+      116.81,
+      17.45,
+      237.11,
+      109.92
+    ],
+    "label": "Page-Header",
+    "content": "<p>tsmc</p>",
+    "bbox_pdf": [
+      42.0516,
+      6.282,
+      85.3596,
+      39.5712
+    ]
+  },
+  {
+    "bbox": [
+      258.04,
+      48.85,
+      538.74,
+      83.75
+    ],
+    "label": "Page-Header",
+    "content": "<p>111年度永續報告書</p>",
+    "bbox_pdf": [
+      92.8944,
+      17.586,
+      193.9464,
+      30.15
+    ]
+  },
+  {
+    "bbox": [
+      1757.44,
+      22.68,
+      2060.8,
+      59.32
+    ],
+    "label": "Page-Header",
+    "content": "<p>導言 實踐永續管理</p>",
+    "bbox_pdf": [
+      632.6784,
+      8.1648,
+      741.888,
+      21.3552
+    ]
+  },
+  {
+    "bbox": [
+      2093.93,
+      22.68,
+      2371.15,
+      59.32
+    ],
+    "label": "Page-Header",
+    "content": "<p>營運與治理 附錄</p>",
+    "bbox_pdf": [
+      753.8148,
+      8.1648,
+      853.614,
+      21.3552
+    ]
+  },
+  {
+    "bbox": [
+      2416.48,
+      22.68,
+      2543.75,
+      59.32
+    ],
+    "label": "Page-Header",
+    "content": "<p>三</p>",
+    "bbox_pdf": [
+      869.9328,
+      8.1648,
+      915.75,
+      21.3552
+    ]
+  },
+  {
+    "bbox": [
+      1382.59,
+      83.75,
+      1586.58,
+      109.92
+    ],
+    "label": "Page-Header",
+    "content": "<p>追求創新的先行者</p>",
+    "bbox_pdf": [
+      497.7324,
+      30.15,
+      571.1688,
+      39.5712
+    ]
+  },
+  {
+    "bbox": [
+      1626.68,
+      83.75,
+      1806.26,
+      109.92
+    ],
+    "label": "Page-Header",
+    "content": "<p>負責任的採購者</p>",
+    "bbox_pdf": [
+      585.6048,
+      30.15,
+      650.2536,
+      39.5712
+    ]
+  },
+  {
+    "bbox": [
+      1846.36,
+      83.75,
+      2050.34,
+      109.92
+    ],
+    "label": "Page-Header",
+    "content": "<p>綠色力量的執行者</p>",
+    "bbox_pdf": [
+      664.6896,
+      30.15,
+      738.1224,
+      39.5712
+    ]
+  },
+  {
+    "bbox": [
+      2093.93,
+      83.75,
+      2324.07,
+      109.92
+    ],
+    "label": "Page-Header",
+    "content": "<p>員工引以為傲的公司</p>",
+    "bbox_pdf": [
+      753.8148,
+      30.15,
+      836.6652,
+      39.5712
+    ]
+  },
+  {
+    "bbox": [
+      2364.17,
+      83.75,
+      2543.75,
+      109.92
+    ],
+    "label": "Page-Header",
+    "content": "<p>改變社會的力量</p>",
+    "bbox_pdf": [
+      851.1012,
+      30.15,
+      915.75,
+      39.5712
+    ]
+  },
+  {
+    "bbox": [
+      120.3,
+      270.43,
+      282.45,
+      303.58
+    ],
+    "label": "Section-Header",
+    "content": "<h2>產品水足跡</h2>",
+    "bbox_pdf": [
+      43.308,
+      97.3548,
+      101.682,
+      109.2888
+    ]
+  },
+  {
+    "bbox": [
+      120.3,
+      326.26,
+      686.93,
+      500.74
+    ],
+    "label": "Text",
+    "content": "<p>台積公司致力降低產品水足跡，包括原物料製造及運輸、產品製造、測試與封裝等各階段，民國111年取得ISO 14046 第三方驗證，且每3年執行一次產品水足跡評估調查，</p>",
+    "bbox_pdf": [
+      43.308,
+      117.4536,
+      247.2948,
+      180.2664
+    ]
+  },
+  {
+    "bbox": [
+      120.3,
+      546.1,
+      517.82,
+      584.48
+    ],
+    "label": "Caption",
+    "content": "<p>產品水足跡分布圖 - 耗水指標</p>",
+    "bbox_pdf": [
+      43.308,
+      196.596,
+      186.4152,
+      210.4128
+    ]
+  },
+  {
+    "bbox": [
+      120.3,
+      600.19,
+      686.93,
+      987.51
+    ],
+    "label": "Figure",
+    "content": "<img alt=\"Pie chart showing product water footprint distribution by water consumption indicators. The chart indicates 79% is attributed to '台積公司晶圓製造階段' (TSMC Wafer Manufacturing Stage) and 21% is attributed to '原物料開採與製造階段' (Raw Material Mining and Manufacturing Stage).\"/>",
+    "bbox_pdf": [
+      43.308,
+      216.0684,
+      247.2948,
+      355.5036
+    ]
+  },
+  {
+    "bbox": [
+      742.73,
+      326.26,
+      1309.36,
+      922.96
+    ],
+    "label": "Text",
+    "content": "<p>依據民國110年調查結果顯示，耗水指標方面，台積公司廠區占79%，以廠內直接用水為主，原物料供應商則占21%，主要為化學品、原料矽晶圓及大宗氣體廠商；水質指標方面，台積公司廠區占47%、原物料供應商占53%，水汙染物質主要為懸浮固體、金屬物質及化學需氧量。台積公司除積極於製造過程降低水資源耗用與水汙染物排放外，同時輔導供應商透過每年永續管理自評問卷設定節水目標，並依《供應商行為準則》落實水資源使用與排放管控，從中檢視節水機會點並推動相關措施，詳細內容與成果請參閱「永續供應鏈管理」章節。</p>",
+    "bbox_pdf": [
+      267.3828,
+      117.4536,
+      471.3696,
+      332.2656
+    ]
+  },
+  {
+    "bbox": [
+      1361.67,
+      258.22,
+      1616.21,
+      300.09
+    ],
+    "label": "Section-Header",
+    "content": "<h2>拓展多元水資源</h2>",
+    "bbox_pdf": [
+      490.2012,
+      92.9592,
+      581.8356,
+      108.0324
+    ]
+  },
+  {
+    "bbox": [
+      1361.67,
+      324.52,
+      1924.81,
+      922.96
+    ],
+    "label": "Text",
+    "content": "<p>民國111年為台積公司再生水元年。為善用每一滴水資源，台積公司除積極落實製程節水外，亦致力投入再生水技術發展，為使水質符合先進製程規格與潔淨度需求，台積公司攜手產官學單位開發低能耗生物處理、低能耗汙泥處理、高效能尿素去除等創新技術，並透過多重且即時自動化監測確保再生水供應品質；民國111年9月「台積電南科再生水廠」正式啟用，成為台積公司南科廠區再生水製造、偵測與供應中心，截至12月總計供應38萬立方公尺工業再生水。為持續拓展多元水資源，預計民國112年台南安平再生水廠完工啟用，民國115年南科再生水廠產能將</p>",
+    "bbox_pdf": [
+      490.2012,
+      116.8272,
+      692.9316,
+      332.2656
+    ]
+  },
+  {
+    "bbox": [
+      1977.12,
+      324.52,
+      2543.75,
+      498.99
+    ],
+    "label": "Text",
+    "content": "<p>提升至每日供水3萬6,000立方公尺，降低自來水用量並友善環境。此外，台積公司亦創新系統設計，研發以廢熱進行濃縮廢水回收及汙泥資源化技術，降低濃排廢水外流。</p>",
+    "bbox_pdf": [
+      711.7632,
+      116.8272,
+      915.75,
+      179.6364
+    ]
+  },
+  {
+    "bbox": [
+      1977.12,
+      546.1,
+      2543.75,
+      865.38
+    ],
+    "label": "Text",
+    "content": "<p>民國111年，除南科再生水廠落成，台積公司同步啟動竹科再生水廠專案，持續擴大再生水應用範圍，預計民國114年每日可供水1萬立方公尺，未來導入2奈米製程廠區及配合市政再生水供應後，可達成竹科新建廠區100%使用再生水，強化組織營運韌性，落實水循環永續管理。</p>",
+    "bbox_pdf": [
+      711.7632,
+      196.596,
+      915.75,
+      311.5368
+    ]
+  },
+  {
+    "bbox": [
+      742.73,
+      971.81,
+      962.41,
+      1008.45
+    ],
+    "label": "Section-Header",
+    "content": "<h2>再生水導入時程</h2>",
+    "bbox_pdf": [
+      267.3828,
+      349.8516,
+      346.4676,
+      363.042
+    ]
+  },
+  {
+    "bbox": [
+      120.3,
+      1057.3,
+      517.82,
+      1090.45
+    ],
+    "label": "Caption",
+    "content": "<p>產品水足跡分布圖 - 水質指標</p>",
+    "bbox_pdf": [
+      43.308,
+      380.628,
+      186.4152,
+      392.562
+    ]
+  },
+  {
+    "bbox": [
+      120.3,
+      1109.65,
+      686.93,
+      1493.49
+    ],
+    "label": "Figure",
+    "content": "<img alt=\"Pie chart showing product water footprint distribution by water quality indicators. The chart indicates 47% is attributed to '台積公司晶圓製造階段' (TSMC Wafer Manufacturing Stage) and 53% is attributed to '原物料開採與製造階段' (Raw Material Mining and Manufacturing Stage).\"/>",
+    "bbox_pdf": [
+      43.308,
+      399.474,
+      247.2948,
+      537.6564
+    ]
+  },
+  {
+    "bbox": [
+      742.73,
+      1036.37,
+      2543.75,
+      1493.49
+    ],
+    "label": "Figure",
+    "content": "<img alt=\"Timeline showing the schedule for introducing recycled water. Key events include: 2021 (104): Launching recycled water technology R&amp;D plan; 2022 (105): Building a pilot recycled water plant and introducing wastewater testing; 2023 (109): Commencing construction of the Nankang recycled water plant; 2024 (111): Launching the Nantien recycled water plant; 2025 (112): Completion of the Nantien recycled water plant, providing 1 million cubic meters daily; 2026 (114): Completion of the Nankang recycled water plant, providing 1 million cubic meters daily; 2027 (115): Nankang recycled water plant total supply reaching 38 million cubic meters; 2028 (119): Taiwan plants achieving over 60% recycled water usage. A box highlights events in 2024 (111): Launching the Nankang recycled water plant project, Nankang recycled water system trial run, and Nankang recycled water plant completion, totaling 38 million cubic meters supply.\"/>",
+    "bbox_pdf": [
+      267.3828,
+      373.0932,
+      915.75,
+      537.6564
+    ]
+  },
+  {
+    "bbox": [
+      2501.91,
+      1570.25,
+      2543.75,
+      1594.68
+    ],
+    "label": "Page-Footer",
+    "content": "<p>113</p>",
+    "bbox_pdf": [
+      900.6876,
+      565.29,
+      915.75,
+      574.0848
+    ]
+  }
+]

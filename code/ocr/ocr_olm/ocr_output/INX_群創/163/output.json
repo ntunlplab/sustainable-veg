@@ -1,0 +1,42 @@
+{
+  "page": {
+    "width": 1754,
+    "height": 1241
+  },
+  "objects": [
+    {
+      "id": 1,
+      "text": "/職缺內部填補率註1/\n\n<table>\n  <tr>\n    <th>項目</th>\n    <th colspan=\"2\">2018</th>\n    <th colspan=\"2\">2019</th>\n    <th colspan=\"2\">2020</th>\n    <th colspan=\"2\">2021</th>\n    <th colspan=\"2\">2022</th>\n  </tr>\n  <tr>\n    <th></th>\n    <th>人數</th>\n    <th>新進率</th>\n    <th>人數</th>\n    <th>新進率</th>\n    <th>人數</th>\n    <th>新進率</th>\n    <th>人數</th>\n    <th>新進率</th>\n    <th>人數</th>\n    <th>新進率</th>\n  </tr>\n  <tr>\n    <td>填補率註2</td>\n    <td>14.98%</td>\n    <td>11.44%</td>\n    <td>1.54%</td>\n    <td>19.18%</td>\n    <td>3.79%</td>\n    <td>18.45%</td>\n    <td>9.55%</td>\n    <td>9.87%</td>\n    <td>9.69%</td>\n    <td>18.62%</td>\n  </tr>\n</table>\n\n註1：數據涵蓋範圍為台灣廠區。\n註2：計算公式：自行請調內轉核准員工數/(自行請調內轉核准員工數+外招新進員工數)*100%。",
+      "bbox": [
+        180,
+        204,
+        1572,
+        343
+      ],
+      "type": "table",
+      "bbox_pdf": [
+        86.39692282595139,
+        97.85358920162672,
+        754.5331260133089,
+        164.52833870665668
+      ]
+    },
+    {
+      "id": 2,
+      "text": "/2022年員工離職率分析/\n\n<table>\n  <tr>\n    <th rowspan=\"2\">性別</th>\n    <th rowspan=\"2\">年齡</th>\n    <th colspan=\"2\">台灣</th>\n    <th colspan=\"2\">寧波</th>\n    <th colspan=\"2\">佛山</th>\n    <th colspan=\"2\">南京</th>\n    <th colspan=\"2\">上海</th>\n    <th colspan=\"2\">海外其他</th>\n    <th colspan=\"2\">總計</th>\n  </tr>\n  <tr>\n    <th>人數</th>\n    <th>離職率</th>\n    <th>人數</th>\n    <th>離職率</th>\n    <th>人數</th>\n    <th>離職率</th>\n    <th>人數</th>\n    <th>離職率</th>\n    <th>人數</th>\n    <th>離職率</th>\n    <th>人數</th>\n    <th>離職率</th>\n    <th>人數</th>\n    <th>離職率</th>\n  </tr>\n  <tr>\n    <td rowspan=\"3\">女性</td>\n    <td><30歲</td>\n    <td>611</td>\n    <td>2.38%</td>\n    <td>2,073</td>\n    <td>22.35%</td>\n    <td>757</td>\n    <td>11.08%</td>\n    <td>479</td>\n    <td>14.95%</td>\n    <td>572</td>\n    <td>25.63%</td>\n    <td>3</td>\n    <td>1.08%</td>\n    <td>4,495</td>\n    <td>21.48%</td>\n  </tr>\n  <tr>\n    <td>30-50歲</td>\n    <td>993</td>\n    <td>3.87%</td>\n    <td>838</td>\n    <td>9.04%</td>\n    <td>456</td>\n    <td>6.67%</td>\n    <td>488</td>\n    <td>15.24%</td>\n    <td>558</td>\n    <td>25.01%</td>\n    <td>4</td>\n    <td>1.45%</td>\n    <td>3,337</td>\n    <td>16.18%</td>\n  </tr>\n  <tr>\n    <td>>50歲</td>\n    <td>15</td>\n    <td>0.06%</td>\n    <td>3</td>\n    <td>0.03%</td>\n    <td>3</td>\n    <td>0.04%</td>\n    <td>2</td>\n    <td>0.06%</td>\n    <td>12</td>\n    <td>0.54%</td>\n    <td>0</td>\n    <td>0.00%</td>\n    <td>35</td>\n    <td>0.15%</td>\n  </tr>\n  <tr>\n    <td rowspan=\"3\">男性</td>\n    <td><30歲</td>\n    <td>666</td>\n    <td>2.60%</td>\n    <td>4,907</td>\n    <td>52.91%</td>\n    <td>2,119</td>\n    <td>31.00%</td>\n    <td>1,290</td>\n    <td>40.27%</td>\n    <td>1,531</td>\n    <td>68.61%</td>\n    <td>4</td>\n    <td>1.45%</td>\n    <td>10,517</td>\n    <td>49.75%</td>\n  </tr>\n  <tr>\n    <td>30-50歲</td>\n    <td>1,003</td>\n    <td>3.91%</td>\n    <td>1,815</td>\n    <td>19.57%</td>\n    <td>807</td>\n    <td>11.81%</td>\n    <td>749</td>\n    <td>23.38%</td>\n    <td>302</td>\n    <td>13.53%</td>\n    <td>6</td>\n    <td>2.17%</td>\n    <td>4,682</td>\n    <td>23.12%</td>\n  </tr>\n  <tr>\n    <td>>50歲</td>\n    <td>40</td>\n    <td>0.16%</td>\n    <td>2</td>\n    <td>0.02%</td>\n    <td>1</td>\n    <td>0.01%</td>\n    <td>1</td>\n    <td>0.03%</td>\n    <td>4</td>\n    <td>0.18%</td>\n    <td>8</td>\n    <td>2.53%</td>\n    <td>56</td>\n    <td>3.09%</td>\n  </tr>\n  <tr>\n    <td>合計</td>\n    <td>3,328</td>\n    <td>12.97%</td>\n    <td>9,638</td>\n    <td>103.92%</td>\n    <td>4,143</td>\n    <td>60.61%</td>\n    <td>3,009</td>\n    <td>93.93%</td>\n    <td>2,979</td>\n    <td>133.50%</td>\n    <td>25</td>\n    <td>8.68%</td>\n    <td>23,122</td>\n    <td>113.77%</td>\n  </tr>\n</table>\n\n離職率計算公式：(台灣年離職人數/[(台灣年期初人數+台灣年期末人數)/2])*100%。\n(中國大陸各廠區年離職人數/[(中國大陸各廠區年期初人數+中國大陸各廠區年期末人數)/2])*100%。",
+      "bbox": [
+        180,
+        512,
+        1572,
+        937
+      ],
+      "type": "table",
+      "bbox_pdf": [
+        86.39692282595139,
+        245.59332191780823,
+        754.5331260133089,
+        449.4549660878639
+      ]
+    }
+  ]
+}

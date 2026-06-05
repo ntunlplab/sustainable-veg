@@ -1,0 +1,308 @@
+[
+  {
+    "sid": 1,
+    "code": "HC-BP-210a.1",
+    "topic": "Safety of Clinical Trial Participants",
+    "metricEn": "Discussion, by region, of management process for ensuring quality and patient safety during clinical trials",
+    "metric": "按區域說明確保臨床試驗品質與受試者安全的管理流程",
+    "category": "討論及分析",
+    "unit": "n/a"
+  },
+  {
+    "sid": 2,
+    "code": "HC-BP-210a.2",
+    "topic": "Safety of Clinical Trial Participants",
+    "metricEn": "Number of inspections related to clinical trial management and pharmacovigilance that resulted in: (1) entity voluntary remediation",
+    "metric": "與臨床試驗管理與藥物監測相關之稽查中，導致：(1) 實體自願性補救措施 的次數",
+    "category": "量化",
+    "unit": "Number"
+  },
+  {
+    "sid": 3,
+    "code": "HC-BP-210a.2",
+    "topic": "Safety of Clinical Trial Participants",
+    "metricEn": "Number of inspections related to clinical trial management and pharmacovigilance that resulted in: (2) regulatory or administrative actions taken against the entity",
+    "metric": "與臨床試驗管理與藥物監測相關之稽查中，導致：(2) 對實體採取監管或行政措施 的次數",
+    "category": "量化",
+    "unit": "Number"
+  },
+  {
+    "sid": 4,
+    "code": "HC-BP-210a.3",
+    "topic": "Safety of Clinical Trial Participants",
+    "metricEn": "Total amount of monetary losses as a result of legal proceedings associated with clinical trials in developing countries",
+    "metric": "因開發中國家臨床試驗相關訴訟所產生的金額損失總額",
+    "category": "量化",
+    "unit": "Presentation currency"
+  },
+  {
+    "sid": 5,
+    "code": "HC-BP-240a.1",
+    "topic": "Access to Medicines",
+    "metricEn": "Description of actions and initiatives to promote access to health care products for priority diseases and in priority countries as defined by the Access to Medicine Index",
+    "metric": "說明提升醫療產品可近性之行動與倡議，涵蓋 Access to Medicine Index 所定義的優先疾病與國家",
+    "category": "討論及分析",
+    "unit": "n/a"
+  },
+  {
+    "sid": 6,
+    "code": "HC-BP-240a.2",
+    "topic": "Access to Medicines",
+    "metricEn": "List of products on the WHO List of Prequalified Medicinal Products as part of its Prequalification of Medicines Programme (PQP)",
+    "metric": "列出納入世界衛生組織 (WHO) 藥品預認證計畫 (PQP) 的藥品清單",
+    "category": "討論及分析",
+    "unit": "n/a"
+  },
+  {
+    "sid": 7,
+    "code": "HC-BP-240b.2",
+    "topic": "Affordability & Pricing",
+    "metricEn": "Percentage change in: (1) weighted average list price across product portfolio compared to previous reporting period",
+    "metric": "產品組合中：(1) 加權平均定價 相較前一報告期間的變動百分比",
+    "category": "量化",
+    "unit": "Percentage (%)"
+  },
+  {
+    "sid": 8,
+    "code": "HC-BP-240b.2",
+    "topic": "Affordability & Pricing",
+    "metricEn": "Percentage change in: (2) weighted average net price across product portfolio compared to previous reporting period",
+    "metric": "產品組合中：(2) 加權平均淨價 相較前一報告期間的變動百分比",
+    "category": "量化",
+    "unit": "Percentage (%)"
+  },
+  {
+    "sid": 9,
+    "code": "HC-BP-240b.3",
+    "topic": "Affordability & Pricing",
+    "metricEn": "Percentage change in: (1) list price of product with largest increase compared to previous reporting period",
+    "metric": "相較前期，(1) 單一產品定價最高漲幅之變動百分比",
+    "category": "量化",
+    "unit": "Percentage (%)"
+  },
+  {
+    "sid": 10,
+    "code": "HC-BP-240b.3",
+    "topic": "Affordability & Pricing",
+    "metricEn": "Percentage change in: (2) net price of product with largest increase compared to previous reporting period",
+    "metric": "相較前期，(2) 單一產品淨價最高漲幅之變動百分比",
+    "category": "量化",
+    "unit": "Percentage (%)"
+  },
+  {
+    "sid": 11,
+    "code": "HC-BP-250a.1",
+    "topic": "Drug Safety",
+    "metricEn": "Products listed in public medical product safety or adverse event alert databases",
+    "metric": "被列入公開藥品安全或不良事件警示資料庫的產品",
+    "category": "討論及分析",
+    "unit": "n/a"
+  },
+  {
+    "sid": 12,
+    "code": "HC-BP-250a.2",
+    "topic": "Drug Safety",
+    "metricEn": "Number of fatalities associated with products",
+    "metric": "與產品相關的死亡事件數量",
+    "category": "量化",
+    "unit": "Number"
+  },
+  {
+    "sid": 13,
+    "code": "HC-BP-250a.3",
+    "topic": "Drug Safety",
+    "metricEn": "(1) Number of recalls issued",
+    "metric": "(1) 發布產品召回的次數",
+    "category": "量化",
+    "unit": "Number"
+  },
+  {
+    "sid": 14,
+    "code": "HC-BP-250a.3",
+    "topic": "Drug Safety",
+    "metricEn": "(2) Total units recalled",
+    "metric": "(2) 總召回產品單位數",
+    "category": "量化",
+    "unit": "Number"
+  },
+  {
+    "sid": 15,
+    "code": "HC-BP-250a.4",
+    "topic": "Drug Safety",
+    "metricEn": "Total amount of product accepted for take-back, reuse, or disposal",
+    "metric": "回收、重複使用或處置的產品總量",
+    "category": "量化",
+    "unit": "Metric tonnes (t)"
+  },
+  {
+    "sid": 16,
+    "code": "HC-BP-250a.5",
+    "topic": "Drug Safety",
+    "metricEn": "Number of enforcement actions taken in response to violations of good manufacturing practices (GMP) or equivalent standards, by type",
+    "metric": "因違反良好製造規範（GMP）或同等標準而採取之執法行動次數，按類型區分",
+    "category": "量化",
+    "unit": "Number"
+  },
+  {
+    "sid": 17,
+    "code": "HC-BP-260a.1",
+    "topic": "Counterfeit Drugs",
+    "metricEn": "Description of methods and technologies used to maintain traceability of products throughout the supply chain and prevent counterfeiting",
+    "metric": "說明於供應鏈中維持產品可追溯性並防範仿冒所採用的方法與技術",
+    "category": "討論及分析",
+    "unit": "n/a"
+  },
+  {
+    "sid": 18,
+    "code": "HC-BP-260a.2",
+    "topic": "Counterfeit Drugs",
+    "metricEn": "Discussion of process for alerting customers and business partners to potential or known risks associated with counterfeit products",
+    "metric": "說明針對偽藥風險之通報流程，包括對客戶與業務夥伴之提醒方式",
+    "category": "討論及分析",
+    "unit": "n/a"
+  },
+  {
+    "sid": 19,
+    "code": "HC-BP-260a.3",
+    "topic": "Counterfeit Drugs",
+    "metricEn": "Number of actions that led to raids, seizure, arrests, or filing of criminal charges related to counterfeit products",
+    "metric": "導致偽藥相關查緝、查扣、逮捕或提起刑事訴訟之執行行動次數",
+    "category": "量化",
+    "unit": "Number"
+  },
+  {
+    "sid": 20,
+    "code": "HC-BP-270a.1",
+    "topic": "Ethical Marketing",
+    "metricEn": "Total amount of monetary losses as a result of legal proceedings associated with false marketing claims",
+    "metric": "因虛假行銷主張所引發之法律訴訟造成的金額損失總額",
+    "category": "量化",
+    "unit": "Presentation currency"
+  },
+  {
+    "sid": 21,
+    "code": "HC-BP-270a.2",
+    "topic": "Ethical Marketing",
+    "metricEn": "Description of code of ethics governing promotion of off-label use of products",
+    "metric": "說明管控產品非標示用途推廣行為的倫理準則",
+    "category": "討論及分析",
+    "unit": "n/a"
+  },
+  {
+    "sid": 22,
+    "code": "HC-BP-330a.1",
+    "topic": "Employee Recruitment, Development & Retention",
+    "metricEn": "Discussion of talent recruitment and retention efforts for scientists and research and development staff",
+    "metric": "說明針對科學家與研發人員的人才招募與留任措施",
+    "category": "討論及分析",
+    "unit": "n/a"
+  },
+  {
+    "sid": 23,
+    "code": "HC-BP-330a.2",
+    "topic": "Employee Recruitment, Development & Retention",
+    "metricEn": "(1) Voluntary turnover rate for: (a) executives/senior managers",
+    "metric": "(1) 自願離職率：針對 (a) 高階主管",
+    "category": "量化",
+    "unit": "Percentage (%)"
+  },
+  {
+    "sid": 24,
+    "code": "HC-BP-330a.2",
+    "topic": "Employee Recruitment, Development & Retention",
+    "metricEn": "(1) Voluntary turnover rate for: (b) mid-level managers",
+    "metric": "(1) 自願離職率：針對 (b) 中階主管",
+    "category": "量化",
+    "unit": "Percentage (%)"
+  },
+  {
+    "sid": 25,
+    "code": "HC-BP-330a.2",
+    "topic": "Employee Recruitment, Development & Retention",
+    "metricEn": "(1) Voluntary turnover rate for: (c) professionals",
+    "metric": "(1) 自願離職率：針對 (c) 專業人員",
+    "category": "量化",
+    "unit": "Percentage (%)"
+  },
+  {
+    "sid": 26,
+    "code": "HC-BP-330a.2",
+    "topic": "Employee Recruitment, Development & Retention",
+    "metricEn": "(1) Voluntary turnover rate for: (d) all others",
+    "metric": "(1) 自願離職率：針對 (d) 其他類別員工",
+    "category": "量化",
+    "unit": "Percentage (%)"
+  },
+  {
+    "sid": 27,
+    "code": "HC-BP-330a.2",
+    "topic": "Employee Recruitment, Development & Retention",
+    "metricEn": "(2) Involuntary turnover rate for: (a) executives/senior managers",
+    "metric": "(2) 非自願離職率：針對 (a) 高階主管",
+    "category": "量化",
+    "unit": "Percentage (%)"
+  },
+  {
+    "sid": 28,
+    "code": "HC-BP-330a.2",
+    "topic": "Employee Recruitment, Development & Retention",
+    "metricEn": "(2) Involuntary turnover rate for: (b) mid-level managers",
+    "metric": "(2) 非自願離職率：針對 (b) 中階主管",
+    "category": "量化",
+    "unit": "Percentage (%)"
+  },
+  {
+    "sid": 29,
+    "code": "HC-BP-330a.2",
+    "topic": "Employee Recruitment, Development & Retention",
+    "metricEn": "(2) Involuntary turnover rate for: (c) professionals",
+    "metric": "(2) 非自願離職率：針對 (c) 專業人員",
+    "category": "量化",
+    "unit": "Percentage (%)"
+  },
+  {
+    "sid": 30,
+    "code": "HC-BP-330a.2",
+    "topic": "Employee Recruitment, Development & Retention",
+    "metricEn": "(2) Involuntary turnover rate for: (d) all others",
+    "metric": "(2) 非自願離職率：針對 (d) 其他類別員工",
+    "category": "量化",
+    "unit": "Percentage (%)"
+  },
+  {
+    "sid": 31,
+    "code": "HC-BP-430a.1",
+    "topic": "Supply Chain Management",
+    "metricEn": "Percentage of: (1) entity’s facilities participating in the Rx-360 International Pharmaceutical Supply Chain Consortium audit programme or equivalent third-party audit programmes for integrity of supply chain and ingredients",
+    "metric": "(1) 實體設施參與 Rx-360 或等效第三方稽核計畫（供應鏈與成分誠信）之比例",
+    "category": "量化",
+    "unit": "Percentage (%)"
+  },
+  {
+    "sid": 32,
+    "code": "HC-BP-430a.1",
+    "topic": "Supply Chain Management",
+    "metricEn": "Percentage of: (2) Tier I suppliers’ facilities participating in the Rx-360 International Pharmaceutical Supply Chain Consortium audit programme or equivalent third-party audit programmes for integrity of supply chain and ingredients",
+    "metric": "(2) 第一層供應商設施參與 Rx-360 或等效第三方稽核計畫（供應鏈與成分誠信）之比例",
+    "category": "量化",
+    "unit": "Percentage (%)"
+  },
+  {
+    "sid": 33,
+    "code": "HC-BP-510a.1",
+    "topic": "Business Ethics",
+    "metricEn": "Total amount of monetary losses as a result of legal proceedings associated with corruption and bribery",
+    "metric": "因貪污與賄賂相關法律訴訟所造成的金額損失總額",
+    "category": "量化",
+    "unit": "Presentation currency"
+  },
+  {
+    "sid": 34,
+    "code": "HC-BP-510a.2",
+    "topic": "Business Ethics",
+    "metricEn": "Description of code of ethics governing interactions with health care professionals",
+    "metric": "說明規範與醫療專業人員互動的倫理準則內容",
+    "category": "討論及分析",
+    "unit": "n/a"
+  }
+]

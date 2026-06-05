@@ -1,0 +1,306 @@
+[
+  {
+    "bbox": [
+      120.3,
+      20.94,
+      242.35,
+      113.41
+    ],
+    "label": "Page-Header",
+    "content": "TSMC",
+    "bbox_pdf": [
+      43.308,
+      7.5384,
+      87.246,
+      40.8276
+    ]
+  },
+  {
+    "bbox": [
+      258.04,
+      48.85,
+      538.74,
+      85.49
+    ],
+    "label": "Page-Header",
+    "content": "111年度永續報告書",
+    "bbox_pdf": [
+      92.8944,
+      17.586,
+      193.9464,
+      30.7764
+    ]
+  },
+  {
+    "bbox": [
+      1762.67,
+      22.68,
+      2057.32,
+      62.81
+    ],
+    "label": "Page-Header",
+    "content": "導言 實踐永續管理",
+    "bbox_pdf": [
+      634.5612,
+      8.1648,
+      740.6352,
+      22.6116
+    ]
+  },
+  {
+    "bbox": [
+      2099.16,
+      22.68,
+      2259.56,
+      62.81
+    ],
+    "label": "Page-Header",
+    "content": "營運與治理",
+    "bbox_pdf": [
+      755.6976,
+      8.1648,
+      813.4416,
+      22.6116
+    ]
+  },
+  {
+    "bbox": [
+      2292.69,
+      22.68,
+      2371.15,
+      62.81
+    ],
+    "label": "Page-Header",
+    "content": "附錄",
+    "bbox_pdf": [
+      825.3684,
+      8.1648,
+      853.614,
+      22.6116
+    ]
+  },
+  {
+    "bbox": [
+      2416.48,
+      22.68,
+      2548.98,
+      62.81
+    ],
+    "label": "Page-Header",
+    "content": "",
+    "bbox_pdf": [
+      869.9328,
+      8.1648,
+      917.6328,
+      22.6116
+    ]
+  },
+  {
+    "bbox": [
+      1386.07,
+      83.75,
+      1584.83,
+      111.66
+    ],
+    "label": "Page-Header",
+    "content": "追求創新的先行者",
+    "bbox_pdf": [
+      498.9852,
+      30.15,
+      570.5388,
+      40.1976
+    ]
+  },
+  {
+    "bbox": [
+      1631.91,
+      83.75,
+      1804.51,
+      111.66
+    ],
+    "label": "Page-Header",
+    "content": "負責任的採購者",
+    "bbox_pdf": [
+      587.4876,
+      30.15,
+      649.6236,
+      40.1976
+    ]
+  },
+  {
+    "bbox": [
+      1848.1,
+      83.75,
+      2046.86,
+      111.66
+    ],
+    "label": "Page-Header",
+    "content": "綠色力量的執行者",
+    "bbox_pdf": [
+      665.316,
+      30.15,
+      736.8696,
+      40.1976
+    ]
+  },
+  {
+    "bbox": [
+      2097.42,
+      83.75,
+      2324.07,
+      111.66
+    ],
+    "label": "Page-Header",
+    "content": "員工引以為傲的公司",
+    "bbox_pdf": [
+      755.0712,
+      30.15,
+      836.6652,
+      40.1976
+    ]
+  },
+  {
+    "bbox": [
+      2365.92,
+      83.75,
+      2548.98,
+      111.66
+    ],
+    "label": "Page-Header",
+    "content": "改變社會的力量",
+    "bbox_pdf": [
+      851.7312,
+      30.15,
+      917.6328,
+      40.1976
+    ]
+  },
+  {
+    "bbox": [
+      120.3,
+      324.52,
+      585.81,
+      359.41
+    ],
+    "label": "Section-Header",
+    "content": "台積公司廢棄物廠商管理發展時程",
+    "bbox_pdf": [
+      43.308,
+      116.8272,
+      210.8916,
+      129.3876
+    ]
+  },
+  {
+    "bbox": [
+      120.3,
+      375.12,
+      2548.98,
+      910.75
+    ],
+    "label": "Figure",
+    "content": "<p>Timeline of Waste Management Vendor Management Development (104 to 119):</p><ul><li>104: Establish new waste treatment vendor selection process, publish annual performance standards, establish dedicated GPS tracking team, execute annual vendor performance evaluation.</li><li>105: Strengthen annual vendor performance evaluation.</li><li>106: Establish centralized reporting process for waste treatment vendors.</li><li>107: Increase internal monitoring equipment utilization rate of vendors.</li><li>108: Establish centralized reporting process for waste treatment vendors.</li><li>109: Organize vendor waste management business consultation, complete automatic reporting platform integration with environmental monitoring, strengthen GPS tracking team, initiate vendor smart waste management plan, establish product flow reporting platform for reuse.</li><li>110: Waste treatment vendor annual evaluation revised, establish waste operation optimization specialists, build smart waste tracking platform (S.W.I.F.T.), promote environmental monitoring reporting for product flow.</li><li>111: Complete vendor ISO 14001 certification and S.W.I.F.T. setup (100%).</li><li>119: Achieve 100% vendor ISO 14001 certification and S.W.I.F.T. setup.</li></ul><p>Legend: Waste treatment vendor management, Waste treatment, Processing/reuse based on situation control, Reuse product delivery, Reuse product flow.</p>",
+    "bbox_pdf": [
+      43.308,
+      135.0432,
+      917.6328,
+      327.87
+    ]
+  },
+  {
+    "bbox": [
+      120.3,
+      947.39,
+      627.66,
+      982.28
+    ],
+    "label": "Section-Header",
+    "content": "民國 111 年廢棄物處理廠商評鑑結果",
+    "bbox_pdf": [
+      43.308,
+      341.0604,
+      225.9576,
+      353.6208
+    ]
+  },
+  {
+    "bbox": [
+      120.3,
+      1001.47,
+      1307.62,
+      1481.27
+    ],
+    "label": "Figure",
+    "content": "<p>Bar chart showing Waste Treatment Vendor Evaluation Results for 111 (107-111):</p><table><thead><tr><th>Year</th><th>Outstanding</th><th>Good</th><th>Adequate</th><th>Vendor Eliminated</th></tr></thead><tbody><tr><td>107</td><td>6 (36%)</td><td>19 (64%)</td><td>1</td><td>1</td></tr><tr><td>108</td><td>10 (26%)</td><td>15 (74%)</td><td>0</td><td>1</td></tr><tr><td>109</td><td>11 (25%)</td><td>33 (75%)</td><td>0</td><td>1</td></tr><tr><td>110</td><td>15 (23%)</td><td>48 (77%)</td><td>0</td><td>1</td></tr><tr><td>111</td><td>17 (20%)</td><td>69 (80%)</td><td>0</td><td>1</td></tr></tbody></table><p>Legend: Outstanding, Good, Adequate, Vendor Eliminated.</p>",
+    "bbox_pdf": [
+      43.308,
+      360.5292,
+      470.7432,
+      533.2572
+    ]
+  },
+  {
+    "bbox": [
+      120.3,
+      1503.95,
+      1293.67,
+      1530.12
+    ],
+    "label": "Text",
+    "content": "註：成績總分為 100 分制，≥ 90 分為「傑出」；80-89 分為「優良」；70-69 分為「及格」；&lt;60 分為淘汰廠商",
+    "bbox_pdf": [
+      43.308,
+      541.422,
+      465.7212,
+      550.8432
+    ]
+  },
+  {
+    "bbox": [
+      1365.15,
+      947.39,
+      2018.96,
+      982.28
+    ],
+    "label": "Section-Header",
+    "content": "廢棄物處理廠商取得 ISO 14001 環安衛驗證比例",
+    "bbox_pdf": [
+      491.454,
+      341.0604,
+      726.8256,
+      353.6208
+    ]
+  },
+  {
+    "bbox": [
+      1365.15,
+      1001.47,
+      2548.98,
+      1481.27
+    ],
+    "label": "Figure",
+    "content": "<p>Line chart showing Waste Treatment Vendor ISO 14001 Environmental Management System Certification Ratio (107-111):</p><table><thead><tr><th>Year</th><th>Number of Vendors Obtained</th><th>Certification Ratio (%)</th></tr></thead><tbody><tr><td>107</td><td>68</td><td>68</td></tr><tr><td>108</td><td>70</td><td>70</td></tr><tr><td>109</td><td>80</td><td>80</td></tr><tr><td>110</td><td>82</td><td>82</td></tr><tr><td>111</td><td>84</td><td>84</td></tr></tbody></table><p>Legend: Number of vendors obtained, Certification ratio (%).</p>",
+    "bbox_pdf": [
+      491.454,
+      360.5292,
+      917.6328,
+      533.2572
+    ]
+  },
+  {
+    "bbox": [
+      2501.91,
+      1570.25,
+      2548.98,
+      1596.42
+    ],
+    "label": "Page-Footer",
+    "content": "125",
+    "bbox_pdf": [
+      900.6876,
+      565.29,
+      917.6328,
+      574.7112
+    ]
+  }
+]

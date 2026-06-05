@@ -1,0 +1,9 @@
+{
+  "page": {
+    "width": 1754,
+    "height": 1241
+  },
+  "objects": [
+    {
+      "id": 1,
+      "text": "4.2 員工福利與照顧\n為創造良好和諧且具激勵之工作環境，本公司在規劃員工福利制度時，兼顧合法性及競爭力的原則，以期吸引、留任人才，並增進員工滿意度，提升其工作效能，近三年全體員工人數穩定維持 680 ± 3% 人，2022 年度主管留任率高達 94%。\n員工新進與離職率\n<table>\n<tr><th rowspan="2">2022年底在職人數</th><th colspan="6">新進</th><th colspan="6">離職</th></tr>\n<tr><th>到職人數</th><th>新進率</th><th>自願離職人數</th><th>非自願離職人數</th><th>離職人數</th><th>離職率</th></tr>\n<tr><th>年齡 / 性別</th><th>男</th><th>女</th><th>合計</th><th>男</th><th>女</th><th>合計</th><th>男</th><th>女</th><th>小計</th><th>男</th><th>女</th><th>合計</th></tr>\n<tr><td>21-30</td><td>62</td><td>30</td><td>92</td><td>41</td><td>16</td><td>57</td><td>66.1%</td><td>53.3%</td><td>62.0%</td><td>31</td><td>14</td><td>1</td><td>0</td><td>46</td><td>51.6%</td><td>46.7%</td><td>50.0%</td></tr>\n<tr><td>31-40</td><td>164</td><td>93</td><td>257</td><td>25</td><td>17</td><td>42</td><td>15.2%</td><td>18.3%</td><td>16.3%</td><td>35</td><td>16</td><td>0</td><td>0</td><td>51</td><td>21.3%</td><td>17.2%</td><td>19.8%</td></tr>\n<tr><td>41-50</td><td>169</td><td>65</td><td>234</td><td>4</td><td>4</td><td>8</td><td>2.4%</td><td>6.2%</td><td>3.4%</td><td>13</td><td>3</td><td>0</td><td>0</td><td>16</td><td>7.7%</td><td>4.6%</td><td>6.8%</td></tr>\n<tr><td>51-60</td><td>65</td><td>19</td><td>84</td><td>2</td><td>0</td><td>2</td><td>3.1%</td><td>0.0%</td><td>2.4%</td><td>3</td><td>1</td><td>1</td><td>0</td><td>5</td><td>6.2%</td><td>5.3%</td><td>6.0%</td></tr>\n<tr><td>60 以上</td><td>6</td><td>2</td><td>8</td><td>0</td><td>0</td><td>0</td><td>0.0%</td><td>0.0%</td><td>0.0%</td><td>4</td><td>0</td><td>0</td><td>0</td><td>4</td><td>66.7%</td

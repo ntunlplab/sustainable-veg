@@ -1,0 +1,242 @@
+[
+  {
+    "bbox": [
+      193.39,
+      109.66,
+      275.62,
+      156.87
+    ],
+    "label": "Page-Header",
+    "content": "<p>第五章<br/>公司治理</p>",
+    "bbox_pdf": [
+      69.6204,
+      39.4776,
+      99.2232,
+      56.4732
+    ]
+  },
+  {
+    "bbox": [
+      2028.35,
+      109.66,
+      2217.18,
+      156.87
+    ],
+    "label": "Page-Header",
+    "content": "<p>ALCHIP 2022<br/>永續報告書 35</p>",
+    "bbox_pdf": [
+      730.206,
+      39.4776,
+      798.1848,
+      56.4732
+    ]
+  },
+  {
+    "bbox": [
+      193.39,
+      286.33,
+      650.23,
+      351.82
+    ],
+    "label": "Section-Header",
+    "content": "<h2>CH5 幸福職場</h2>",
+    "bbox_pdf": [
+      69.6204,
+      103.0788,
+      234.0828,
+      126.6552
+    ]
+  },
+  {
+    "bbox": [
+      193.39,
+      417.31,
+      1137.52,
+      689.93
+    ],
+    "label": "Text",
+    "content": "<p>世芯電子身為提供專業 ASIC 設計及製造服務的科技公司，專業人才的延攬及培育成為世芯電子不可忽視的重要政策。為保障同仁在工作期間的權益，我們提供優於法規的保障政策及薪酬福利，並致力於維護健康、安全及衛生的工作場所。此外，我們亦積極培養專業科技人才，提供外部訓練機會供同仁進修並全額補貼，內部也會舉辦技能訓練工作坊，使同仁增進自身專業能力，讓世芯電子成為具競爭力的企業。</p>",
+    "bbox_pdf": [
+      69.6204,
+      150.2316,
+      409.5072,
+      248.3748
+    ]
+  },
+  {
+    "bbox": [
+      193.39,
+      764.56,
+      444.65,
+      808.72
+    ],
+    "label": "Section-Header",
+    "content": "<h3>5.1 員工概況</h3>",
+    "bbox_pdf": [
+      69.6204,
+      275.2416,
+      160.074,
+      291.1392
+    ]
+  },
+  {
+    "bbox": [
+      251.26,
+      869.64,
+      456.84,
+      901.63
+    ],
+    "label": "Section-Header",
+    "content": "<h4>5.1.1 員工結構</h4>",
+    "bbox_pdf": [
+      90.4536,
+      313.0704,
+      164.4624,
+      324.5868
+    ]
+  },
+  {
+    "bbox": [
+      193.39,
+      941.23,
+      1137.52,
+      1020.42
+    ],
+    "label": "Text",
+    "content": "<p>世芯電子 2022 年員工總人數為 115 人(僅包含臺北與新竹地區)，其中 2 人為臨時員工外，其餘皆為正式聘僱人員，另聘有 1 名身心障礙員工。</p>",
+    "bbox_pdf": [
+      69.6204,
+      338.8428,
+      409.5072,
+      367.3512
+    ]
+  },
+  {
+    "bbox": [
+      193.39,
+      1047.84,
+      347.2,
+      1081.34
+    ],
+    "label": "Section-Header",
+    "content": "<h5>■ 員工結構</h5>",
+    "bbox_pdf": [
+      69.6204,
+      377.2224,
+      124.992,
+      389.2824
+    ]
+  },
+  {
+    "bbox": [
+      193.39,
+      1096.57,
+      1137.52,
+      1495.61
+    ],
+    "label": "Table",
+    "content": "<table><thead><tr><th rowspan=\"2\">類組</th><th rowspan=\"2\">類別</th><th rowspan=\"2\">性別</th><th colspan=\"2\">臺北</th><th colspan=\"2\">新竹</th></tr><tr><th>人數</th><th>百分比</th><th>人數</th><th>百分比</th></tr></thead><tbody><tr><td rowspan=\"2\">總數</td><td rowspan=\"2\">員工總人數</td><td>男</td><td>26</td><td>22.6%</td><td>45</td><td>39.1%</td></tr><tr><td>女</td><td>19</td><td>16.5%</td><td>25</td><td>21.8%</td></tr><tr><td rowspan=\"2\">年齡</td><td rowspan=\"2\">30 歲以下</td><td>男</td><td>6</td><td>5.2%</td><td>3</td><td>2.6%</td></tr><tr><td>女</td><td>5</td><td>4.3%</td><td>7</td><td>6.1%</td></tr><tr><td rowspan=\"2\">年齡</td><td rowspan=\"2\">31 歲~50 歲</td><td>男</td><td>18</td><td>15.7%</td><td>33</td><td>28.7%</td></tr><tr><td>女</td><td>14</td><td>12.2%</td><td>17</td><td>14.8%</td></tr><tr><td rowspan=\"2\">年齡</td><td rowspan=\"2\">51 歲以上</td><td>男</td><td>2</td><td>1.7%</td><td>9</td><td>7.8%</td></tr><tr><td>女</td><td>0</td><td>0.0%</td><td>1</td><td>0.9%</td></tr></tbody></table>",
+    "bbox_pdf": [
+      69.6204,
+      394.7652,
+      409.5072,
+      538.4196
+    ]
+  },
+  {
+    "bbox": [
+      1207.57,
+      277.19,
+      2142.56,
+      1067.64
+    ],
+    "label": "Table",
+    "content": "<table><thead><tr><th rowspan=\"2\">類組</th><th rowspan=\"2\">類別</th><th rowspan=\"2\">性別</th><th colspan=\"2\">臺北</th><th colspan=\"2\">新竹</th></tr><tr><th>人數</th><th>百分比</th><th>人數</th><th>百分比</th></tr></thead><tbody><tr><td rowspan=\"4\">合約性質</td><td rowspan=\"2\">永久聘僱員工</td><td>男</td><td>26</td><td>22.6%</td><td>45</td><td>39.1%</td></tr><tr><td>女</td><td>18</td><td>15.7%</td><td>24</td><td>20.8%</td></tr><tr><td rowspan=\"2\">臨時員工</td><td>男</td><td>0</td><td>0.0%</td><td>0</td><td>0.0%</td></tr><tr><td>女</td><td>1</td><td>0.9%</td><td>1</td><td>0.9%</td></tr><tr><td rowspan=\"4\">聘僱性質</td><td rowspan=\"2\">無時數保證的員工</td><td>男</td><td>0</td><td>0.0%</td><td>0</td><td>0.0%</td></tr><tr><td>女</td><td>0</td><td>0.0%</td><td>0</td><td>0.0%</td></tr><tr><td rowspan=\"2\">全職員工</td><td>男</td><td>26</td><td>22.6%</td><td>45</td><td>39.1%</td></tr><tr><td>女</td><td>19</td><td>16.5%</td><td>25</td><td>21.8%</td></tr><tr><td rowspan=\"4\">弱勢族群</td><td rowspan=\"2\">身心障礙員工</td><td>男</td><td>0</td><td>0.0%</td><td>0</td><td>0.0%</td></tr><tr><td>女</td><td>0</td><td>0.0%</td><td>0</td><td>0.0%</td></tr><tr><td rowspan=\"2\">一般職員</td><td>男</td><td>16</td><td>13.9%</td><td>26</td><td>22.6%</td></tr><tr><td>女</td><td>10</td><td>8.7%</td><td>20</td><td>17.4%</td></tr><tr><td rowspan=\"4\">級別</td><td rowspan=\"2\">中階管理階層</td><td>男</td><td>7</td><td>6.1%</td><td>15</td><td>13.0%</td></tr><tr><td>女</td><td>8</td><td>7.0%</td><td>5</td><td>4.3%</td></tr><tr><td rowspan=\"2\">高階經理人</td><td>男</td><td>3</td><td>2.6%</td><td>4</td><td>3.5%</td></tr><tr><td>女</td><td>1</td><td>0.9%</td><td>0</td><td>0.0%</td></tr></tbody></table>",
+    "bbox_pdf": [
+      434.7252,
+      99.7884,
+      771.3216,
+      384.3504
+    ]
+  },
+  {
+    "bbox": [
+      1207.57,
+      1096.57,
+      1667.45,
+      1122.47
+    ],
+    "label": "Text",
+    "content": "<p># 註 1：統計期間為 2022/12/31 仍在職之員工。</p>",
+    "bbox_pdf": [
+      434.7252,
+      394.7652,
+      600.282,
+      404.0892
+    ]
+  },
+  {
+    "bbox": [
+      1207.57,
+      1157.5,
+      1408.58,
+      1191.0
+    ],
+    "label": "Section-Header",
+    "content": "<h5>■ 非員工工作者</h5>",
+    "bbox_pdf": [
+      434.7252,
+      416.7,
+      507.0888,
+      428.76
+    ]
+  },
+  {
+    "bbox": [
+      1207.57,
+      1209.28,
+      2142.56,
+      1340.26
+    ],
+    "label": "Table",
+    "content": "<table><thead><tr><th rowspan=\"2\">類別</th><th colspan=\"3\">臺北</th><th colspan=\"3\">新竹</th></tr><tr><th>男性</th><th>百分比</th><th>女性</th><th>百分比</th><th>男性</th><th>百分比</th><th>女性</th><th>百分比</th></tr></thead><tbody><tr><td>清潔人員</td><td>0</td><td>0.0%</td><td>1</td><td>33.3%</td><td>0</td><td>0.0%</td><td>2</td><td>66.7%</td></tr></tbody></table>",
+    "bbox_pdf": [
+      434.7252,
+      435.3408,
+      771.3216,
+      482.4936
+    ]
+  },
+  {
+    "bbox": [
+      1207.57,
+      1369.2,
+      1737.5,
+      1393.56
+    ],
+    "label": "Text",
+    "content": "<p># 註 1：統計期間為 2022/12/31 仍在職之非員工工作者</p>",
+    "bbox_pdf": [
+      434.7252,
+      492.912,
+      625.5,
+      501.6816
+    ]
+  },
+  {
+    "bbox": [
+      1207.57,
+      1395.09,
+      1699.43,
+      1420.98
+    ],
+    "label": "Text",
+    "content": "<p># 註 2：世芯電子委託第三方清潔公司聘僱清潔人員</p>",
+    "bbox_pdf": [
+      434.7252,
+      502.2324,
+      611.7948,
+      511.5528
+    ]
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "bbox": [
+      97.46,
+      274.23,
+      429.43,
+      313.84
+    ],
+    "label": "Section-Header",
+    "content": "<h3>危害辨識及風險評估</h3>",
+    "bbox_pdf": [
+      35.0856,
+      98.7228,
+      154.5948,
+      112.9824
+    ]
+  },
+  {
+    "bbox": [
+      97.46,
+      339.74,
+      1169.5,
+      490.57
+    ],
+    "label": "Text",
+    "content": "<p>昇陽公司針對各項廠內各部門之例行及非例行作業項目進行危害辨識與風險評估程序，透過危害嚴重度、發生頻率及事故機率等因子判定風險等級，鑑別出風險發生機會及嚴重程度，分析其造成衝擊之重大職安衛風險，訂定安全衛生管理目標、作業管制、緊急應變措施或教育訓練等風險控制措施之依據，藉此降低風險與避免事故發生。</p>",
+    "bbox_pdf": [
+      35.0856,
+      122.3064,
+      421.02,
+      176.6052
+    ]
+  },
+  {
+    "bbox": [
+      97.46,
+      560.65,
+      1189.3,
+      1116.73
+    ],
+    "label": "Figure",
+    "content": "<img alt=\"Flowchart illustrating the Hazard Identification and Risk Assessment process (5 steps): 1. Hazard Identification (危害風險鑑別), 2. Hazard Identification Details (包括職業災害, 法令規章修正, 作業程序變更, 新增設備, 相關者回饋), 3. Risk Assessment (可接受風險, 不可接受風險), 4. Risk Assessment Details (嚴重性評估, 發生機率分析), 5. Decision on Control Measures (決定控制措施).\"/>",
+    "bbox_pdf": [
+      35.0856,
+      201.834,
+      428.148,
+      402.0228
+    ]
+  },
+  {
+    "bbox": [
+      1285.23,
+      266.61,
+      1530.4,
+      307.75
+    ],
+    "label": "Section-Header",
+    "content": "<h3>變更管理 403-7</h3>",
+    "bbox_pdf": [
+      462.6828,
+      95.9796,
+      550.944,
+      110.79
+    ]
+  },
+  {
+    "bbox": [
+      1285.23,
+      359.55,
+      2203.47,
+      516.47
+    ],
+    "label": "Text",
+    "content": "<p>本公司為避免因人員、機械設備、物料、方法、環境等變更引起之相關安衛風險及環境衝擊，已建立變更管理程序執行必要的安全評估、相關人員告知 / 訓練，以及技術資料須作必要之更新等管理措施，降低潛在的風險，2022年變更管理評估案共計48件。</p>",
+    "bbox_pdf": [
+      462.6828,
+      129.438,
+      793.2492,
+      185.9292
+    ]
+  },
+  {
+    "bbox": [
+      1489.29,
+      495.14,
+      2142.56,
+      1128.92
+    ],
+    "label": "Figure",
+    "content": "<img alt=\"Flowchart illustrating the Change Management process: Change required (涉及人員、機械設備、物料、方法、環境等變更, 範疇需進行變更管理) leads to Review Unit Initiation (審查單位發起通知). This leads to Review Unit Content (審查單位審查內容). Review Unit Content leads to two paths: 1. Review Unit Confirmation (審查單位佐證確認), which leads to Change Management Review Passed (變更管理審查通過結案). 2. Review Unit Review (權責單位回覆變更內容及提供佐證資料), which leads back to Review Unit Content.\"/>",
+    "bbox_pdf": [
+      536.1444,
+      178.2504,
+      771.3216,
+      406.4112
+    ]
+  },
+  {
+    "bbox": [
+      1440.56,
+      1150.24,
+      2102.97,
+      1394.0
+    ],
+    "label": "Table",
+    "content": "<table><thead><tr><th>變更項目</th><th>件數</th></tr></thead><tbody><tr><td>製程生產/化學物質相關</td><td>7</td></tr><tr><td>設備、廠務系統相關</td><td>34</td></tr><tr><td>廠房擴建/Layout相關</td><td>1</td></tr><tr><td>管路異動相關</td><td>4</td></tr><tr><td>製程參數異動相關</td><td>2</td></tr></tbody></table>",
+    "bbox_pdf": [
+      518.6016,
+      414.0864,
+      757.0692,
+      501.84
+    ]
+  },
+  {
+    "bbox": [
+      2284.18,
+      1409.24,
+      2317.68,
+      1438.19
+    ],
+    "label": "Page-Footer",
+    "content": "75",
+    "bbox_pdf": [
+      822.3048,
+      507.3264,
+      834.3648,
+      517.7484
+    ]
+  }
+]

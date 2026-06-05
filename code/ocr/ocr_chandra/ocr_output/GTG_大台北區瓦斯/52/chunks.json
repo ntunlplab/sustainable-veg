@@ -1,0 +1,114 @@
+[
+  {
+    "bbox": [
+      189.52,
+      189.53,
+      622.4,
+      234.76
+    ],
+    "label": "Section-Header",
+    "content": "SASB 永續會計準則索引表",
+    "bbox_pdf": [
+      68.2272,
+      68.2308,
+      224.064,
+      84.5136
+    ]
+  },
+  {
+    "bbox": [
+      189.52,
+      243.38,
+      1421.41,
+      2145.16
+    ],
+    "label": "Table",
+    "content": "<table><thead><tr><th colspan=\"5\">SASB 產業重大主題指標</th></tr><tr><th>主題</th><th>指標代碼</th><th>指標性質</th><th>會計指標</th><th>指標揭露</th><th>頁碼</th></tr></thead><tbody><tr><td rowspan=\"5\">能源負擔能力</td><td rowspan=\"2\">IF-GU-240a.1</td><td rowspan=\"2\">量化</td><td>家庭客戶的平均零售價</td><td>10.38新台幣元/ <math>\\text{m}^3</math></td><td rowspan=\"2\">—</td></tr><tr><td>商業客戶平均零售價</td><td></td></tr><tr><td rowspan=\"2\">IF-GU-240a.2</td><td rowspan=\"2\">量化</td><td>家庭客戶的月平均天然氣費</td><td>301新台幣元</td><td rowspan=\"2\">—</td></tr><tr><td>因未付款而導致家庭客戶燃氣中斷的次數</td><td>109次/年</td></tr><tr><td>IF-GU-240a.3</td><td>量化</td><td>30天內重新復氣的百分比</td><td>26.61%</td><td>—</td></tr><tr><td rowspan=\"2\">最終使用效率</td><td rowspan=\"2\">IF GU 420a.1</td><td rowspan=\"2\">量化</td><td>討論外部因素對客戶天然氣支付能力的影響,包括服務區域的經濟狀況。</td><td>本公司天然氣供應單價調整需提送主管機關台北市議會通過。</td><td rowspan=\"2\">—</td></tr><tr><td>來自費率結構的天然氣公用事業收入的百分比</td><td>不適用</td></tr><tr><td rowspan=\"4\">天然氣輸送基礎設施的完整性</td><td rowspan=\"4\">IF-GU-540a.3</td><td rowspan=\"4\">量化</td><td>天然氣單價無區分尖峰離峰費率。</td><td></td><td rowspan=\"4\">—</td></tr><tr><td>本公司之客戶符合市(縣)政府社會局(處)獨居老人資格及中低收入戶者,換裝微電腦瓦斯表可減免每月5燈以下電錶表與一般機械表基本費差額。</td><td></td></tr><tr><td>客戶因市場效率措施而節省的天然氣</td><td></td></tr><tr><td></td><td></td></tr><tr><td rowspan=\"2\">天然氣輸送基礎設施的完整性</td><td rowspan=\"2\">IF GU 540a.1</td><td rowspan=\"2\">量化</td><td>可報告的管道事故</td><td>管線事故:0</td><td rowspan=\"2\">—</td></tr><tr><td>糾正行動令(CAO)</td><td>收到糾正公函:0</td></tr><tr><td rowspan=\"2\">天然氣輸送基礎設施的完整性</td><td rowspan=\"2\">IF GU 540a.2</td><td rowspan=\"2\">量化</td><td>可能違規通知(NOPV)</td><td>收到違規通知:0</td><td rowspan=\"2\">—</td></tr><tr><td>分配管道的百分比:</td><td>鑄鐵管比率:46.44%</td></tr><tr><td rowspan=\"2\">天然氣輸送基礎設施的完整性</td><td rowspan=\"2\">IF-GU-540a.3</td><td rowspan=\"2\">量化</td><td>鑄鐵和/或鍛鐵</td><td>鋼管比率:2.18%</td><td rowspan=\"2\">—</td></tr><tr><td>未受保護的鋼</td><td></td></tr><tr><td rowspan=\"3\">天然氣輸送基礎設施的完整性</td><td rowspan=\"3\">IF-GU-540a.3</td><td rowspan=\"3\">量化</td><td>高壓管線年度管巡計畫完成比率:100%</td><td></td><td rowspan=\"3\">—</td></tr><tr><td>氣體百分比:</td><td>中壓管線年度管巡計畫完成比率:100%</td></tr><tr><td>傳輸和檢查的天然氣輸配管道的百分比</td><td>低壓管線年度管巡計畫完成比率:100%</td></tr><tr><td rowspan=\"2\">天然氣輸送基礎設施的完整性</td><td rowspan=\"2\">IF-GU-540a.4</td><td rowspan=\"2\">量化</td><td>描述管理氣體輸送基礎設施完整性的工作的,包括與安全和排放相關的風險。</td><td>CH.5天然氣供應安全</td><td rowspan=\"2\">50</td></tr><tr><td></td><td></td></tr></tbody></table>",
+    "bbox_pdf": [
+      68.2272,
+      87.6168,
+      511.7076,
+      772.2576
+    ]
+  },
+  {
+    "bbox": [
+      1875.83,
+      243.38,
+      3101.25,
+      915.35
+    ],
+    "label": "Table",
+    "content": "<table><thead><tr><th colspan=\"5\">SASB 產業重大主題指標</th></tr><tr><th>主題</th><th>指標代碼</th><th>指標性質</th><th>會計指標</th><th>指標揭露</th><th>頁碼</th></tr></thead><tbody><tr><td rowspan=\"10\">天然氣輸送基礎設施的完整性</td><td rowspan=\"2\">IF GU 000.A</td><td rowspan=\"2\">量化</td><td>服務的客戶數量:</td><td>總客戶數:402,036戶</td><td rowspan=\"2\">—</td></tr><tr><td>住宅</td><td>家庭:391,957戶</td></tr><tr><td rowspan=\"2\">IF GU 000.A</td><td rowspan=\"2\">量化</td><td>商業</td><td>商業:10,078戶</td><td rowspan=\"2\">—</td></tr><tr><td>工業</td><td>工業:1戶</td></tr><tr><td rowspan=\"4\">活動指標 IF GU 000.B</td><td rowspan=\"4\">量化</td><td>天然氣輸送量:</td><td>全年度售氣量為196,637,248 <math>\\text{m}^3</math></td><td rowspan=\"4\">—</td></tr><tr><td>住宅</td><td>類別占比如下:</td></tr><tr><td>商業</td><td>住宅:50.2%</td></tr><tr><td>工業</td><td>商業:49.3%</td></tr><tr><td rowspan=\"2\">IF GU 000.C</td><td rowspan=\"2\">量化</td><td>轉讓給第三方</td><td>工業:0.5%</td><td rowspan=\"2\">—</td></tr><tr><td>管線總長度</td><td>轉讓給第三方:0</td></tr><tr><td rowspan=\"2\">IF GU 000.C</td><td rowspan=\"2\">量化</td><td></td><td>1,024,271 m</td><td rowspan=\"2\">—</td></tr><tr><td></td><td></td></tr></tbody></table>",
+    "bbox_pdf": [
+      675.2988,
+      87.6168,
+      1116.45,
+      329.526
+    ]
+  },
+  {
+    "bbox": [
+      1880.13,
+      1023.04,
+      2429.31,
+      1068.27
+    ],
+    "label": "Section-Header",
+    "content": "永續揭露指標 (SASB) - 油電燃氣業",
+    "bbox_pdf": [
+      676.8468,
+      368.2944,
+      874.5516,
+      384.5772
+    ]
+  },
+  {
+    "bbox": [
+      1880.13,
+      1079.04,
+      3101.25,
+      1914.71
+    ],
+    "label": "Table",
+    "content": "<table><thead><tr><th>編號</th><th>指標</th><th>指標種類</th><th>2022年度揭露情形</th><th>單位</th><th>備註</th></tr></thead><tbody><tr><td>01</td><td>在人口密集地區的煉油廠數量</td><td>量化</td><td>不適用</td><td>數量</td><td>本公司無煉油廠</td></tr><tr><td>02</td><td>總取水量及總耗水量</td><td>量化</td><td>總取水量14,179 (<math>\\text{m}^3</math>)</td><td>立方公尺 (<math>\\text{m}^3</math>)</td><td></td></tr><tr><td>03</td><td>所產生有害廢棄物之重量及回收百分比</td><td>量化</td><td>本公司所產生的廢棄物以廢料、廢金屬為主,非有害廢棄物;百分比不適用</td><td>公噸(t)<br/>百分比(%)</td><td>廢料主要為廢管材、廢管件及廢瓦斯表為主,廢棄主因為超過使用年限及損毀,故無固定回收之百分比。</td></tr><tr><td>04</td><td>說明職業災害人數及比率</td><td>量化</td><td>2022年度並無職災產生,0%</td><td>比率(%)<br/>數量</td><td></td></tr><tr><td>05</td><td>重大事件之風險質化敘述</td><td>質化敘述</td><td>詳氣候相關資訊之一至六</td><td>不適用</td><td>管理政策</td></tr><tr><td>06</td><td>依產品類別之主要產品產量</td><td>量化</td><td>本公司主要產品為天然氣,2022年度計畫量196,637,248 (<math>\\text{m}^3</math>)</td><td>(<math>\\text{m}^3</math>)</td><td></td></tr></tbody></table>",
+    "bbox_pdf": [
+      676.8468,
+      388.4544,
+      1116.45,
+      689.2956
+    ]
+  },
+  {
+    "bbox": [
+      73.22,
+      2179.62,
+      135.68,
+      2229.16
+    ],
+    "label": "Page-Footer",
+    "content": "100",
+    "bbox_pdf": [
+      26.3592,
+      784.6632,
+      48.8448,
+      802.4976
+    ]
+  },
+  {
+    "bbox": [
+      3161.55,
+      2179.62,
+      3224.01,
+      2229.16
+    ],
+    "label": "Page-Footer",
+    "content": "101",
+    "bbox_pdf": [
+      1138.158,
+      784.6632,
+      1160.6436,
+      802.4976
+    ]
+  }
+]

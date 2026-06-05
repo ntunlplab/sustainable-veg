@@ -1,0 +1,130 @@
+[
+  {
+    "bbox": [
+      2243.06,
+      228.45,
+      2339.0,
+      336.59
+    ],
+    "label": "Page-Header",
+    "content": "6",
+    "bbox_pdf": [
+      807.5016,
+      82.242,
+      842.04,
+      121.1724
+    ]
+  },
+  {
+    "bbox": [
+      2252.2,
+      400.55,
+      2288.75,
+      456.91
+    ],
+    "label": "Page-Header",
+    "content": "附錄",
+    "bbox_pdf": [
+      810.792,
+      144.198,
+      823.95,
+      164.4876
+    ]
+  },
+  {
+    "bbox": [
+      271.06,
+      261.96,
+      2051.19,
+      712.77
+    ],
+    "label": "Table",
+    "content": "<table><thead><tr><th rowspan=\"3\">廠區註2</th><th rowspan=\"3\">項目</th><th colspan=\"3\">主管人員註3</th><th rowspan=\"3\">專業人員註3</th><th rowspan=\"3\">行政人員註3</th><th rowspan=\"3\">技術人員註3</th><th rowspan=\"3\">總計</th></tr><tr><th>基層</th><th>中階</th><th>高階</th></tr><tr><th>女性</th><th>男性</th><th>女性</th><th>男性</th><th>女性</th><th>男性</th></tr></thead><tbody><tr><td rowspan=\"8\">上海</td><td rowspan=\"2\">&lt;30歲</td><td>女性</td><td>0</td><td>0</td><td>0</td><td>8</td><td>0</td><td>269</td><td>277</td></tr><tr><td>男性</td><td>0</td><td>0</td><td>0</td><td>31</td><td>1</td><td>658</td><td>690</td></tr><tr><td rowspan=\"2\">30-50歲</td><td>女性</td><td>10</td><td>0</td><td>0</td><td>37</td><td>28</td><td>953</td><td>1,028</td></tr><tr><td>男性</td><td>21</td><td>0</td><td>0</td><td>72</td><td>5</td><td>359</td><td>457</td></tr><tr><td rowspan=\"2\">&gt;50歲</td><td>女性</td><td>3</td><td>0</td><td>0</td><td>1</td><td>0</td><td>17</td><td>21</td></tr><tr><td>男性</td><td>6</td><td>0</td><td>0</td><td>2</td><td>3</td><td>7</td><td>18</td></tr><tr><td colspan=\"2\">人數合計</td><td>40</td><td>0</td><td>0</td><td>151</td><td>37</td><td>2,263</td><td>2,491</td></tr><tr><td colspan=\"2\">比例%</td><td>1.61%</td><td>0.00%</td><td>0.00%</td><td>6.06%</td><td>1.49%</td><td>90.85%</td><td>100%</td></tr></tbody></table>",
+    "bbox_pdf": [
+      97.5816,
+      94.3056,
+      738.4284,
+      256.5972
+    ]
+  },
+  {
+    "bbox": [
+      271.06,
+      744.76,
+      2051.19,
+      1187.96
+    ],
+    "label": "Table",
+    "content": "<table><thead><tr><th rowspan=\"3\">廠區註2</th><th rowspan=\"3\">項目</th><th colspan=\"3\">主管人員註3</th><th rowspan=\"3\">專業人員註3</th><th rowspan=\"3\">行政人員註3</th><th rowspan=\"3\">技術人員註3</th><th rowspan=\"3\">總計</th></tr><tr><th>基層</th><th>中階</th><th>高階</th></tr><tr><th>女性</th><th>男性</th><th>女性</th><th>男性</th><th>女性</th><th>男性</th></tr></thead><tbody><tr><td rowspan=\"8\">海外其他</td><td rowspan=\"2\">&lt;30歲</td><td>女性</td><td>0</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>3</td></tr><tr><td>男性</td><td>0</td><td>0</td><td>0</td><td>7</td><td>1</td><td>0</td><td>8</td></tr><tr><td rowspan=\"2\">30-50歲</td><td>女性</td><td>0</td><td>0</td><td>0</td><td>13</td><td>7</td><td>0</td><td>20</td></tr><tr><td>男性</td><td>3</td><td>0</td><td>0</td><td>94</td><td>4</td><td>0</td><td>101</td></tr><tr><td rowspan=\"2\">&gt;50歲</td><td>女性</td><td>0</td><td>0</td><td>0</td><td>6</td><td>6</td><td>0</td><td>12</td></tr><tr><td>男性</td><td>10</td><td>6</td><td>0</td><td>119</td><td>5</td><td>0</td><td>140</td></tr><tr><td colspan=\"2\">人數合計</td><td>13</td><td>6</td><td>0</td><td>242</td><td>23</td><td>0</td><td>284</td></tr><tr><td colspan=\"2\">比例%</td><td>4.58%</td><td>2.11%</td><td>0.00%</td><td>85.21%</td><td>8.10%</td><td>0.00%</td><td>100%</td></tr></tbody></table>",
+    "bbox_pdf": [
+      97.5816,
+      268.1136,
+      738.4284,
+      427.6656
+    ]
+  },
+  {
+    "bbox": [
+      271.06,
+      1216.89,
+      682.21,
+      1241.26
+    ],
+    "label": "Text",
+    "content": "註1：資料基準日為2022年12月31日在職人力。",
+    "bbox_pdf": [
+      97.5816,
+      438.0804,
+      245.5956,
+      446.8536
+    ]
+  },
+  {
+    "bbox": [
+      271.06,
+      1247.35,
+      1539.54,
+      1271.72
+    ],
+    "label": "Text",
+    "content": "註2：台灣廠區之當地主管係指台灣籍主管人員；中國大陸廠區之當地主管係指中國籍主管人員；海外其它之當地主管係指台灣籍以外之主管人員。",
+    "bbox_pdf": [
+      97.5816,
+      449.046,
+      554.2344,
+      457.8192
+    ]
+  },
+  {
+    "bbox": [
+      271.06,
+      1277.81,
+      2002.46,
+      1302.18
+    ],
+    "label": "Text",
+    "content": "註3：人員定義：基層管理人員為副理級與經理級；中階主管為總廠處與廠處；高階管理人員為CEO以下2層主管；專業人員為工程技術類人員；行政人員為行政事務類人員；技術人員為直接生產人員。",
+    "bbox_pdf": [
+      97.5816,
+      460.0116,
+      720.8856,
+      468.7848
+    ]
+  },
+  {
+    "bbox": [
+      2238.5,
+      1535.2,
+      2288.75,
+      1562.62
+    ],
+    "label": "Page-Footer",
+    "content": "161",
+    "bbox_pdf": [
+      805.86,
+      552.672,
+      823.95,
+      562.5432
+    ]
+  }
+]

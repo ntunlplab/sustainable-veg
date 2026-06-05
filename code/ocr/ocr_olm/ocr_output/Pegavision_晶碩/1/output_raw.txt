@@ -1,0 +1,14 @@
+{
+  "page": {
+    "width": 1241,
+    "height": 1754
+  },
+  "objects": [
+    {
+      "id": 1,
+      "text": "2022\nPEGAVISION 晶碩光學\n永續報告書\nPEGAVISION CORPORATION 2022 ESG REPORT\nCORPORATE SOCIAL RESPONSIBILITY",
+      "bbox": [689, 223, 1000, 1022],
+      "type": "paragraph"
+    }
+  ]
+}

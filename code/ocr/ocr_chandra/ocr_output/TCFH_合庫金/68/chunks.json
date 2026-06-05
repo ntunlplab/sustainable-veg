@@ -1,0 +1,114 @@
+[
+  {
+    "bbox": [
+      95.94,
+      70.06,
+      417.24,
+      120.32
+    ],
+    "label": "Page-Header",
+    "content": "合庫金控<br/>TAIWAN COOPERATIVE HOLDINGS",
+    "bbox_pdf": [
+      34.5384,
+      25.2216,
+      150.2064,
+      43.3152
+    ]
+  },
+  {
+    "bbox": [
+      476.63,
+      73.1,
+      2171.49,
+      121.84
+    ],
+    "label": "Page-Header",
+    "content": "獎項與肯定 永續績效 永續倡議與評比 關於合庫金控 永續發展治理 公司治理 永續金融 客戶承諾 員工照護 環境永續 社會共融 附錄",
+    "bbox_pdf": [
+      171.5868,
+      26.316,
+      781.7364,
+      43.8624
+    ]
+  },
+  {
+    "bbox": [
+      150.76,
+      211.7,
+      695.91,
+      258.91
+    ],
+    "label": "Section-Header",
+    "content": "<h2>強化防制洗錢及打擊資恐能力</h2>",
+    "bbox_pdf": [
+      54.2736,
+      76.212,
+      250.5276,
+      93.2076
+    ]
+  },
+  {
+    "bbox": [
+      150.76,
+      278.71,
+      2176.06,
+      402.08
+    ],
+    "label": "Text",
+    "content": "<p>為強化同仁對防制洗錢及打擊資恐相關法令制度之認知，2022年集團舉辦相關教育訓練共計45,363人次參與，總受訓時數約106,495小時，每年亦就董監事、高階主管及員工辦理防制洗錢及打擊資恐相關教育訓練。本集團亦鼓勵員工取得國際反洗錢師（Certified Anti-Money Laundering Specialist, CAMS）及國內防制洗錢與打擊資恐專業人員證照。截至2022年底，集團內已有6,435人取得證照，占總集團員工人數72.47%。</p>",
+    "bbox_pdf": [
+      54.2736,
+      100.3356,
+      783.3816,
+      144.7488
+    ]
+  },
+  {
+    "bbox": [
+      173.6,
+      461.48,
+      933.47,
+      498.03
+    ],
+    "label": "Caption",
+    "content": "<h3>合庫集團 2022 年度防制洗錢及打擊資恐教育訓練統計表</h3>",
+    "bbox_pdf": [
+      62.496,
+      166.1328,
+      336.0492,
+      179.2908
+    ]
+  },
+  {
+    "bbox": [
+      150.76,
+      542.2,
+      2171.49,
+      1491.04
+    ],
+    "label": "Table",
+    "content": "<table><thead><tr><th rowspan=\"2\"></th><th colspan=\"2\">金控</th><th colspan=\"2\">銀行</th><th colspan=\"2\">票券</th><th colspan=\"2\">證券</th><th colspan=\"2\">投信</th><th colspan=\"2\">人壽</th><th colspan=\"2\">資產管理</th><th colspan=\"2\">創投</th></tr><tr><th>時數</th><th>人次</th><th>時數</th><th>人次</th><th>時數</th><th>人次</th><th>時數</th><th>人次</th><th>時數</th><th>人次</th><th>時數</th><th>人次</th><th>時數</th><th>人次</th><th>時數</th><th>人次</th></tr></thead><tbody><tr><td>在網路上用案例檢討的方式培訓</td><td>0</td><td>0</td><td>15,079</td><td>4,824</td><td>0</td><td>0</td><td>1,604</td><td>802</td><td>0</td><td>0</td><td>793</td><td>315</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>在網路上用自我評估的方式培訓</td><td>0</td><td>0</td><td>2,618</td><td>7,863</td><td>0</td><td>0</td><td>572</td><td>381</td><td>0</td><td>0</td><td>717</td><td>239</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>在網路上由法遵/法務部門負責的集體訓練</td><td>0</td><td>0</td><td>29,187</td><td>16,364</td><td>0</td><td>0</td><td>1,604</td><td>802</td><td>0</td><td>0</td><td>793</td><td>315</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>由法遵/法務部門辦理實體的培訓</td><td>154</td><td>77</td><td>9,199</td><td>1,248</td><td>207</td><td>193</td><td>0</td><td>0</td><td>155</td><td>93</td><td>0</td><td>0</td><td>88</td><td>88</td><td>12</td><td>12</td></tr><tr><td>由外部專家辦理實體的培訓</td><td>0</td><td>0</td><td>6,078</td><td>643</td><td>132</td><td>13</td><td>0</td><td>0</td><td>37</td><td>3</td><td>0</td><td>0</td><td>36</td><td>3</td><td>0</td><td>0</td></tr><tr><td>強制每年都要參與培訓</td><td>0</td><td>0</td><td>34,405</td><td>9,650</td><td>132</td><td>13</td><td>2,176</td><td>1,183</td><td>0</td><td>0</td><td>717</td><td>239</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>合計</td><td>154</td><td>77</td><td>96,566</td><td>40,592</td><td>471</td><td>219</td><td>5,956</td><td>3,168</td><td>192</td><td>96</td><td>3,020</td><td>1,108</td><td>124</td><td>91</td><td>12</td><td>12</td></tr></tbody></table>",
+    "bbox_pdf": [
+      54.2736,
+      195.192,
+      781.7364,
+      536.7744
+    ]
+  },
+  {
+    "bbox": [
+      2233.93,
+      1568.71,
+      2284.18,
+      1602.22
+    ],
+    "label": "Page-Footer",
+    "content": "066",
+    "bbox_pdf": [
+      804.2148,
+      564.7356,
+      822.3048,
+      576.7992
+    ]
+  }
+]

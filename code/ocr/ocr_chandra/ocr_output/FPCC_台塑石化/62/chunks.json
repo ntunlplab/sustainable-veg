@@ -1,0 +1,386 @@
+[
+  {
+    "bbox": [
+      147.73,
+      41.12,
+      313.74,
+      97.46
+    ],
+    "label": "Page-Header",
+    "content": "<p>CH1<br/>開創 產業新發展</p>",
+    "bbox_pdf": [
+      53.1828,
+      14.8032,
+      112.9464,
+      35.0856
+    ]
+  },
+  {
+    "bbox": [
+      412.74,
+      41.12,
+      560.47,
+      97.46
+    ],
+    "label": "Page-Header",
+    "content": "<p>CH2<br/>實踐 綠色新樣貌</p>",
+    "bbox_pdf": [
+      148.5864,
+      14.8032,
+      201.7692,
+      35.0856
+    ]
+  },
+  {
+    "bbox": [
+      659.47,
+      41.12,
+      808.72,
+      97.46
+    ],
+    "label": "Page-Header",
+    "content": "<p>CH3<br/>深化 工安新文化</p>",
+    "bbox_pdf": [
+      237.4092,
+      14.8032,
+      291.1392,
+      35.0856
+    ]
+  },
+  {
+    "bbox": [
+      909.24,
+      41.12,
+      1053.93,
+      97.46
+    ],
+    "label": "Page-Header",
+    "content": "<p>CH4<br/>培育 人才新思維</p>",
+    "bbox_pdf": [
+      327.3264,
+      14.8032,
+      379.4148,
+      35.0856
+    ]
+  },
+  {
+    "bbox": [
+      1152.93,
+      41.12,
+      1297.61,
+      97.46
+    ],
+    "label": "Page-Header",
+    "content": "<p>CH5<br/>連結 社區新價值</p>",
+    "bbox_pdf": [
+      415.0548,
+      14.8032,
+      467.1396,
+      35.0856
+    ]
+  },
+  {
+    "bbox": [
+      1449.92,
+      56.34,
+      1491.04,
+      82.23
+    ],
+    "label": "Page-Header",
+    "content": "<p>附錄</p>",
+    "bbox_pdf": [
+      521.9712,
+      20.2824,
+      536.7744,
+      29.6028
+    ]
+  },
+  {
+    "bbox": [
+      147.73,
+      228.42,
+      577.22,
+      274.1
+    ],
+    "label": "Section-Header",
+    "content": "<h3>● 圖區_空氣品質評估：</h3>",
+    "bbox_pdf": [
+      53.1828,
+      82.2312,
+      207.7992,
+      98.676
+    ]
+  },
+  {
+    "bbox": [
+      147.73,
+      310.65,
+      1469.71,
+      398.97
+    ],
+    "label": "Text",
+    "content": "<p>六輕廠區針對空氣品質，打造由內往外八層密集監控的環境監測網，以利儘速追查排放源，確保當地環境品質。</p>",
+    "bbox_pdf": [
+      53.1828,
+      111.834,
+      529.0956,
+      143.6292
+    ]
+  },
+  {
+    "bbox": [
+      147.73,
+      444.65,
+      827.0,
+      485.77
+    ],
+    "label": "Section-Header",
+    "content": "<h4>六輕廠區八層環境監測網環境地理位置示意圖</h4>",
+    "bbox_pdf": [
+      53.1828,
+      160.074,
+      297.72,
+      174.8772
+    ]
+  },
+  {
+    "bbox": [
+      147.73,
+      508.61,
+      820.91,
+      1043.11
+    ],
+    "label": "Figure",
+    "content": "<img alt=\"Map showing the location of air quality monitoring stations (EPA and local) around the Linyuan Industrial Park, with concentric circles indicating the monitoring layers (15KM, 5KM, 20KM, 30KM, 40KM).\"/>",
+    "bbox_pdf": [
+      53.1828,
+      183.0996,
+      295.5276,
+      375.5196
+    ]
+  },
+  {
+    "bbox": [
+      283.28,
+      1059.86,
+      686.88,
+      1091.84
+    ],
+    "label": "Caption",
+    "content": "<p>六輕廠區空品測站、環保署空品測站</p>",
+    "bbox_pdf": [
+      101.9808,
+      381.5496,
+      247.2768,
+      393.0624
+    ]
+  },
+  {
+    "bbox": [
+      979.3,
+      444.65,
+      1347.87,
+      485.77
+    ],
+    "label": "Section-Header",
+    "content": "<h4>廠區內監測設備設置地點</h4>",
+    "bbox_pdf": [
+      352.548,
+      160.074,
+      485.2332,
+      174.8772
+    ]
+  },
+  {
+    "bbox": [
+      846.8,
+      508.61,
+      1489.51,
+      840.58
+    ],
+    "label": "Figure",
+    "content": "<img alt=\"Diagram showing the layout of monitoring equipment inside the factory area, including FTIR fixed stations, FTIR mobile stations, and CEMS installations, with specific station numbers and locations marked.\"/>",
+    "bbox_pdf": [
+      304.848,
+      183.0996,
+      536.2236,
+      302.6088
+    ]
+  },
+  {
+    "bbox": [
+      854.41,
+      854.28,
+      1489.51,
+      1084.22
+    ],
+    "label": "List-Group",
+    "content": "<ol><li>於廠周界設置8套固定式FTIR監測站，並搭配廠區內6套機動式FTIR，有效監測廠區內、外VOC逸散情形。</li><li>廠內製程區設置8,109個氣體偵測器，異常時立即通知並加以處理，源頭管制洩露問題。</li><li>廠內34支大型排放管道裝設CEMS並與環保局連線，提供即時監測數據，有效管制。</li></ol>",
+    "bbox_pdf": [
+      307.5876,
+      307.5408,
+      536.2236,
+      390.3192
+    ]
+  },
+  {
+    "bbox": [
+      147.73,
+      1160.36,
+      654.9,
+      1206.05
+    ],
+    "label": "Section-Header",
+    "content": "<h3>● VOCs 減量及異味管制推動</h3>",
+    "bbox_pdf": [
+      53.1828,
+      417.7296,
+      235.764,
+      434.178
+    ]
+  },
+  {
+    "bbox": [
+      147.73,
+      1244.12,
+      939.7,
+      1484.72
+    ],
+    "label": "Text",
+    "content": "<p>麥寮園區是全國第一個實施總量管制的工業園區，各項污染物皆符合環評要求，並持續積極推動各種揮發性有機物(Volatile organic compounds, VOCs)的減量改善作業。<br/>台塑石化累積至2022年改善件數共51件，投資金額約36.3億元。</p>",
+    "bbox_pdf": [
+      53.1828,
+      447.8832,
+      338.292,
+      534.4992
+    ]
+  },
+  {
+    "bbox": [
+      1049.36,
+      1201.48,
+      1111.8,
+      1276.1
+    ],
+    "label": "Image",
+    "content": "<img alt=\"Icon representing accumulated improvement cases.\"/>",
+    "bbox_pdf": [
+      377.7696,
+      432.5328,
+      400.248,
+      459.396
+    ]
+  },
+  {
+    "bbox": [
+      1127.03,
+      1216.71,
+      1393.56,
+      1262.39
+    ],
+    "label": "Text",
+    "content": "<p>51 件 累積改善件數</p>",
+    "bbox_pdf": [
+      405.7308,
+      438.0156,
+      501.6816,
+      454.4604
+    ]
+  },
+  {
+    "bbox": [
+      1044.79,
+      1356.8,
+      1104.19,
+      1449.69
+    ],
+    "label": "Image",
+    "content": "<img alt=\"Icon representing accumulated investment amount.\"/>",
+    "bbox_pdf": [
+      376.1244,
+      488.448,
+      397.5084,
+      521.8884
+    ]
+  },
+  {
+    "bbox": [
+      1127.03,
+      1384.21,
+      1451.44,
+      1429.9
+    ],
+    "label": "Text",
+    "content": "<p>36.3 億 累積投資金額</p>",
+    "bbox_pdf": [
+      405.7308,
+      498.3156,
+      522.5184,
+      514.764
+    ]
+  },
+  {
+    "bbox": [
+      147.73,
+      1541.06,
+      703.64,
+      1589.79
+    ],
+    "label": "Section-Header",
+    "content": "<h3>● 歷年 VOCs 減量改善執行情形</h3>",
+    "bbox_pdf": [
+      53.1828,
+      554.7816,
+      253.3104,
+      572.3244
+    ]
+  },
+  {
+    "bbox": [
+      147.73,
+      1618.72,
+      1489.51,
+      2125.81
+    ],
+    "label": "Table",
+    "content": "<table><thead><tr><th rowspan=\"2\">項目</th><th colspan=\"4\">年度</th><th rowspan=\"2\">累計量 1999~2022 年</th></tr><tr><th>2019 年</th><th>2020 年</th><th>2021 年</th><th>2022 年</th></tr></thead><tbody><tr><td>改善件數</td><td>1</td><td>3</td><td>1</td><td>1</td><td>51</td></tr><tr><td>排放管道 (噸)</td><td>0.14</td><td>145.42</td><td>0</td><td>0</td><td>174.46</td></tr><tr><td>設備元件 (噸)</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5.25</td></tr><tr><td>儲槽 (噸)</td><td>0</td><td>0</td><td>130.2</td><td>36.42</td><td>261.16</td></tr><tr><td>裝載設施 (噸)</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0.31</td></tr><tr><td>合計 (噸)</td><td>0.14</td><td>145.42</td><td>130.2</td><td>36.42</td><td>441.18</td></tr><tr><td>投資金額 (千元)</td><td>309,700</td><td>200,240</td><td>361,123</td><td>219,656</td><td>3,630,898</td></tr></tbody></table>",
+    "bbox_pdf": [
+      53.1828,
+      582.7392,
+      536.2236,
+      765.2916
+    ]
+  },
+  {
+    "bbox": [
+      147.73,
+      2147.13,
+      779.79,
+      2179.11
+    ],
+    "label": "Text",
+    "content": "<p>註：資料來源：台塑企業環保類改善案件管理電腦資料庫</p>",
+    "bbox_pdf": [
+      53.1828,
+      772.9668,
+      280.7244,
+      784.4796
+    ]
+  },
+  {
+    "bbox": [
+      1521.5,
+      2203.47,
+      1550.43,
+      2229.36
+    ],
+    "label": "Page-Footer",
+    "content": "<p>60</p>",
+    "bbox_pdf": [
+      547.74,
+      793.2492,
+      558.1548,
+      802.5696
+    ]
+  }
+]

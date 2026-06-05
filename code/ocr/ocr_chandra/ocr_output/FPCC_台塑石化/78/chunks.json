@@ -1,0 +1,386 @@
+[
+  {
+    "bbox": [
+      150.78,
+      38.07,
+      561.99,
+      97.46
+    ],
+    "label": "Page-Header",
+    "content": "<p>CH1<br/>開創產業新發展</p><p>CH2<br/>實踐綠色新樣貌</p>",
+    "bbox_pdf": [
+      54.2808,
+      13.7052,
+      202.3164,
+      35.0856
+    ]
+  },
+  {
+    "bbox": [
+      657.94,
+      38.07,
+      807.2,
+      97.46
+    ],
+    "label": "Page-Header",
+    "content": "<p>CH3<br/>深化工安新文化</p>",
+    "bbox_pdf": [
+      236.8584,
+      13.7052,
+      290.592,
+      35.0856
+    ]
+  },
+  {
+    "bbox": [
+      900.1,
+      38.07,
+      1050.88,
+      97.46
+    ],
+    "label": "Page-Header",
+    "content": "<p>CH4<br/>培育人才新思維</p>",
+    "bbox_pdf": [
+      324.036,
+      13.7052,
+      378.3168,
+      35.0856
+    ]
+  },
+  {
+    "bbox": [
+      1151.4,
+      38.07,
+      1296.09,
+      97.46
+    ],
+    "label": "Page-Header",
+    "content": "<p>CH5<br/>連結社區新價值</p>",
+    "bbox_pdf": [
+      414.504,
+      13.7052,
+      466.5924,
+      35.0856
+    ]
+  },
+  {
+    "bbox": [
+      1448.39,
+      56.34,
+      1491.04,
+      83.75
+    ],
+    "label": "Page-Header",
+    "content": "<p>附錄</p>",
+    "bbox_pdf": [
+      521.4204,
+      20.2824,
+      536.7744,
+      30.15
+    ]
+  },
+  {
+    "bbox": [
+      150.78,
+      229.94,
+      609.21,
+      266.49
+    ],
+    "label": "Section-Header",
+    "content": "<p>③ 承攬商法定作業主管作業檢點：</p>",
+    "bbox_pdf": [
+      54.2808,
+      82.7784,
+      219.3156,
+      95.9364
+    ]
+  },
+  {
+    "bbox": [
+      190.38,
+      280.19,
+      1477.33,
+      365.47
+    ],
+    "label": "Text",
+    "content": "<p>承攬商法定作業主管依實際施工情形各種危害並依職業安全相關法規規定之檢點項目建立作業檢點表，當日施工前依作業檢點表逐項檢查確認並於作業時到場督導。</p>",
+    "bbox_pdf": [
+      68.5368,
+      100.8684,
+      531.8388,
+      131.5692
+    ]
+  },
+  {
+    "bbox": [
+      699.07,
+      402.02,
+      767.6,
+      499.47
+    ],
+    "label": "Image",
+    "content": "<img alt=\"Icon representing a clipboard or checklist.\"/>",
+    "bbox_pdf": [
+      251.6652,
+      144.7272,
+      276.336,
+      179.8092
+    ]
+  },
+  {
+    "bbox": [
+      689.93,
+      516.22,
+      776.74,
+      548.2
+    ],
+    "label": "Text",
+    "content": "<p>施工前</p>",
+    "bbox_pdf": [
+      248.3748,
+      185.8392,
+      279.6264,
+      197.352
+    ]
+  },
+  {
+    "bbox": [
+      1056.98,
+      402.02,
+      1122.47,
+      499.47
+    ],
+    "label": "Image",
+    "content": "<img alt=\"Icon representing a traffic cone, symbolizing work in progress.\"/>",
+    "bbox_pdf": [
+      380.5128,
+      144.7272,
+      404.0892,
+      179.8092
+    ]
+  },
+  {
+    "bbox": [
+      1047.84,
+      516.22,
+      1133.13,
+      548.2
+    ],
+    "label": "Text",
+    "content": "<p>施工中</p>",
+    "bbox_pdf": [
+      377.2224,
+      185.8392,
+      407.9268,
+      197.352
+    ]
+  },
+  {
+    "bbox": [
+      1346.35,
+      402.02,
+      1420.98,
+      499.47
+    ],
+    "label": "Image",
+    "content": "<img alt=\"Icon representing a worker wearing a hard hat and safety gear.\"/>",
+    "bbox_pdf": [
+      484.686,
+      144.7272,
+      511.5528,
+      179.8092
+    ]
+  },
+  {
+    "bbox": [
+      1340.26,
+      516.22,
+      1427.07,
+      548.2
+    ],
+    "label": "Text",
+    "content": "<p>施工後</p>",
+    "bbox_pdf": [
+      482.4936,
+      185.8392,
+      513.7452,
+      197.352
+    ]
+  },
+  {
+    "bbox": [
+      150.78,
+      575.61,
+      1491.04,
+      909.1
+    ],
+    "label": "Table",
+    "content": "<table><tbody><tr><td>工作安全許可單 - 檢點項目落實檢查</td><td>依施工當日施工前作業安全檢點項目逐項確認</td><td>依施工中作業安全檢點項目逐項確認</td><td>確認工作環境</td></tr><tr><td>工作每日安全衛生巡查表 - 工安人員 JSA 檢點</td><td>確認當日作業之 JSA 必備之防護器具</td><td>確認當日作業之 JSA 作業步驟之防護</td><td></td></tr><tr><td>法定作業主管作業檢點</td><td>依法規檢點項目逐項確定</td><td>在作業現場指揮監督</td><td></td></tr></tbody></table>",
+    "bbox_pdf": [
+      54.2808,
+      207.2196,
+      536.7744,
+      327.276
+    ]
+  },
+  {
+    "bbox": [
+      226.93,
+      965.45,
+      508.69,
+      1001.99
+    ],
+    "label": "Section-Header",
+    "content": "<p>作業主管檢點表範例</p>",
+    "bbox_pdf": [
+      81.6948,
+      347.562,
+      183.1284,
+      360.7164
+    ]
+  },
+  {
+    "bbox": [
+      205.61,
+      1038.54,
+      526.97,
+      1495.38
+    ],
+    "label": "Form",
+    "content": "<img alt=\"Sample form titled '作業主管依法監督管項目逐項確認' (Supervisor legally supervises items step by step confirmation). It includes sections for work type, date, and detailed checklist items with checkmarks.\"/>",
+    "bbox_pdf": [
+      74.0196,
+      373.8744,
+      189.7092,
+      538.3368
+    ]
+  },
+  {
+    "bbox": [
+      685.36,
+      965.45,
+      930.57,
+      1001.99
+    ],
+    "label": "Section-Header",
+    "content": "<p>JSA 檢點執行範例</p>",
+    "bbox_pdf": [
+      246.7296,
+      347.562,
+      335.0052,
+      360.7164
+    ]
+  },
+  {
+    "bbox": [
+      638.15,
+      1038.54,
+      980.83,
+      1495.38
+    ],
+    "label": "Form",
+    "content": "<img alt=\"Sample JSA form titled '施工前確認防護' (Confirm protection before construction) and '施工中確認對應之JSA作業步驟' (Confirm corresponding JSA work steps during construction). It details work content, location, and safety measures.\"/>",
+    "bbox_pdf": [
+      229.734,
+      373.8744,
+      353.0988,
+      538.3368
+    ]
+  },
+  {
+    "bbox": [
+      1092.01,
+      965.45,
+      1431.64,
+      1001.99
+    ],
+    "label": "Section-Header",
+    "content": "<p>施工前、中、後檢查範例</p>",
+    "bbox_pdf": [
+      393.1236,
+      347.562,
+      515.3904,
+      360.7164
+    ]
+  },
+  {
+    "bbox": [
+      1088.96,
+      1038.54,
+      1440.78,
+      1495.38
+    ],
+    "label": "Form",
+    "content": "<img alt=\"Sample form titled '施工作業檢點項目逐項確認檢查並簽認' (Confirm and sign off on construction work inspection items step by step). It is a comprehensive checklist for construction work inspections.\"/>",
+    "bbox_pdf": [
+      392.0256,
+      373.8744,
+      518.6808,
+      538.3368
+    ]
+  },
+  {
+    "bbox": [
+      150.78,
+      1553.24,
+      383.8,
+      1600.45
+    ],
+    "label": "Section-Header",
+    "content": "<p>• 符合性稽核</p>",
+    "bbox_pdf": [
+      54.2808,
+      559.1664,
+      138.168,
+      576.162
+    ]
+  },
+  {
+    "bbox": [
+      150.78,
+      1641.56,
+      910.77,
+      2128.86
+    ],
+    "label": "Text",
+    "content": "<p>本公司透過每月符合性稽核及專案查核，確認各單位安衛管理系統執行成效及符合度。各廠處安全管理，2022年平均稽核異常總數為1.01件/廠，較近4年平均稽核異常總數為0.86件/廠高，「承攬商自主管理暨檢點作業」列為稽核重點，異常數略升（佔總異常件數從13%升至18%），另高架作業（含施工架管理）異常件數提升（佔總異常件數26%），經檢討列入2023年稽核重點。近四年近平均稽核異常數統計詳細資料請閱：附件 ESG 各主題數據績效-社會面向</p>",
+    "bbox_pdf": [
+      54.2808,
+      590.9616,
+      327.8772,
+      766.3896
+    ]
+  },
+  {
+    "bbox": [
+      851.37,
+      1641.56,
+      1491.04,
+      2064.9
+    ],
+    "label": "Figure",
+    "content": "<img alt=\"Bar chart showing average inspection anomaly counts per factory from 2019 to 2022. The Y-axis is labeled '異常數/廠' (Anomaly count/factory). The data points are: 2019 (0.69), 2020 (0.87), 2021 (0.86), and 2022 (1.01). A horizontal line indicates the average anomaly count of 0.86.\"/>",
+    "bbox_pdf": [
+      306.4932,
+      590.9616,
+      536.7744,
+      743.364
+    ]
+  },
+  {
+    "bbox": [
+      1521.5,
+      2206.52,
+      1550.43,
+      2230.88
+    ],
+    "label": "Page-Footer",
+    "content": "<p>76</p>",
+    "bbox_pdf": [
+      547.74,
+      794.3472,
+      558.1548,
+      803.1168
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "page": {
+    "width": 1754,
+    "height": 1241
+  },
+  "objects": [
+    {
+      "id": 1,
+      "text": "CH5 幸福職場\n\n世芯電子身為提供專業 ASIC 設計及製造服務的科技公司，專業人才的延攬及培育成爲世芯電子不可忽視的重要政策。為保障同仁在工作期間的權益，我們提供優於法規的保障政策及薪酬福利，並致力於維護健康、安全及衛生的工作場所。此外，我們亦積極培養專業科技人才，提供外部訓練機會供同仁進修並全額補貼，內部也會舉辦技能訓練工作坊，使同仁增進自身專業能力，讓世芯電子成爲具競爭力的企業。\n\n5.1 員工概況\n\n5.1.1 員工結構\n\n世芯電子 2022 年員工總人數為 115 人(僅包含臺北與新竹地區)，其中 2 人為臨時員工外，其餘皆為正式聘僱人員，另聘有 1 名身心障礙員工。\n\n■ 員工結構\n\n<table>\n  <tr>\n    <th rowspan=\"2\">類組</th>\n    <th rowspan=\"2\">類別</th>\n    <th rowspan=\"2\">性別</th>\n    <th colspan=\"2\">臺北</th>\n    <th colspan=\"2\">新竹</th>\n  </tr>\n  <tr>\n    <th>人數</th>\n    <th>百分比</th>\n    <th>人數</th>\n    <th>百分比</th>\n  </tr>\n  <tr>\n    <td rowspan=\"2\">總數</td>\n    <td>員工總人數</td>\n    <td>男</td>\n    <td>26</td>\n    <td>22.6%</td>\n    <td>45</td>\n    <td>39.1%</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td>女</td>\n    <td>19</td>\n    <td>16.5%</td>\n    <td>25</td>\n    <td>21.8%</td>\n  </tr>\n  <tr>\n    <td rowspan=\"2\">年齡</td>\n    <td>30 歲以下</td>\n    <td>男</td>\n    <td>6</td>\n    <td>5.2%</td>\n    <td>3</td>\n    <td>2.6%</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td>女</td>\n    <td>5</td>\n    <td>4.3%</td>\n    <td>7</td>\n    <td>6.1%</td>\n  </tr>\n  <tr>\n    <td rowspan=\"2\"></td>\n    <td>31 歲 ~50 歲</td>\n    <td>男</td>\n    <td>18</td>\n    <td>15.7%</td>\n    <td>33</td>\n    <td>28.7%</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td>女</td>\n    <td>14</td>\n    <td>12.2%</td>\n    <td>17</td>\n    <td>14.8%</td>\n  </tr>\n  <tr>\n    <td rowspan=\"2\"></td>\n    <td>51 歲以上</td>\n    <td>男</td>\n    <td>2</td>\n    <td>1.7%</td>\n    <td>9</td>\n    <td>7.8%</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td>女</td>\n    <td>0</td>\n    <td>0.0%</td>\n    <td>1</td>\n    <td>0.9%</td>\n  </tr>\n</table>\n\n<table>\n  <tr>\n    <th rowspan=\"2\">類組</th>\n    <th rowspan=\"2\">類別</th>\n    <th rowspan=\"2\">性別</th>\n    <th colspan=\"2\">臺北</th>\n    <th colspan=\"2\">新竹</th>\n  </tr>\n  <tr>\n    <th>人數</th>\n    <th>百分比</th>\n    <th>人數</th>\n    <th>百分比</th>\n  </tr>\n  <tr>\n    <td rowspan=\"3\">合約性質</td>\n    <td>永久聘僱員工</td>\n    <td>男</td>\n    <td>26</td>\n    <td>22.6%</td>\n    <td>45</td>\n    <td>39.1%</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td>女</td>\n    <td>18</td>\n    <td>15.7%</td>\n    <td>24</td>\n    <td>20.8%</td>\n  </tr>\n  <tr>\n    <td>臨時員工</td>\n    <td>男</td>\n    <td>0</td>\n    <td>0.0%</td>\n    <td>0</td>\n    <td>0.0%</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td>女</td>\n    <td>1</td>\n    <td>0.9%</td>\n    <td>1</td>\n    <td>0.9%</td>\n  </tr>\n  <tr>\n    <td rowspan=\"2\">無時數保證的員工</td>\n    <td>男</td>\n    <td>0</td>\n    <td>0.0%</td>\n    <td>0</td>\n    <td>0.0%</td>\n  </tr>\n  <tr>\n    <td>女</td>\n    <td>0</td>\n    <td>0.0%</td>\n    <td>0</td>\n    <td>0.0%</td>\n  </tr>\n  <tr>\n    <td rowspan=\"2\">聘僱性質</td>\n    <td>全職員工</td>\n    <td>男</td>\n    <td>26</td>\n    <td>22.6%</td>\n    <td>45</td>\n    <td>39.1%</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td>女</td>\n    <td>19</td>\n    <td>16.5%</td>\n    <td>25</td>\n    <td>21.8%</td>\n  </tr>\n  <tr>\n    <td rowspan=\"2\">兼職員工</td>\n    <td>男</td>\n    <td>0</td>\n    <td>0.0%</td>\n    <td>0</td>\n    <td>0.0%</td>\n  </tr>\n  <tr>\n    <td>女</td>\n    <td>0</td>\n    <td>0.0%</td>\n    <td>0</td>\n    <td>0.0%</td>\n  </tr>\n  <tr>\n    <td rowspan=\"2\">弱勢族群</td>\n    <td>身心障礙員工</td>\n    <td>男</td>\n    <td>1</td>\n    <td>0.9%</td>\n    <td>0</td>\n    <td>0.0%</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td>女</td>\n    <td>0</td>\n    <td>0.0%</td>\n    <td>0</td>\n    <td>0.0%</td>\n  </tr>\n  <tr>\n    <td rowspan=\"2\">一般職員</td>\n    <td>男</td>\n    <td>16</td>\n    <td>13.9%</td>\n    <td>26</td>\n    <td>22.6%</td>\n  </tr>\n  <tr>\n    <td>女</td>\n    <td>10</td>\n    <td>8.7%</td>\n    <td>20</td>\n    <td>17.4%</td>\n  </tr>\n  <tr>\n    <td rowspan=\"2\">級別</td>\n    <td>中階管理階層</td>\n    <td>男</td>\n    <td>7</td>\n    <td>6.1%</td>\n    <td>15</td>\n    <td>13.0%</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td>女</td>\n    <td>8</td>\n    <td>7.0%</td>\n    <td>5</td>\n    <td>4.3%</td>\n  </tr>\n  <tr>\n    <td rowspan=\"2\">高階經理人</td>\n    <td>男</td>\n    <td>3</td>\n    <td>2.6%</td>\n    <td>4</td>\n    <td>3.5%</td>\n  </tr>\n  <tr>\n    <td>女</td>\n    <td>1</td>\n    <td>0.9%</td>\n    <td>0</td>\n    <td>0.0%</td>\n  </tr>\n</table>\n\n# 註 1：統計期間為 2022/12/31 仍在職之員工。\n\n■ 非員工工作者\n\n<table>\n  <tr>\n    <th rowspan=\"2\">類別</th>\n    <th colspan=\"2\">臺北</th>\n    <th colspan=\"2\">新竹</th>\n  </tr>\n  <tr>\n    <th>男性</th>\n    <th>百分比</th>\n    <th>女性</th>\n    <th>百分比</th>\n  </tr>\n  <tr>\n    <td>清潔人員</td>\n    <td>0</td>\n    <td>0.0%</td>\n    <td>1</td>\n    <td>33.3%</td>\n    <td>0</td>\n    <td>0.0%</td>\n    <td>2</td>\n    <td>66.7%</td>\n  </tr>\n</table>\n\n# 註 1：統計期間為 2022/12/31 仍在職之非員工工作者\n# 註 2：世芯電子委託第三方清潔公司聘僱清潔人員",
+      "bbox": [
+        0,
+        0,
+        1754,
+        1241
+      ],
+      "type": "paragraph",
+      "bbox_pdf": [
+        0,
+        0,
+        841.8900146484375,
+        595.2760009765625
+      ],
+      "retrieval": [
+        {
+          "code": "TC-SC-440a.1",
+          "text": "材料取得。與關鍵材料之使用有關風險管理之描述。",
+          "score": 0.6694854497909546
+        },
+        {
+          "code": "TC-SC-140a.1",
+          "text": "水管理。總取水量，於基線水壓力高或極高區域之百分比；總耗水量，於基線水壓力高或極高區域之百分比。",
+          "score": 0.6627002358436584
+        },
+        {
+          "code": "TC-SC-000.B",
+          "text": "一般資訊。自有場所產量之百分比。",
+          "score": 0.6465281248092651
+        },
+        {
+          "code": "TC-SC-000.A",
+          "text": "一般資訊。總生產數量。",
+          "score": 0.622333288192749
+        },
+        {
+          "code": "TC-SC-410a.2",
+          "text": "產品生命週期管理。伺服器、桌上型電腦，及筆記型電腦於系統層級之處理器能源效率。",
+          "score": 0.6198586225509644
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+[
+  {
+    "bbox": [
+      2238.5,
+      229.98,
+      2339.0,
+      338.11
+    ],
+    "label": "Image",
+    "content": "<img alt=\"InnoLux logo\"/>",
+    "bbox_pdf": [
+      805.86,
+      82.7928,
+      842.04,
+      121.7196
+    ]
+  },
+  {
+    "bbox": [
+      2252.2,
+      403.6,
+      2288.75,
+      625.96
+    ],
+    "label": "Page-Header",
+    "content": "<p>創新轉型<br/>採購共行</p>",
+    "bbox_pdf": [
+      810.792,
+      145.296,
+      823.95,
+      225.3456
+    ]
+  },
+  {
+    "bbox": [
+      266.49,
+      196.47,
+      1139.04,
+      496.5
+    ],
+    "label": "Text",
+    "content": "<p>群創光電供應鏈年度溫室氣體盤查對象為計採購金額比例前91%之供應商,為確保供應商提供之GHG數據品質,僅接受經ISO 14064-1查證、提交政府單位、官網或對外報告書揭露之數據來源,供應商於提交GHG排放量資料時,也須一併提供碳管理風險表單、GHG減量計畫及再生能源與水資源使用情形。2022年共完成126家供應商盤查,累計碳強度減量共計75,976tCO<sub>2</sub>e;我們也首次進行供應商再生能源使用調查,經調查發現使用再生能源廠商共25家,佔調查家數20%;水資源使用情形共調查123家。未來,群創光電將持續推動供應商盤查作業,了解供應商現況,從中尋求減碳機會。</p>",
+    "bbox_pdf": [
+      95.9364,
+      70.7292,
+      410.0544,
+      178.74
+    ]
+  },
+  {
+    "bbox": [
+      266.49,
+      526.97,
+      685.25,
+      566.56
+    ],
+    "label": "Section-Header",
+    "content": "<h3>群減排 創零碳 綠色共善大會</h3>",
+    "bbox_pdf": [
+      95.9364,
+      189.7092,
+      246.69,
+      203.9616
+    ]
+  },
+  {
+    "bbox": [
+      266.49,
+      589.41,
+      1139.04,
+      773.69
+    ],
+    "label": "Text",
+    "content": "<p>面對全球氣候變遷加劇,減碳已是全球共識,群創光電在減碳的道路上刻不容緩並積極尋求綠色夥伴共同加入,我們於2022年以「群減排,創零碳——綠色共善大會」為主題,在董事長、總經理及採購長的帶領下,邀集關鍵供應鏈夥伴一同進行減碳宣示,期望2030年關鍵供應商能達到減碳20%的目標,共同達成降本減碳雙重效益,並提升供應鏈競爭力。</p>",
+    "bbox_pdf": [
+      95.9364,
+      212.1876,
+      410.0544,
+      278.5284
+    ]
+  },
+  {
+    "bbox": [
+      266.49,
+      782.83,
+      1139.04,
+      851.37
+    ],
+    "label": "Text",
+    "content": "<p>另,群創光電身為面板大廠,依循環經濟理念,利用回收廢棄面板的玻璃製作獎盃,以身作則帶頭示範,展現成為綠色企業,落實環境友善之決心。</p>",
+    "bbox_pdf": [
+      95.9364,
+      281.8188,
+      410.0544,
+      306.4932
+    ]
+  },
+  {
+    "bbox": [
+      266.49,
+      890.97,
+      1137.52,
+      1454.48
+    ],
+    "label": "Image",
+    "content": "<img alt=\"Group photo of attendees at the '群減排 創零碳 綠色共善大會' (Group Reduction, Create Zero Carbon, Green Shared Good Conference), standing in front of a presentation screen showing the 2030 Carbon Reduction 20% goal.\"/>",
+    "bbox_pdf": [
+      95.9364,
+      320.7492,
+      409.5072,
+      523.6128
+    ]
+  },
+  {
+    "bbox": [
+      1248.68,
+      191.9,
+      1646.13,
+      220.84
+    ],
+    "label": "Section-Header",
+    "content": "<h3>2022各類供應商溫室氣體減碳量</h3>",
+    "bbox_pdf": [
+      449.5248,
+      69.084,
+      592.6068,
+      79.5024
+    ]
+  },
+  {
+    "bbox": [
+      1247.16,
+      233.02,
+      2116.67,
+      607.69
+    ],
+    "label": "Figure",
+    "content": "<p>Bar chart showing greenhouse gas reduction (CO<sub>2</sub>e) for 2022.</p><p>Y-axis: CO<sub>2</sub>e (0 to 70,000).</p><p>X-axis categories: Key suppliers (32), High carbon suppliers (33), Others (61).</p><p>Reduction percentages: Key suppliers 84%, High carbon suppliers 96%, Others 100%.</p>",
+    "bbox_pdf": [
+      448.9776,
+      83.8872,
+      762.0012,
+      218.7684
+    ]
+  },
+  {
+    "bbox": [
+      1248.68,
+      632.05,
+      2116.67,
+      1454.48
+    ],
+    "label": "Image",
+    "content": "<img alt=\"Two glass trophies awarded at the 2022 Green Common Good Conference, shaped like stylized human figures holding hands, symbolizing climate impact and contribution.\"/>",
+    "bbox_pdf": [
+      449.5248,
+      227.538,
+      762.0012,
+      523.6128
+    ]
+  },
+  {
+    "bbox": [
+      2238.5,
+      1536.73,
+      2272.0,
+      1562.62
+    ],
+    "label": "Page-Footer",
+    "content": "<p>71</p>",
+    "bbox_pdf": [
+      805.86,
+      553.2228,
+      817.92,
+      562.5432
+    ]
+  }
+]

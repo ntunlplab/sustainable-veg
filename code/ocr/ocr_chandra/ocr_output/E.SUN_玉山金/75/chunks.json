@@ -1,0 +1,162 @@
+[
+  {
+    "bbox": [
+      376.13,
+      85.29,
+      511.66,
+      115.75
+    ],
+    "label": "Page-Header",
+    "content": "以玉山為名",
+    "bbox_pdf": [
+      135.4068,
+      30.7044,
+      184.1976,
+      41.67
+    ]
+  },
+  {
+    "bbox": [
+      650.23,
+      85.29,
+      814.69,
+      115.75
+    ],
+    "label": "Page-Header",
+    "content": "邁向淨零排放",
+    "bbox_pdf": [
+      234.0828,
+      30.7044,
+      293.2884,
+      41.67
+    ]
+  },
+  {
+    "bbox": [
+      928.9,
+      85.29,
+      1116.2,
+      115.75
+    ],
+    "label": "Page-Header",
+    "content": "發揮金融影響力",
+    "bbox_pdf": [
+      334.404,
+      30.7044,
+      401.832,
+      41.67
+    ]
+  },
+  {
+    "bbox": [
+      1207.57,
+      85.29,
+      1365.94,
+      115.75
+    ],
+    "label": "Page-Header",
+    "content": "打造韌性組織",
+    "bbox_pdf": [
+      434.7252,
+      30.7044,
+      491.7384,
+      41.67
+    ]
+  },
+  {
+    "bbox": [
+      1477.1,
+      85.29,
+      1659.84,
+      115.75
+    ],
+    "label": "Page-Header",
+    "content": "成為員工的最愛",
+    "bbox_pdf": [
+      531.756,
+      30.7044,
+      597.5424,
+      41.67
+    ]
+  },
+  {
+    "bbox": [
+      1735.98,
+      85.29,
+      1968.96,
+      115.75
+    ],
+    "label": "Page-Header",
+    "content": "成為這片土地的最愛",
+    "bbox_pdf": [
+      624.9528,
+      30.7044,
+      708.8256,
+      41.67
+    ]
+  },
+  {
+    "bbox": [
+      1059.86,
+      246.73,
+      1266.96,
+      275.67
+    ],
+    "label": "Section-Header",
+    "content": "普惠金融貸款產品",
+    "bbox_pdf": [
+      381.5496,
+      88.8228,
+      456.1056,
+      99.2412
+    ]
+  },
+  {
+    "bbox": [
+      1879.12,
+      258.91,
+      2134.95,
+      284.8
+    ],
+    "label": "Text",
+    "content": "金額單位：新臺幣佰萬元",
+    "bbox_pdf": [
+      676.4832,
+      93.2076,
+      768.582,
+      102.528
+    ]
+  },
+  {
+    "bbox": [
+      191.87,
+      296.99,
+      2133.42,
+      1486.47
+    ],
+    "label": "Table",
+    "content": "<table><thead><tr><th rowspan=\"2\">服務項目</th><th rowspan=\"2\">目標客群</th><th colspan=\"2\">2020</th><th colspan=\"2\">2021</th><th colspan=\"2\">2022</th></tr><tr><th>戶數</th><th>金額</th><th>戶數</th><th>金額</th><th>戶數</th><th>金額</th></tr></thead><tbody><tr><td>新創企業貸款<br/>協助臺灣新創企業站穩腳跟，快速取得資金</td><td></td><td>2,592</td><td>2,182</td><td>2,871</td><td>2,069</td><td>2,523</td><td>1,606</td></tr><tr><td>地方創生貸款<br/>提供臺灣特色產業專屬資金，促進城鄉均衡發展</td><td></td><td>1,099</td><td>5,891</td><td>1,160</td><td>5,469</td><td>1,181</td><td>5,316</td></tr><tr><td>社會創新企業貸款（含微笑希望貸）<br/>陪伴社企、社創成長茁壯，協助健全財務體質並提供資金</td><td>小型企業<br/>(Microbusinesses)</td><td>21</td><td>70</td><td>26</td><td>79</td><td>45</td><td>112</td></tr><tr><td>廠辦購置貸款<br/>協助小型企業購置廠房與辦公室</td><td></td><td>4,137</td><td>36,906</td><td>4,042</td><td>37,527</td><td>3,957</td><td>37,981</td></tr><tr><td>週轉金貸款<br/>協助小型企業取得營運週轉資金</td><td></td><td>16,064</td><td>64,903</td><td>17,614</td><td>64,991</td><td>17,760</td><td>66,183</td></tr><tr><td colspan=\"3\"></td><td colspan=\"2\">總戶數及餘額</td><td colspan=\"2\">19,267</td><td colspan=\"2\">104,164</td></tr><tr><td>住宅補貼貸款<br/>協助中低所得家庭修繕、購買房屋</td><td></td><td>874</td><td>1,300</td><td>993</td><td>1,496</td><td>1,154</td><td>1,759</td></tr><tr><td>債務協商與還款計畫服務<br/>提供遭逢變故而收入銳減的顧客專屬還款方案</td><td>經濟弱勢族群<br/>(Poor and low-income<br/>individuals)</td><td>1,768</td><td>248</td><td>2,951</td><td>995</td><td>1,826</td><td>495</td></tr><tr><td>地震受災戶<br/>災後重建貸款服務</td><td></td><td>21</td><td>14</td><td>17</td><td>11</td><td>14</td><td>8</td></tr><tr><td colspan=\"3\"></td><td colspan=\"2\">總戶數及餘額</td><td colspan=\"2\">2,994</td><td colspan=\"2\">2,262</td></tr><tr><td>學生貸款<br/>協助優秀學子取得留學所需資金</td><td>青年<br/>(Young people)</td><td>288</td><td>200</td><td>284</td><td>197</td><td>285</td><td>191</td></tr><tr><td>青年創業啟動金貸款<br/>協助青年創業圓夢，打造有利青年創業的環境</td><td></td><td>206</td><td>85</td><td>373</td><td>178</td><td>521</td><td>242</td></tr><tr><td colspan=\"3\"></td><td colspan=\"2\">總戶數及餘額</td><td colspan=\"2\">806</td><td colspan=\"2\">433</td></tr><tr><td>以房養老貸款<br/>協助高齡者將不動產活化，定期撥付穩定生活資金</td><td>高齡長者<br/>(Elderly people)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>3</td><td>2.45</td></tr><tr><td colspan=\"3\"></td><td colspan=\"2\">總戶數及餘額</td><td colspan=\"2\">23,069</td><td colspan=\"2\">106,861</td></tr></tbody></table>",
+    "bbox_pdf": [
+      69.0732,
+      106.9164,
+      768.0312,
+      535.1292
+    ]
+  },
+  {
+    "bbox": [
+      1148.18,
+      1585.46,
+      1184.73,
+      1609.83
+    ],
+    "label": "Page-Footer",
+    "content": "75",
+    "bbox_pdf": [
+      413.3448,
+      570.7656,
+      426.5028,
+      579.5388
+    ]
+  }
+]

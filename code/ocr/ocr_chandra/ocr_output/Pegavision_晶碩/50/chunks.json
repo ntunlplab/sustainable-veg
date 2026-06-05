@@ -1,0 +1,66 @@
+[
+  {
+    "bbox": [
+      109.84,
+      56.0,
+      342.43,
+      133.53
+    ],
+    "label": "Page-Header",
+    "content": "<p>PEGAVISION<br/>晶碩光學</p>",
+    "bbox_pdf": [
+      39.5424,
+      20.16,
+      123.2748,
+      48.0708
+    ]
+  },
+  {
+    "bbox": [
+      1908.13,
+      198.15,
+      3071.1,
+      611.67
+    ],
+    "label": "Section-Header",
+    "content": "<h2>07 社會共融</h2><p>SOCIAL INCLUSION</p>",
+    "bbox_pdf": [
+      686.9268,
+      71.334,
+      1105.596,
+      220.2012
+    ]
+  },
+  {
+    "bbox": [
+      2655.45,
+      454.45,
+      3062.48,
+      777.51
+    ],
+    "label": "List-Group",
+    "content": "<ul><li>7.1 挺桃園、捐贈快篩試劑</li><li>7.2 產學交流活動</li><li>7.3 扶植弱勢團體</li><li>7.4 支持台灣原住民音樂</li><li>7.5 參與社區鄰里活動</li></ul>",
+    "bbox_pdf": [
+      955.962,
+      163.602,
+      1102.4928,
+      279.9036
+    ]
+  },
+  {
+    "bbox": [
+      607.33,
+      127.07,
+      2683.44,
+      2024.55
+    ],
+    "label": "Image",
+    "content": "<img alt=\"A scene viewed through a magnifying glass, showing miniature figures representing diverse people, including a man in a wheelchair, a person with a stethoscope, and others interacting. The background is blurred, emphasizing the diversity and inclusion theme.\"/>",
+    "bbox_pdf": [
+      218.6388,
+      45.7452,
+      966.0384,
+      728.838
+    ]
+  }
+]

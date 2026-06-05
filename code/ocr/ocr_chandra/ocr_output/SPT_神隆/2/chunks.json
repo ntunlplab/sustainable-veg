@@ -1,0 +1,274 @@
+[
+  {
+    "bbox": [
+      74.62,
+      57.87,
+      260.4,
+      82.24
+    ],
+    "label": "Page-Header",
+    "content": "台灣神隆 永續報告書",
+    "bbox_pdf": [
+      26.8632,
+      20.8332,
+      93.744,
+      29.6064
+    ]
+  },
+  {
+    "bbox": [
+      159.89,
+      217.79,
+      301.51,
+      290.9
+    ],
+    "label": "Section-Header",
+    "content": "目錄",
+    "bbox_pdf": [
+      57.5604,
+      78.4044,
+      108.5436,
+      104.724
+    ]
+  },
+  {
+    "bbox": [
+      152.28,
+      353.34,
+      746.17,
+      470.61
+    ],
+    "label": "Table-Of-Contents",
+    "content": "<table><tr><td>關於本報告書</td><td>03</td></tr><tr><td>經營者的話</td><td>04</td></tr><tr><td>2022 年 ESG 重點績效</td><td>06</td></tr></table>",
+    "bbox_pdf": [
+      54.8208,
+      127.2024,
+      268.6212,
+      169.4196
+    ]
+  },
+  {
+    "bbox": [
+      155.32,
+      629.01,
+      456.84,
+      680.79
+    ],
+    "label": "Section-Header",
+    "content": "CH1 公司治理",
+    "bbox_pdf": [
+      55.9152,
+      226.4436,
+      164.4624,
+      245.0844
+    ]
+  },
+  {
+    "bbox": [
+      152.28,
+      750.85,
+      746.17,
+      1157.5
+    ],
+    "label": "Table-Of-Contents",
+    "content": "<table><tr><td>1.1 公司簡介</td><td>13</td></tr><tr><td>1.2 主要股東結構</td><td>13</td></tr><tr><td>1.3 營運概況</td><td>14</td></tr><tr><td>1.4 業務內容</td><td>16</td></tr><tr><td>1.5 公司治理</td><td>21</td></tr><tr><td>1.6 誠信經營</td><td>25</td></tr><tr><td>1.7 利害關係人及重大主題鑑別</td><td>27</td></tr><tr><td>1.8 風險管理</td><td>33</td></tr><tr><td>1.9 氣候變遷風險及機會</td><td>35</td></tr><tr><td>1.10 永續發展政策</td><td>41</td></tr></table>",
+    "bbox_pdf": [
+      54.8208,
+      270.306,
+      268.6212,
+      416.7
+    ]
+  },
+  {
+    "bbox": [
+      155.32,
+      1215.37,
+      456.84,
+      1267.15
+    ],
+    "label": "Section-Header",
+    "content": "CH2 產品責任",
+    "bbox_pdf": [
+      55.9152,
+      437.5332,
+      164.4624,
+      456.174
+    ]
+  },
+  {
+    "bbox": [
+      152.28,
+      1337.21,
+      746.17,
+      1495.61
+    ],
+    "label": "Table-Of-Contents",
+    "content": "<table><tr><td>2.1 產品法規</td><td>43</td></tr><tr><td>2.2 產品安全與客戶滿意度</td><td>44</td></tr><tr><td>2.3 供應商 / 承攬商與物料管理</td><td>46</td></tr><tr><td>2.4 創新技術與專利</td><td>50</td></tr></table>",
+    "bbox_pdf": [
+      54.8208,
+      481.3956,
+      268.6212,
+      538.4196
+    ]
+  },
+  {
+    "bbox": [
+      874.08,
+      629.01,
+      1171.02,
+      680.79
+    ],
+    "label": "Section-Header",
+    "content": "CH3 環境保護",
+    "bbox_pdf": [
+      314.6688,
+      226.4436,
+      421.5672,
+      245.0844
+    ]
+  },
+  {
+    "bbox": [
+      869.51,
+      750.85,
+      1458.83,
+      910.77
+    ],
+    "label": "Table-Of-Contents",
+    "content": "<table><tr><td>3.1 安全衛生環保政策</td><td>53</td></tr><tr><td>3.2 能、資源使用與管理</td><td>54</td></tr><tr><td>3.3 溫室氣體排放</td><td>59</td></tr><tr><td>3.4 污染防治</td><td>62</td></tr></table>",
+    "bbox_pdf": [
+      313.0236,
+      270.306,
+      525.1788,
+      327.8772
+    ]
+  },
+  {
+    "bbox": [
+      874.08,
+      988.44,
+      1171.02,
+      1038.7
+    ],
+    "label": "Section-Header",
+    "content": "CH4 友善職場",
+    "bbox_pdf": [
+      314.6688,
+      355.8384,
+      421.5672,
+      373.932
+    ]
+  },
+  {
+    "bbox": [
+      869.51,
+      1108.76,
+      1458.83,
+      1267.15
+    ],
+    "label": "Table-Of-Contents",
+    "content": "<table><tr><td>4.1 人力概況</td><td>65</td></tr><tr><td>4.2 員工福利與照顧</td><td>68</td></tr><tr><td>4.3 推動職場健康促進</td><td>73</td></tr><tr><td>4.4 安全的工作環境</td><td>77</td></tr></table>",
+    "bbox_pdf": [
+      313.0236,
+      399.1536,
+      525.1788,
+      456.174
+    ]
+  },
+  {
+    "bbox": [
+      874.08,
+      1343.3,
+      1171.02,
+      1395.09
+    ],
+    "label": "Section-Header",
+    "content": "CH5 社會責任",
+    "bbox_pdf": [
+      314.6688,
+      483.588,
+      421.5672,
+      502.2324
+    ]
+  },
+  {
+    "bbox": [
+      869.51,
+      1462.1,
+      1458.83,
+      1495.61
+    ],
+    "label": "Table-Of-Contents",
+    "content": "<table><tr><td>5.1 社會回饋</td><td>81</td></tr></table>",
+    "bbox_pdf": [
+      313.0236,
+      526.356,
+      525.1788,
+      538.4196
+    ]
+  },
+  {
+    "bbox": [
+      1585.22,
+      641.19,
+      1655.27,
+      677.74
+    ],
+    "label": "Section-Header",
+    "content": "附錄",
+    "bbox_pdf": [
+      570.6792,
+      230.8284,
+      595.8972,
+      243.9864
+    ]
+  },
+  {
+    "bbox": [
+      1582.18,
+      750.85,
+      2174.54,
+      993.01
+    ],
+    "label": "Table-Of-Contents",
+    "content": "<table><tr><td>GRI 永續性報導準則 (GRI 準則) 對照表</td><td>85</td></tr><tr><td>SASB 準則對照表</td><td>93</td></tr><tr><td>上市上櫃公司氣候相關資訊</td><td>95</td></tr><tr><td>溫室氣體盤查及確信情形</td><td>96</td></tr><tr><td>確信項目彙總表</td><td>97</td></tr><tr><td>會計師有限確信報告</td><td>99</td></tr></table>",
+    "bbox_pdf": [
+      569.5848,
+      270.306,
+      782.8344,
+      357.4836
+    ]
+  },
+  {
+    "bbox": [
+      1668.97,
+      1155.97,
+      1901.96,
+      1388.99
+    ],
+    "label": "Image",
+    "content": "<img alt=\"Logo featuring a stylized sun or solar panel design above the Roman numeral II and a leaf symbol.\"/>",
+    "bbox_pdf": [
+      600.8292,
+      416.1492,
+      684.7056,
+      500.0364
+    ]
+  },
+  {
+    "bbox": [
+      33.5,
+      1559.57,
+      60.91,
+      1580.9
+    ],
+    "label": "Page-Footer",
+    "content": "02",
+    "bbox_pdf": [
+      12.06,
+      561.4452,
+      21.9276,
+      569.124
+    ]
+  }
+]

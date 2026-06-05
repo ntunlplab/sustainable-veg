@@ -1,0 +1,306 @@
+[
+  {
+    "bbox": [
+      189.52,
+      191.69,
+      419.96,
+      241.22
+    ],
+    "label": "Section-Header",
+    "content": "<h2>2.5 風險管理</h2>",
+    "bbox_pdf": [
+      68.2272,
+      69.0084,
+      151.1856,
+      86.8392
+    ]
+  },
+  {
+    "bbox": [
+      189.52,
+      290.76,
+      1423.56,
+      424.29
+    ],
+    "label": "Text",
+    "content": "<p>公司對於例行性作業改變的風險係透過平時的管理活動進行風險管理，經由會議的方式評估、提出因應對策，並向高階管理階層報告；對於重大改變之風險控制則提案董事會議決。2022年度董事會中未有關鍵重大事件報告。</p>",
+    "bbox_pdf": [
+      68.2272,
+      104.6736,
+      512.4816,
+      152.7444
+    ]
+  },
+  {
+    "bbox": [
+      189.52,
+      473.83,
+      1423.56,
+      607.36
+    ],
+    "label": "Text",
+    "content": "<p>各項定期之會議有課務會議、部室會議、業務會報、經理會議、退休金監督委員會、職業安全衛生委員會、承攬商安全衛生協調會議、工程部門安全衛生管理會議、管理階層審查會議及安全宣導會等，以因應及降低內、外在經營環境變遷所增加之經營風險。</p>",
+    "bbox_pdf": [
+      68.2272,
+      170.5788,
+      512.4816,
+      218.6496
+    ]
+  },
+  {
+    "bbox": [
+      189.52,
+      652.59,
+      484.57,
+      695.67
+    ],
+    "label": "Section-Header",
+    "content": "<h3>2.5.1 風險管理架構</h3>",
+    "bbox_pdf": [
+      68.2272,
+      234.9324,
+      174.4452,
+      250.4412
+    ]
+  },
+  {
+    "bbox": [
+      189.52,
+      725.82,
+      1423.56,
+      1119.96
+    ],
+    "label": "Figure",
+    "content": "<img alt=\"Diagram illustrating the risk management framework. The flow is: 董事會 (Board of Directors) leads to 高階管理階層 (Senior Management Level). The Senior Management Level leads to 布達董事會風險管理決策 (Implementation of Board Risk Management Decision). The Senior Management Level also leads to 各部門 (Various Departments). The Implementation of Board Risk Management Decision leads to 風險預警、評估潛在損失、制定處理對策 (Risk Warning, Evaluation of Potential Loss, and Formulation of Handling Strategies). The Implementation of Board Risk Management Decision also leads to 公司風險管理執行 (Company Risk Management Implementation). The Company Risk Management Implementation leads to 日常風險處理活動 (Daily Risk Handling Activities). The Daily Risk Handling Activities lead to 布達董事會風險管理決策 (Implementation of Board Risk Management Decision). The Daily Risk Handling Activities also lead to 風險預警、評估潛在損失、制定處理對策 (Risk Warning, Evaluation of Potential Loss, and Formulation of Handling Strategies). The Risk Warning, Evaluation of Potential Loss, and Formulation of Handling Strategies leads to 布達董事會風險管理決策 (Implementation of Board Risk Management Decision). The Risk Warning, Evaluation of Potential Loss, and Formulation of Handling Strategies also leads to 確保風險管理機制之有效性 (Ensuring the Effectiveness of Risk Management Mechanism). The Ensuring the Effectiveness of Risk Management Mechanism leads to 公司風險管理執行 (Company Risk Management Implementation). The Ensuring the Effectiveness of Risk Management Mechanism also leads to 布達董事會風險管理決策 (Implementation of Board Risk Management Decision). The Ensuring the Effectiveness of Risk Management Mechanism finally leads to 繼續重大風險處理結果 (Continuing Major Risk Handling Results).\"/>",
+    "bbox_pdf": [
+      68.2272,
+      261.2952,
+      512.4816,
+      403.1856
+    ]
+  },
+  {
+    "bbox": [
+      189.52,
+      1158.73,
+      583.64,
+      1199.65
+    ],
+    "label": "Section-Header",
+    "content": "<h3>2.5.2 重大風險之管理對策</h3>",
+    "bbox_pdf": [
+      68.2272,
+      417.1428,
+      210.1104,
+      431.874
+    ]
+  },
+  {
+    "bbox": [
+      189.52,
+      1216.88,
+      1423.56,
+      1300.88
+    ],
+    "label": "Text",
+    "content": "<p>我們透過風險辨識、風險分析、風險決策及風險控制，配合PDCA之持續改善流程，對風險的管理成效進行評估及驗證。在確保風險嚴重性已確實被控制，並達可容許範圍前，將持續研擬政策及措施監控各類風險。</p>",
+    "bbox_pdf": [
+      68.2272,
+      438.0768,
+      512.4816,
+      468.3168
+    ]
+  },
+  {
+    "bbox": [
+      189.52,
+      1331.03,
+      1423.56,
+      2143.01
+    ],
+    "label": "Table",
+    "content": "<table><thead><tr><th>風險</th><th>因應對策</th></tr></thead><tbody><tr><td>供應安全</td><td>提升用戶免費定檢服務、加速老舊管線汰換、增加管線巡查頻率、促進微電腦瓦斯表推廣、強化搶修效率。</td></tr><tr><td>資本</td><td>為保持企業永續經營，將公司之負債與股東權益最適化，以使股東報酬最大化。<br/>採用審慎之風險管理策略並定期審核，依業務發展策略及營運需求做整體性規劃，決定本公司最適當之資本結構。<br/>遵守天然氣事業法之資本額規定。天然氣事業法第41條「公用天然氣事業資本額不得低於現有輸儲設備原始取得成本35%；其不足者，應於事實發生後3個月內辦理增加資本額。」</td></tr><tr><td>投資</td><td>投資策略秉持以投資公用天然氣事業同業為主，分散風險投資及其他產業高配息及穩定殖利率股為輔，以求穩定報酬。<br/>不操作高風險、高槓桿投資。<br/>本公司訂有資金貸與他人與背書保證作業程序。</td></tr><tr><td>財務</td><td>為有效控制因客戶信用異常而產生違約風險，裝置工程等營業項目採先繳款後施工之方式，以保障公司利益。<br/>天然氣費採先使用後付費，設置呆帳評估及控制作業，並有專員進行逾期帳款之管理。<br/>透過管理及維持足夠部位之現金及約當現金，以支應本公司營運並減輕現金流量波動之影響。</td></tr><tr><td>氣候變遷</td><td>對設施進行氣候風險評估，對於高風險設施研擬改善方案，且檢討節能對策，強化企業員工節能觀念，並落實能源管理政策。</td></tr></tbody></table>",
+    "bbox_pdf": [
+      68.2272,
+      479.1708,
+      512.4816,
+      771.4836
+    ]
+  },
+  {
+    "bbox": [
+      1880.13,
+      191.69,
+      2183.8,
+      241.22
+    ],
+    "label": "Section-Header",
+    "content": "<h2>2.6 內部稽核機制</h2>",
+    "bbox_pdf": [
+      676.8468,
+      69.0084,
+      786.168,
+      86.8392
+    ]
+  },
+  {
+    "bbox": [
+      1880.13,
+      305.84,
+      3090.48,
+      394.14
+    ],
+    "label": "Text",
+    "content": "<p>本公司設置稽核室為獨立單位，負責內部稽核業務，直接隸屬董事會；目前配置三名專任內部稽核人員，包含一名稽核主管。專任內部稽核人員互為選定擔任職務代理人，代理執行稽核業務。</p>",
+    "bbox_pdf": [
+      676.8468,
+      110.1024,
+      1112.5728,
+      141.8904
+    ]
+  },
+  {
+    "bbox": [
+      1880.13,
+      450.14,
+      2203.18,
+      495.37
+    ],
+    "label": "Section-Header",
+    "content": "<h3>2.6.1 稽核計畫之擬定</h3>",
+    "bbox_pdf": [
+      676.8468,
+      162.0504,
+      793.1448,
+      178.3332
+    ]
+  },
+  {
+    "bbox": [
+      1880.13,
+      510.44,
+      3101.25,
+      648.29
+    ],
+    "label": "Text",
+    "content": "<p>執行內部稽核可提供管理階層了解內部控制功能運作狀況及已存在或潛在缺失的管道。本公司稽核室每年年底依前述風險評估結果擬訂次年度稽核計畫，該計畫先送審計委員會通過後再送董事會決議通過後於次年度按計畫實施。</p>",
+    "bbox_pdf": [
+      676.8468,
+      183.7584,
+      1116.45,
+      233.3844
+    ]
+  },
+  {
+    "bbox": [
+      1880.13,
+      717.21,
+      3101.25,
+      902.43
+    ],
+    "label": "Text",
+    "content": "<p>年度稽核計畫依風險評估結果擬定，風險辨識因子各項因子依序賦予1~9分之風險強度。風險強度劃分為三等級，高度者為6分以上，中度者為3~5分，低度者為未達3分。舉凡控制作業項目風險強度達高度者為年度計畫必查標的，而連中度且為法定必查項目亦為計畫查核標的。2022年依風險得分評估內部稽核報告為35件，其循環類別及所占比例如下：</p>",
+    "bbox_pdf": [
+      676.8468,
+      258.1956,
+      1116.45,
+      324.8748
+    ]
+  },
+  {
+    "bbox": [
+      1880.13,
+      947.66,
+      3101.25,
+      1479.64
+    ],
+    "label": "Table",
+    "content": "<table><thead><tr><th>風險種類/強度</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th></tr></thead><tbody><tr><td>人為疏失</td><td>●</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>法令應查及輪查項目</td><td></td><td>●</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>會議熱點、受稽單位列述自評或發現問題</td><td></td><td></td><td>●</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>內、外部檢查或稽核曾出具/溝通缺失、建議等事項</td><td></td><td></td><td></td><td>●</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>近期內相關法規辦法、資料分析或標之重大異動</td><td></td><td></td><td></td><td></td><td>●</td><td></td><td></td><td></td><td></td></tr><tr><td>管理者未落實監督</td><td></td><td></td><td></td><td></td><td></td><td>●</td><td></td><td></td><td></td></tr><tr><td>公司組織架構或控制環境有變化</td><td></td><td></td><td></td><td></td><td></td><td></td><td>●</td><td></td><td></td></tr><tr><td>內部控制制度之設計尚未依據市場環境變化適時調整</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>●</td><td></td></tr><tr><td>內控制度之控制重點其設計及執行不完善</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>●</td></tr></tbody></table>",
+    "bbox_pdf": [
+      676.8468,
+      341.1576,
+      1116.45,
+      532.6704
+    ]
+  },
+  {
+    "bbox": [
+      1880.13,
+      1537.8,
+      2360.4,
+      1574.41
+    ],
+    "label": "Caption",
+    "content": "<p>◎ 2022年依風險得分評估內部稽核報告</p>",
+    "bbox_pdf": [
+      676.8468,
+      553.608,
+      849.744,
+      566.7876
+    ]
+  },
+  {
+    "bbox": [
+      1880.13,
+      1578.72,
+      2371.16,
+      2067.62
+    ],
+    "label": "Table",
+    "content": "<table><thead><tr><th>項次</th><th>%</th></tr></thead><tbody><tr><td>投資循環</td><td>13</td><td>37</td></tr><tr><td>內部管理制度</td><td>11</td><td>31</td></tr><tr><td>銷售及收款循環</td><td>5</td><td>14</td></tr><tr><td>採購及付款循環</td><td>2</td><td>6</td></tr><tr><td>電腦化資訊系統</td><td>1</td><td>3</td></tr><tr><td>管線工程循環</td><td>2</td><td>6</td></tr><tr><td>新工循環</td><td>1</td><td>3</td></tr></tbody><tfoot><tr><td>合計</td><td>35</td><td>100</td></tr></tfoot></table>",
+    "bbox_pdf": [
+      676.8468,
+      568.3392,
+      853.6176,
+      744.3432
+    ]
+  },
+  {
+    "bbox": [
+      2403.47,
+      1645.48,
+      3103.4,
+      2046.09
+    ],
+    "label": "Figure",
+    "content": "<img alt=\"Pie chart showing the percentage distribution of the 35 internal audit items. The distribution is: 投資循環 37%, 內部管理制度 31%, 銷售及收款循環 14%, 採購及付款循環 6%, 電腦化資訊系統 3%, 管線工程循環 6%, 新工循環 3%.\"/>",
+    "bbox_pdf": [
+      865.2492,
+      592.3728,
+      1117.224,
+      736.5924
+    ]
+  },
+  {
+    "bbox": [
+      71.07,
+      2179.62,
+      116.3,
+      2227.0
+    ],
+    "label": "Page-Footer",
+    "content": "26",
+    "bbox_pdf": [
+      25.5852,
+      784.6632,
+      41.868,
+      801.72
+    ]
+  },
+  {
+    "bbox": [
+      3178.78,
+      2179.62,
+      3230.47,
+      2227.0
+    ],
+    "label": "Page-Footer",
+    "content": "27",
+    "bbox_pdf": [
+      1144.3608,
+      784.6632,
+      1162.9692,
+      801.72
+    ]
+  }
+]

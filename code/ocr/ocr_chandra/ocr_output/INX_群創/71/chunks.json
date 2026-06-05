@@ -1,0 +1,146 @@
+[
+  {
+    "bbox": [
+      0.0,
+      229.98,
+      92.89,
+      335.06
+    ],
+    "label": "Image",
+    "content": "<img alt=\"Stylized number 3 logo.\"/>",
+    "bbox_pdf": [
+      0.0,
+      82.7928,
+      33.4404,
+      120.6216
+    ]
+  },
+  {
+    "bbox": [
+      47.21,
+      402.08,
+      82.23,
+      621.39
+    ],
+    "label": "Page-Header",
+    "content": "創新轉型<br/>採購共行",
+    "bbox_pdf": [
+      16.9956,
+      144.7488,
+      29.6028,
+      223.7004
+    ]
+  },
+  {
+    "bbox": [
+      214.71,
+      188.85,
+      776.62,
+      226.93
+    ],
+    "label": "Section-Header",
+    "content": "溫室氣體(GHG)管理推動策略「DCIRN」",
+    "bbox_pdf": [
+      77.2956,
+      67.986,
+      279.5832,
+      81.6948
+    ]
+  },
+  {
+    "bbox": [
+      214.71,
+      248.25,
+      2060.33,
+      357.91
+    ],
+    "label": "Text",
+    "content": "<p>群創光電為因應全球氣候變遷，並滿足利害關係人及國際相關組織對溫室氣體(GHG)管理之期待，2012年推動供應鏈低碳管理策略「DCIR」，有鑑於近年全球氣候變遷加劇及國際淨零排放趨勢，2022年推動淨零管理策略「DCIRN」，由低碳轉型邁向淨零轉型，增加碳中和目標，並與32家關鍵供應商制定2030年減碳20%目標前進，共同攜手邁向氣候正效益。</p>",
+    "bbox_pdf": [
+      77.2956,
+      89.37,
+      741.7188,
+      128.8476
+    ]
+  },
+  {
+    "bbox": [
+      494.91,
+      437.11,
+      804.03,
+      469.09
+    ],
+    "label": "Section-Header",
+    "content": "2012低碳管理策略-DCIR",
+    "bbox_pdf": [
+      178.1676,
+      157.3596,
+      289.4508,
+      168.8724
+    ]
+  },
+  {
+    "bbox": [
+      210.14,
+      712.77,
+      1087.27,
+      1104.19
+    ],
+    "label": "Figure",
+    "content": "<div><p><strong>Carbon Reduction</strong><br/>碳減量<br/>善盡企業低碳社會責任<br/>的第一步</p><p><strong>Carbon Disclosure</strong><br/>碳揭露<br/>導入企業低碳管理<br/>最重要的第一步</p><p><strong>Carbon Contribution</strong><br/>碳貢獻<br/>呈現企業低碳影響力<br/>的第一步</p><p><strong>Carbon Intensity</strong><br/>碳強度<br/>了解企業低碳競爭力<br/>的第一步</p><p style=\"text-align: center;\"><strong>Low Carbon Supply Chain</strong></p></div>",
+    "bbox_pdf": [
+      75.6504,
+      256.5972,
+      391.4172,
+      397.5084
+    ]
+  },
+  {
+    "bbox": [
+      1443.6,
+      437.11,
+      1772.52,
+      469.09
+    ],
+    "label": "Section-Header",
+    "content": "2022淨零管理策略-DCIRN",
+    "bbox_pdf": [
+      519.696,
+      157.3596,
+      638.1072,
+      168.8724
+    ]
+  },
+  {
+    "bbox": [
+      1180.16,
+      523.92,
+      2069.47,
+      1274.77
+    ],
+    "label": "Figure",
+    "content": "<div><p><strong>Carbon Disclosure</strong><br/>碳揭露<br/>導入氣候管理力<br/>的第一步</p><p><strong>Carbon Contribution</strong><br/>碳貢獻<br/>了解氣候影響力<br/>的第一步</p><p><strong>Carbon Intensity</strong><br/>碳強度<br/>衡量氣候競爭力<br/>的第一步</p><p><strong>Carbon Reduction</strong><br/>碳減量<br/>善盡氣候責任力<br/>的第一步</p><p><strong>Carbon Neutrality</strong><br/>碳中和<br/>邁向氣候正效益<br/>的第一步</p><p style=\"text-align: center;\"><strong>NET ZER</strong></p></div>",
+    "bbox_pdf": [
+      424.8576,
+      188.6112,
+      745.0092,
+      458.9172
+    ]
+  },
+  {
+    "bbox": [
+      47.21,
+      1536.73,
+      82.23,
+      1564.14
+    ],
+    "label": "Page-Footer",
+    "content": "70",
+    "bbox_pdf": [
+      16.9956,
+      553.2228,
+      29.6028,
+      563.0904
+    ]
+  }
+]

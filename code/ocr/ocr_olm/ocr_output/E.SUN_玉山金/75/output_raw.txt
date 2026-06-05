@@ -1,0 +1,14 @@
+{
+  "page": {
+    "width": 1754,
+    "height": 1241
+  },
+  "objects": [
+    {
+      "id": 0,
+      "text": "普惠金融貸款產品\n金額單位：新臺幣佰萬元\n\n<table>\n  <tr>\n    <th rowspan=\"2\">服務項目</th>\n    <th rowspan=\"2\">目標客群</th>\n    <th colspan=\"2\">2020</th>\n    <th colspan=\"2\">2021</th>\n    <th colspan=\"2\">2022</th>\n  </tr>\n  <tr>\n    <th>戶數</th>\n    <th>金額</th>\n    <th>戶數</th>\n    <th>金額</th>\n    <th>戶數</th>\n    <th>金額</th>\n  </tr>\n  <tr>\n    <td>新創企業貸款<br>協助臺灣新創企業站穩腳跟，快速取得資金</td>\n    <td></td>\n    <td>2,592</td>\n    <td>2,182</td>\n    <td>2,871</td>\n    <td>2,069</td>\n    <td>2,523</td>\n    <td>1,606</td>\n  </tr>\n  <tr>\n    <td>地方創生貸款<br>提供臺灣特色產業專屬資金，促進城鄉均衡發展</td>\n    <td></td>\n    <td>1,099</td>\n    <td>5,891</td>\n    <td>1,160</td>\n    <td>5,469</td>\n    <td>1,181</td>\n    <td>5,316</td>\n  </tr>\n  <tr>\n    <td>社會創新企業貸款（含微笑希望貸）<br>陪伴社企、社創成長茁壯，協助健全財務體質並提供資金</td>\n    <td>小型企業(Microbusinesses)</td>\n    <td>21</td>\n    <td>70</td>\n    <td>26</td>\n    <td>79</td>\n    <td>45</td>\n    <td>112</td>\n  </tr>\n  <tr>\n    <td>廠辦購置貸款<br>協助小型企業購置廠房與辦公室</td>\n    <td></td>\n    <td>4,137</td>\n    <td>36,906</td>\n    <td>4,042</td>\n    <td>37,527</td>\n    <td>3,957</td>\n    <td>37,981</td>\n  </tr>\n  <tr>\n    <td>週轉金貸款<br>協助小型企業取得營運週轉資金</td>\n    <td></td>\n    <td>16,064</td>\n    <td>64,903</td>\n    <td>17,614</td>\n    <td>64,991</td>\n    <td>17,760</td>\n    <td>66,183</td>\n  </tr>\n  <tr>\n    <td>住宅補貼貸款<br>協助中低所得家庭修繕、購買房屋</td>\n    <td></td>\n    <td>874</td>\n    <td>1,300</td>\n    <td>993</td>\n    <td>1,496</td>\n    <td>1,154</td>\n    <td>1,759</td>\n  </tr>\n  <tr>\n    <td>債務協商與還款計畫服務<br>提供遭逢變故而收入銳減的顧客專屬還款方案</td>\n    <td>經濟弱勢族群(Poor and low-income individuals)</td>\n    <td>1,768</td>\n    <td>248</td>\n    <td>2,951</td>\n    <td>995</td>\n    <td>1,826</td>\n    <td>495</td>\n  </tr>\n  <tr>\n    <td>地震受災戶<br>災後重建貸款服務</td>\n    <td></td>\n    <td>21</td>\n    <td>14</td>\n    <td>17</td>\n    <td>11</td>\n    <td>14</td>\n    <td>8</td>\n  </tr>\n  <tr>\n    <td>學生貸款<br>協助優秀學子取得留學所需資金</td>\n    <td>青年(Young people)</td>\n    <td>288</td>\n    <td>200</td>\n    <td>284</td>\n    <td>197</td>\n    <td>285</td>\n    <td>191</td>\n  </tr>\n  <tr>\n    <td>青年創業啟動金貸款<br>協助青年創業圓夢，打造有利青年創業的環境</td>\n    <td></td>\n    <td>206</td>\n    <td>85</td>\n    <td>373</td>\n    <td>178</td>\n    <td>521</td>\n    <td>242</td>\n  </tr>\n  <tr>\n    <td>以房養老貸款<br>協助高齡者將不動產活化，定期撥付穩定生活資金</td>\n    <td>高齡長者(Elderly people)</td>\n    <td>-</td>\n    <td>-</td>\n    <td>-</td>\n    <td>-</td>\n    <td>3</td>\n    <td>2.45</td>\n  </tr>\n  <tr>\n    <td colspan=\"2\"></td>\n    <td colspan=\"2\">總戶數及餘額</td>\n    <td colspan=\"2\">23,069</td>\n    <td colspan=\"2\">106,861</td>\n  </tr>\n</table>",
+      "bbox": [109, 180, 1666, 1142],
+      "type": "table"
+    }
+  ]
+}

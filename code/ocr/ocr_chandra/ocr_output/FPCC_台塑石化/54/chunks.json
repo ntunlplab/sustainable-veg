@@ -1,0 +1,226 @@
+[
+  {
+    "bbox": [
+      167.53,
+      42.64,
+      313.74,
+      97.46
+    ],
+    "label": "Page-Header",
+    "content": "<p>CH1<br/>開創 產業新發展</p>",
+    "bbox_pdf": [
+      60.3108,
+      15.3504,
+      112.9464,
+      35.0856
+    ]
+  },
+  {
+    "bbox": [
+      414.26,
+      42.64,
+      561.99,
+      97.46
+    ],
+    "label": "Page-Header",
+    "content": "<p>CH2<br/>實踐 綠色新樣貌</p>",
+    "bbox_pdf": [
+      149.1336,
+      15.3504,
+      202.3164,
+      35.0856
+    ]
+  },
+  {
+    "bbox": [
+      659.47,
+      42.64,
+      808.72,
+      97.46
+    ],
+    "label": "Page-Header",
+    "content": "<p>CH3<br/>深化 工安新文化</p>",
+    "bbox_pdf": [
+      237.4092,
+      15.3504,
+      291.1392,
+      35.0856
+    ]
+  },
+  {
+    "bbox": [
+      909.24,
+      42.64,
+      1053.93,
+      97.46
+    ],
+    "label": "Page-Header",
+    "content": "<p>CH4<br/>培育 人才新思維</p>",
+    "bbox_pdf": [
+      327.3264,
+      15.3504,
+      379.4148,
+      35.0856
+    ]
+  },
+  {
+    "bbox": [
+      1152.93,
+      42.64,
+      1299.14,
+      97.46
+    ],
+    "label": "Page-Header",
+    "content": "<p>CH5<br/>連結 社區新價值</p>",
+    "bbox_pdf": [
+      415.0548,
+      15.3504,
+      467.6904,
+      35.0856
+    ]
+  },
+  {
+    "bbox": [
+      1449.92,
+      56.34,
+      1494.08,
+      83.75
+    ],
+    "label": "Page-Header",
+    "content": "<p>附錄</p>",
+    "bbox_pdf": [
+      521.9712,
+      20.2824,
+      537.8688,
+      30.15
+    ]
+  },
+  {
+    "bbox": [
+      149.26,
+      229.94,
+      575.7,
+      292.38
+    ],
+    "label": "Section-Header",
+    "content": "<h2>2.2 溫室氣體管理</h2>",
+    "bbox_pdf": [
+      53.7336,
+      82.7784,
+      207.252,
+      105.2568
+    ]
+  },
+  {
+    "bbox": [
+      149.26,
+      351.76,
+      622.92,
+      397.45
+    ],
+    "label": "Section-Header",
+    "content": "<h3>● 重大主題管理方針 (MA)</h3>",
+    "bbox_pdf": [
+      53.7336,
+      126.6336,
+      224.2512,
+      143.082
+    ]
+  },
+  {
+    "bbox": [
+      149.26,
+      444.65,
+      1494.08,
+      662.41
+    ],
+    "label": "Table",
+    "content": "<table><thead><tr><th>重大主題</th><th>重大主題管理政策</th></tr></thead><tbody><tr><td><img alt=\"CO2 icon\"/>溫室氣體管理</td><td>2050年達到碳中和目標,持續推動低碳措施、降低單位產品能耗及設置(投資)綠能發電設施等改善方式</td></tr></tbody></table>",
+    "bbox_pdf": [
+      53.7336,
+      160.074,
+      537.8688,
+      238.4676
+    ]
+  },
+  {
+    "bbox": [
+      149.26,
+      712.66,
+      1494.08,
+      1321.78
+    ],
+    "label": "Table",
+    "content": "<table><tbody><tr><td>正/負面衝擊說明</td><td>○ 提高能源效率,減少碳排放<br/>△ 環境破壞<br/>△ 法規嚴格監管</td><td>○ 正面 △ 負面</td></tr><tr><td>管理行動</td><td>■ 推動各項節能方案</td><td>■ 擴大盤查子公司溫室氣體</td></tr><tr><td>成效追蹤</td><td>■ 2022年完成214案,減排195千噸CO<sub>2</sub>e/年、節電3,289萬度/年</td><td>■ 2022.12完成提報董事會溫室氣體盤查執行規劃</td></tr><tr><td rowspan=\"2\">利害關係人<br/>議合</td><td>利害關係族群</td><td>■ 政府機構</td></tr><tr><td>溝通管道與頻率</td><td>■ 實體會議(1次/年)</td></tr><tr><td>議合成效</td><td></td><td>■ 響應經濟部工業局「產業溫室氣體減量查核」,取得溫室氣體減量成果86,857噸CO<sub>2</sub>e</td></tr></tbody></table>",
+    "bbox_pdf": [
+      53.7336,
+      256.5576,
+      537.8688,
+      475.8408
+    ]
+  },
+  {
+    "bbox": [
+      149.26,
+      1375.08,
+      391.42,
+      1417.71
+    ],
+    "label": "Section-Header",
+    "content": "<h3>● 盤查架構圖</h3>",
+    "bbox_pdf": [
+      53.7336,
+      495.0288,
+      140.9112,
+      510.3756
+    ]
+  },
+  {
+    "bbox": [
+      149.26,
+      1454.26,
+      1372.24,
+      1493.85
+    ],
+    "label": "Text",
+    "content": "<p>台塑石化依循 ISO 14064-1:2018 標準進行溫室氣體的盤查,並委由 BSI Taiwan 進行查證。</p>",
+    "bbox_pdf": [
+      53.7336,
+      523.5336,
+      494.0064,
+      537.786
+    ]
+  },
+  {
+    "bbox": [
+      149.26,
+      1544.11,
+      1494.08,
+      2165.4
+    ],
+    "label": "Figure",
+    "content": "<img alt=\"Flowchart showing the GHG verification framework. The process starts with the Security Department (安衛處) in the Company level, which feeds into the Business Department (事業部) level. The Business Department (Security Team, 事業部安衛組) feeds into the Factory level (廠處). The Factory level includes Factory Security Personnel (廠處安衛專人) and Factory Security Personnel (廠處安衛專人). Both Factory Security Personnel groups feed into the Executives (執行人員) level, represented by Factory Executives (各廠處執行人員). The Business Department also includes other departments (煉油部、烯烴部、公用部, (其他部門)).\"/>",
+    "bbox_pdf": [
+      53.7336,
+      555.8796,
+      537.8688,
+      779.544
+    ]
+  },
+  {
+    "bbox": [
+      1521.5,
+      2203.47,
+      1551.96,
+      2230.88
+    ],
+    "label": "Page-Footer",
+    "content": "<p>52</p>",
+    "bbox_pdf": [
+      547.74,
+      793.2492,
+      558.7056,
+      803.1168
+    ]
+  }
+]

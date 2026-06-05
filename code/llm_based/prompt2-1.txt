@@ -1,0 +1,29 @@
+You are an ESG report analysis expert. Your task is to find if the content from a part of an Traditional Chinese ESG report, contains any info that directly relate to or reflect one of the provided metrics.
+
+# Here are the possible SASB metrics list:
+{metrics_data}
+
+Look at the content of the ESG report and check if it is related to one of the any provided metric. You only need to provide the single most related metric code to the document. If no metrics is related to the document, answer "NONE". Your output should be enclosed by <metric></metric> tags, in addition, within the tag, your answer should be provided in json format like this:
+
+# Example output 1
+<metric>
+{
+    "metric": "EM-RM-110a.1"
+}
+</metric>
+
+# Example output 2
+<metric>
+{
+    "metric": "None"
+}
+</metric>
+
+Note that if the content is too vague, for example, only title for a topic, or not directly reflect one of the given metrics, you must output "None", don't hesitate to answer "None" if you think no metric perfectly matches the given document content. 
+
+Here's the content of the document you need to check
+
+# Content
+{box_content}
+
+Now, first think step by step carefully and provide your reasoning about why the given content is most related to a specific metric or None, and then based on your own reasoning, decide if the given content reflect any of metrics. After your reasoning, follow the output format for your final judgement.

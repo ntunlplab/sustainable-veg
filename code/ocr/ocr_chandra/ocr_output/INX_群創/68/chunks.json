@@ -1,0 +1,274 @@
+[
+  {
+    "bbox": [
+      2243.06,
+      231.5,
+      2339.0,
+      339.63
+    ],
+    "label": "Page-Header",
+    "content": "3",
+    "bbox_pdf": [
+      807.5016,
+      83.34,
+      842.04,
+      122.2668
+    ]
+  },
+  {
+    "bbox": [
+      2252.2,
+      403.6,
+      2285.7,
+      627.48
+    ],
+    "label": "Page-Header",
+    "content": "創新轉型採購共行",
+    "bbox_pdf": [
+      810.792,
+      145.296,
+      822.852,
+      225.8928
+    ]
+  },
+  {
+    "bbox": [
+      266.49,
+      190.38,
+      1043.11,
+      226.93
+    ],
+    "label": "Section-Header",
+    "content": "<h2>建立跨產業供應鏈風險聯防體系 打造韌性供應鏈</h2>",
+    "bbox_pdf": [
+      95.9364,
+      68.5368,
+      375.5196,
+      81.6948
+    ]
+  },
+  {
+    "bbox": [
+      266.49,
+      249.78,
+      1143.61,
+      357.91
+    ],
+    "label": "Text",
+    "content": "<p>面對新型冠狀病毒在全球疫情，群創光電雖有完備營運與備援機制可自保，疫情期間也意識供應鏈夥伴的營運持續與備援機制也須刻不容緩的攜手向前，才能應對越來越不穩定的外在環境。</p>",
+    "bbox_pdf": [
+      95.9364,
+      89.9208,
+      411.6996,
+      128.8476
+    ]
+  },
+  {
+    "bbox": [
+      266.49,
+      365.52,
+      1143.61,
+      630.53
+    ],
+    "label": "Text",
+    "content": "<p>群創光電為與供應鏈夥伴建立更緊密的持續營運合作體系，與財團法人中衛中心共同合作，申請工業局韌性供應鏈專案計畫，邀請各類供應鏈合作夥伴中的設備廠商-東捷科技、產品應用研發/銷售市場-群豐駿科技及戰略醫療組織-奇美醫院共同打造跨產業供應鏈風險聯防體系以因應外在環境變化。透過風險同步分析模擬、快速通報因應、建構標準模式等手法，降低供應鏈受衝擊影響，打造具備風險管控、敏捷應變之韌性供應鏈，並期許未來持續擴散應用，成為台灣產業標竿。</p>",
+    "bbox_pdf": [
+      95.9364,
+      131.5872,
+      411.6996,
+      226.9908
+    ]
+  },
+  {
+    "bbox": [
+      266.49,
+      657.94,
+      1143.61,
+      941.23
+    ],
+    "label": "Image",
+    "content": "<img alt=\"A group of people wearing masks standing together, giving thumbs up.\"/>",
+    "bbox_pdf": [
+      95.9364,
+      236.8584,
+      411.6996,
+      338.8428
+    ]
+  },
+  {
+    "bbox": [
+      271.06,
+      971.69,
+      490.34,
+      1000.62
+    ],
+    "label": "Section-Header",
+    "content": "<h3>/韌性供應鏈架構/</h3>",
+    "bbox_pdf": [
+      97.5816,
+      349.8084,
+      176.5224,
+      360.2232
+    ]
+  },
+  {
+    "bbox": [
+      490.34,
+      1018.9,
+      794.89,
+      1044.79
+    ],
+    "label": "Section-Header",
+    "content": "<h4>供應鏈風險預警管理機制(強化)</h4>",
+    "bbox_pdf": [
+      176.5224,
+      366.804,
+      286.1604,
+      376.1244
+    ]
+  },
+  {
+    "bbox": [
+      490.34,
+      1053.93,
+      950.22,
+      1160.54
+    ],
+    "label": "List-Group",
+    "content": "<ol><li>供應鏈風險預警目標建置</li><li>原物料斷鏈衝擊風險指標制訂與分析</li><li>風險威脅鑑別分析方法</li><li>輔導供應商風險評鑑作業機制與風險預警檢討</li></ol>",
+    "bbox_pdf": [
+      176.5224,
+      379.4148,
+      342.0792,
+      417.7944
+    ]
+  },
+  {
+    "bbox": [
+      266.49,
+      1165.11,
+      1111.63,
+      1424.02
+    ],
+    "label": "Figure",
+    "content": "<img alt=\"Diagram showing the Supply Chain Resilience Management Framework. The center is '群創光電' (Innolux). The framework is divided into two main areas: '營運持續管理機制' (Operational Continuity Management Mechanism) and '建置營運持續e化系統' (Establishment of Operational Continuity e-System). The Operational Continuity Management Mechanism includes: 1. 供應商持續現況調查、制定營運管理目標與政策; 2. 開辦系列講座與課程; 3. 供應商營運持續計畫(BCP)演練推動、檢討改善. The Operational Continuity e-System includes: 1. 規劃系統架構與作業程序; 2. 系統作業分析報表; 3. 系統測試與導入訓練: 群創、供應商.\"/>",
+    "bbox_pdf": [
+      95.9364,
+      419.4396,
+      400.1868,
+      512.6472
+    ]
+  },
+  {
+    "bbox": [
+      1248.68,
+      190.38,
+      1429.9,
+      226.93
+    ],
+    "label": "Section-Header",
+    "content": "<h2>供應商鑑別</h2>",
+    "bbox_pdf": [
+      449.5248,
+      68.5368,
+      514.764,
+      81.6948
+    ]
+  },
+  {
+    "bbox": [
+      1262.39,
+      234.55,
+      2110.58,
+      561.99
+    ],
+    "label": "Table",
+    "content": "<table><tbody><tr><td>一階供應商</td><td>定義為直接提供交易之供應商，2022年一階供應商共585家。</td></tr><tr><td>關鍵一階供應商</td><td>依(1)不可取代性；(2)客戶指定；(3)年採購金額前90%之原物料廠商進行定義，2022年關鍵一階供應商共130家。</td></tr><tr><td>關鍵非一階供應商</td><td>定義為指定代理商或上游廠商進行交易之供應商，2022年關鍵非一階供應商共19家。</td></tr></tbody></table>",
+    "bbox_pdf": [
+      454.4604,
+      84.438,
+      759.8088,
+      202.3164
+    ]
+  },
+  {
+    "bbox": [
+      1530.4,
+      604.64,
+      1790.8,
+      642.71
+    ],
+    "label": "Section-Header",
+    "content": "<h3>/供應商示意圖/</h3>",
+    "bbox_pdf": [
+      550.944,
+      217.6704,
+      644.688,
+      231.3756
+    ]
+  },
+  {
+    "bbox": [
+      1329.39,
+      657.94,
+      2020.74,
+      1052.41
+    ],
+    "label": "Figure",
+    "content": "<img alt=\"Diagram illustrating the supplier classification: 一階供應商 (First Tier Supplier) and 非一階供應商 (Non-First Tier Supplier). Within the First Tier Supplier category, there are 關鍵一階供應商 (Key First Tier Supplier) and 關鍵非一階供應商 (Key Non-First Tier Supplier). The entire supplier base is categorized as 高風險供應商 (High Risk Supplier).\"/>",
+    "bbox_pdf": [
+      478.5804,
+      236.8584,
+      727.4664,
+      378.8676
+    ]
+  },
+  {
+    "bbox": [
+      1248.68,
+      1105.71,
+      1571.52,
+      1143.79
+    ],
+    "label": "Section-Header",
+    "content": "<h2>供應商永續管理架構</h2>",
+    "bbox_pdf": [
+      449.5248,
+      398.0556,
+      565.7472,
+      411.7644
+    ]
+  },
+  {
+    "bbox": [
+      1248.68,
+      1160.54,
+      2110.58,
+      1268.68
+    ],
+    "label": "Text",
+    "content": "<p>群創光電制定供應商RBA管理機制，藉由供應商評選、稽核驗證及持續改善等三大流程，管控供應鏈永續風險，驅動供應商持續改善，強化其永續作為，透過每年之管理，確保供應商遵循並符合群創光電相關規範。</p>",
+    "bbox_pdf": [
+      449.5248,
+      417.7944,
+      759.8088,
+      456.7248
+    ]
+  },
+  {
+    "bbox": [
+      2238.5,
+      1536.73,
+      2275.04,
+      1562.62
+    ],
+    "label": "Page-Footer",
+    "content": "67",
+    "bbox_pdf": [
+      805.86,
+      553.2228,
+      819.0144,
+      562.5432
+    ]
+  }
+]

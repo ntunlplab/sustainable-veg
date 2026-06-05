@@ -1,0 +1,9 @@
+{
+  "page": {
+    "width": 1754,
+    "height": 1241
+  },
+  "objects": [
+    {
+      "id": 0,
+      "text": "<table>\n<tr><th rowspan="2">廠區註2</th><th rowspan="2">項目</th><th colspan="3">主管人員註3</th><th colspan="2">專業人員註3</th><th colspan="2">行政人員註3</th><th colspan="2">技術人員註3</th><th rowspan="2">總計</th></tr>\n<tr><th>基層</th><th>中階</th><th>高階</th><th>專案人員註3</th><th>行政人員註3</th><th>技術人員註3</th></tr>\n<tr><td rowspan="2">上海</td><td>&lt;30歲</td><td>女性</td><td>0</td><td>0</td><td>0</td><td>8</td><td>0</td><td>269</td><td>277</td></tr>\n<tr><td></td><td>男性</td><td>0</td><td>0</td><td>0</td><td>31</td><td>1</td><td>658</td><td>690</td></tr>\n<tr><td rowspan="2"></td><td>30-50歲</td><td>女性</td><td>10</td><td>0</td><td>0</td><td>37</td><td>28</td><td>953</td><td>1,028</td></tr>\n<tr><td></td><td>男性</td><td>21</td><td>0</td><td>0</td><td>72</td><td>5</td><td>359</td><td>457</td></tr>\n<tr><td rowspan="2"></td><td>&gt;50歲</td><td>女性</td><td>3</td><td>0</td><td>0</td><td>1</td><td>0</td><td>17</td><td>21</td></tr>\n<tr><td></td><td>男性</td><td>6</td><td>0</td><td>0</td><td>2</td><td>3</td><td>7</td><td>18</td></tr>\n<tr><td colspan="2">人數合計</td><td>40</td><td>0</td><td>0</td><td>151</td><td>37</td><td>2,263</td><td>2,491</td></tr>\n<tr><td colspan="2">比例%</td><td>1.61%</td><td>0.00%</td><td>0.00%</td><td>6.06%</td><td>1.49%</td><td>90.85%</td><td>100%</td></tr>\n<tr><th rowspan="2">廠區註2</th><th rowspan="2">項目</th><th colspan="3">主管人員註3</th><th colspan="2">專業人員註3</th><th colspan="2">行政人員註3</th><th colspan="2">技術人員註3</th><th rowspan="2">總計</th></tr>\n<tr><th>基層</th><th>中階</th><th>高階</th><th>專案人員註3</th><th>行政人員註3</th><th>技術人員註3</th></tr>\n<tr><td rowspan="2">海外其他</td><td>&lt;30歲</td><td>女性</td><td>0</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>3</td></tr>\n<tr><td></td><td>男性</td><td>0</td><td>0</td><td>0</td><td>7</td><td>1</td><td>0</td><td>8</td></tr>\n<tr><td rowspan="2"></td><

@@ -1,0 +1,162 @@
+[
+  {
+    "bbox": [
+      465.19,
+      189.53,
+      693.47,
+      241.22
+    ],
+    "label": "Section-Header",
+    "content": "<h3>8.3 捐血活動</h3>",
+    "bbox_pdf": [
+      167.4684,
+      68.2308,
+      249.6492,
+      86.8392
+    ]
+  },
+  {
+    "bbox": [
+      465.19,
+      310.14,
+      1427.87,
+      559.98
+    ],
+    "label": "Text",
+    "content": "<p>本公司發揮「人飢己飢、人溺己溺」的精神，2022年度與財團法人台北市新光吳氏基金會共同辦理三次捐血活動，由本公司提供場地並呼籲全體員工暨吉祥里里民等愛心民眾踴躍捐血，讓「捐血一袋，救人一命」不只是口號，更是付出實際行動力以達成對社會貢獻一己之力。2022年度參與人數共211人，捐血袋數318袋。</p>",
+    "bbox_pdf": [
+      167.4684,
+      111.6504,
+      514.0332,
+      201.5928
+    ]
+  },
+  {
+    "bbox": [
+      465.19,
+      600.9,
+      1423.56,
+      1178.12
+    ],
+    "label": "Image",
+    "content": "<img alt=\"Three photos showing donation activities: a man holding a donation certificate, a woman placing a donation certificate on a child's head, and a group of people standing next to a donation vehicle.\"/>",
+    "bbox_pdf": [
+      167.4684,
+      216.324,
+      512.4816,
+      424.1232
+    ]
+  },
+  {
+    "bbox": [
+      465.19,
+      1251.34,
+      1421.41,
+      1443.03
+    ],
+    "label": "Table",
+    "content": "<table><thead><tr><th>捐血日期</th><th>2022/04/12</th><th>2022/08/09</th><th>2022/12/08</th><th>總計</th></tr></thead><tbody><tr><th>捐血人數</th><td>63</td><td>78</td><td>70</td><td>211</td></tr><tr><th>捐血袋數</th><td>96</td><td>119</td><td>103</td><td>318</td></tr></tbody></table>",
+    "bbox_pdf": [
+      167.4684,
+      450.4824,
+      511.7076,
+      519.4908
+    ]
+  },
+  {
+    "bbox": [
+      465.19,
+      1460.26,
+      1113.43,
+      1490.41
+    ],
+    "label": "Text",
+    "content": "<p>*：捐血人員來源包含吉祥里民、大樓承租戶、洽公人員及本公司員工。</p>",
+    "bbox_pdf": [
+      167.4684,
+      525.6936,
+      400.8348,
+      536.5476
+    ]
+  },
+  {
+    "bbox": [
+      465.19,
+      1533.49,
+      898.07,
+      2138.7
+    ],
+    "label": "Image",
+    "content": "<img alt=\"Certificate of Appreciation (感謝狀) issued by Taiwan Northern Region Wafer Corporation and the Taipei City Shihkuo Foundation for Blood Donation, dated December 15, 2022. The certificate acknowledges the donation of 318 bags of blood.\"/>",
+    "bbox_pdf": [
+      167.4684,
+      552.0564,
+      323.3052,
+      769.932
+    ]
+  },
+  {
+    "bbox": [
+      994.98,
+      1692.87,
+      1378.33,
+      2147.31
+    ],
+    "label": "Image",
+    "content": "<img alt=\"Illustration showing a smiling nurse, a blood bag, and an ambulance, symbolizing blood donation and medical aid.\"/>",
+    "bbox_pdf": [
+      358.1928,
+      609.4332,
+      496.1988,
+      773.0316
+    ]
+  },
+  {
+    "bbox": [
+      1873.67,
+      409.22,
+      3308.0,
+      1662.71
+    ],
+    "label": "Image",
+    "content": "<img alt=\"A hand holding a 3D printed blood bag model, filled with red liquid, symbolizing blood donation.\"/>",
+    "bbox_pdf": [
+      674.5212,
+      147.3192,
+      1190.88,
+      598.5756
+    ]
+  },
+  {
+    "bbox": [
+      73.22,
+      2181.77,
+      118.45,
+      2229.16
+    ],
+    "label": "Page-Footer",
+    "content": "94",
+    "bbox_pdf": [
+      26.3592,
+      785.4372,
+      42.642,
+      802.4976
+    ]
+  },
+  {
+    "bbox": [
+      3185.24,
+      2181.77,
+      3226.16,
+      2229.16
+    ],
+    "label": "Page-Footer",
+    "content": "95",
+    "bbox_pdf": [
+      1146.6864,
+      785.4372,
+      1161.4176,
+      802.4976
+    ]
+  }
+]

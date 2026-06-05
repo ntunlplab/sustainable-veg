@@ -1,0 +1,50 @@
+[
+  {
+    "bbox": [
+      0.0,
+      0.0,
+      1361.37,
+      1654.0
+    ],
+    "label": "Image",
+    "content": "<img alt=\"Three people examining financial charts and graphs in a meeting.\"/>",
+    "bbox_pdf": [
+      0.0,
+      0.0,
+      490.0932,
+      595.44
+    ]
+  },
+  {
+    "bbox": [
+      1678.11,
+      473.66,
+      1815.16,
+      546.76
+    ],
+    "label": "Section-Header",
+    "content": "<h2>附錄</h2>",
+    "bbox_pdf": [
+      604.1196,
+      170.5176,
+      653.4576,
+      196.8336
+    ]
+  },
+  {
+    "bbox": [
+      1673.54,
+      603.12,
+      2244.59,
+      846.8
+    ],
+    "label": "List-Group",
+    "content": "<table><tbody><tr><td>GRI 永續性報導準則 (GRI 準則) 對照表</td><td>85</td></tr><tr><td>SASB 準則對照表</td><td>93</td></tr><tr><td>上市上櫃公司氣候相關資訊</td><td>95</td></tr><tr><td>溫室氣體盤查及確信情形</td><td>96</td></tr><tr><td>確信項目彙總表</td><td>97</td></tr><tr><td>會計師有限確信報告</td><td>99</td></tr></tbody></table>",
+    "bbox_pdf": [
+      602.4744,
+      217.1232,
+      808.0524,
+      304.848
+    ]
+  }
+]

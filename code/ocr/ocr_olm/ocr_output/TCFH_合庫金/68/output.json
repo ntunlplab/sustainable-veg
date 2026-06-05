@@ -1,0 +1,59 @@
+{
+  "page": {
+    "width": 1754,
+    "height": 1241
+  },
+  "objects": [
+    {
+      "id": 1,
+      "text": "強化防制洗錢及打擊資恐能力\n為強化同仁對防制洗錢及打擊資恐相關法令制度之認知，2022 年集團舉辦相關教育訓練共計 45,363 人次參與，總受訓時數約 106,495 小時，每年亦就董監事、高階主管及員工辦理防制洗錢及打擊資恐相關教育訓練。本集團亦鼓勵員工取得國際反洗錢師（Certified Anti-Money Laundering Specialist, CAMS）及國內防制洗錢與打擊資恐專業人員證照。截至 2022 年底，集團內已有 6,435 人取得證照，占總集團員工人數 72.47%。",
+      "bbox": [
+        88,
+        154,
+        1674,
+        302
+      ],
+      "type": "paragraph",
+      "bbox_pdf": [
+        42.23849560379846,
+        73.86986635809076,
+        803.491382281348,
+        144.8616859749572
+      ]
+    },
+    {
+      "id": 2,
+      "text": "合庫集團 2022 年度防制洗錢及打擊資恐教育訓練統計表",
+      "bbox": [
+        103,
+        344,
+        678,
+        372
+      ],
+      "type": "paragraph",
+      "bbox_pdf": [
+        49.438239172627746,
+        165.0080131635274,
+        325.4284093110836,
+        178.43889795590755
+      ]
+    },
+    {
+      "id": 3,
+      "text": "<table>\n  <tr>\n    <th rowspan=\"2\">金控</th>\n    <th colspan=\"2\">銀行</th>\n    <th colspan=\"2\">票券</th>\n    <th colspan=\"2\">證券</th>\n    <th colspan=\"2\">投信</th>\n    <th colspan=\"2\">人壽</th>\n    <th colspan=\"2\">資產管理</th>\n    <th colspan=\"2\">創投</th>\n  </tr>\n  <tr>\n    <th>時數</th><th>人次</th>\n    <th>時數</th><th>人次</th>\n    <th>時數</th><th>人次</th>\n    <th>時數</th><th>人次</th>\n    <th>時數</th><th>人次</th>\n    <th>時數</th><th>人次</th>\n    <th>時數</th><th>人次</th>\n  </tr>\n  <tr>\n    <td>在網路上用案例檢討的方式培訓</td>\n    <td>0</td><td>0</td>\n    <td>15,079</td><td>4,824</td>\n    <td>0</td><td>0</td>\n    <td>1,604</td><td>802</td>\n    <td>0</td><td>0</td>\n    <td>793</td><td>315</td>\n    <td>0</td><td>0</td>\n    <td>0</td><td>0</td>\n  </tr>\n  <tr>\n    <td>在網路上用自我評估的方式培訓</td>\n    <td>0</td><td>0</td>\n    <td>2,618</td><td>7,863</td>\n    <td>0</td><td>0</td>\n    <td>572</td><td>381</td>\n    <td>0</td><td>0</td>\n    <td>717</td><td>239</td>\n    <td>0</td><td>0</td>\n    <td>0</td><td>0</td>\n  </tr>\n  <tr>\n    <td>在網絡上由法遵 / 法務部門負責的集體訓練</td>\n    <td>0</td><td>0</td>\n    <td>29,187</td><td>16,364</td>\n    <td>0</td><td>0</td>\n    <td>1,604</td><td>802</td>\n    <td>0</td><td>0</td>\n    <td>793</td><td>315</td>\n    <td>0</td><td>0</td>\n    <td>0</td><td>0</td>\n  </tr>\n  <tr>\n    <td>由法遵 / 法務部門辦理實體的培訓</td>\n    <td>154</td><td>77</td>\n    <td>9,199</td><td>1,248</td>\n    <td>207</td><td>193</td>\n    <td>0</td><td>0</td>\n    <td>155</td><td>93</td>\n    <td>0</td><td>0</td>\n    <td>88</td><td>88</td>\n    <td>12</td><td>12</td>\n  </tr>\n  <tr>\n    <td>由外部專家辦理實體的培訓</td>\n    <td>0</td><td>0</td>\n    <td>6,078</td><td>643</td>\n    <td>132</td><td>13</td>\n    <td>0</td><td>0</td>\n    <td>37</td><td>3</td>\n    <td>0</td><td>0</td>\n    <td>36</td><td>3</td>\n    <td>0</td><td>0</td>\n  </tr>\n  <tr>\n    <td>強制每年都要參與培訓</td>\n    <td>0</td><td>0</td>\n    <td>34,405</td><td>9,650</td>\n    <td>132</td><td>13</td>\n    <td>2,176</td><td>1,183</td>\n    <td>0</td><td>0</td>\n    <td>717</td><td>239</td>\n    <td>0</td><td>0</td>\n    <td>0</td><td>0</td>\n  </tr>\n  <tr>\n    <td>合計</td>\n    <td>154</td><td>77</td>\n    <td>96,566</td><td>40,592</td>\n    <td>471</td><td>219</td>\n    <td>5,956</td><td>3,168</td>\n    <td>192</td><td>96</td>\n    <td>3,020</td><td>1,108</td>\n    <td>124</td><td>91</td>\n    <td>12</td><td>12</td>\n  </tr>\n</table>",
+      "bbox": [
+        103,
+        412,
+        1674,
+        1142
+      ],
+      "type": "table",
+      "bbox_pdf": [
+        49.438239172627746,
+        197.6258762307363,
+        803.491382281348,
+        547.7882297463614
+      ]
+    }
+  ]
+}

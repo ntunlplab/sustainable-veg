@@ -1,0 +1,274 @@
+[
+  {
+    "bbox": [
+      166.01,
+      41.12,
+      312.22,
+      97.46
+    ],
+    "label": "Page-Header",
+    "content": "<p>CH1<br/>開創產業新發展</p>",
+    "bbox_pdf": [
+      59.7636,
+      14.8032,
+      112.3992,
+      35.0856
+    ]
+  },
+  {
+    "bbox": [
+      414.26,
+      41.12,
+      560.47,
+      97.46
+    ],
+    "label": "Page-Header",
+    "content": "<p>CH2<br/>實踐綠色新樣貌</p>",
+    "bbox_pdf": [
+      149.1336,
+      14.8032,
+      201.7692,
+      35.0856
+    ]
+  },
+  {
+    "bbox": [
+      659.47,
+      41.12,
+      807.2,
+      97.46
+    ],
+    "label": "Page-Header",
+    "content": "<p>CH3<br/>深化工安新文化</p>",
+    "bbox_pdf": [
+      237.4092,
+      14.8032,
+      290.592,
+      35.0856
+    ]
+  },
+  {
+    "bbox": [
+      909.24,
+      41.12,
+      1053.93,
+      97.46
+    ],
+    "label": "Page-Header",
+    "content": "<p>CH4<br/>培育人才新思維</p>",
+    "bbox_pdf": [
+      327.3264,
+      14.8032,
+      379.4148,
+      35.0856
+    ]
+  },
+  {
+    "bbox": [
+      1152.93,
+      41.12,
+      1299.14,
+      97.46
+    ],
+    "label": "Page-Header",
+    "content": "<p>CH5<br/>連結社區新價值</p>",
+    "bbox_pdf": [
+      415.0548,
+      14.8032,
+      467.6904,
+      35.0856
+    ]
+  },
+  {
+    "bbox": [
+      1449.92,
+      56.34,
+      1494.08,
+      83.75
+    ],
+    "label": "Page-Header",
+    "content": "<p>附錄</p>",
+    "bbox_pdf": [
+      521.9712,
+      20.2824,
+      537.8688,
+      30.15
+    ]
+  },
+  {
+    "bbox": [
+      152.3,
+      229.94,
+      1052.41,
+      283.24
+    ],
+    "label": "Section-Header",
+    "content": "<h3>3.1.2 職災、違規統計：預防、作法、後續追蹤</h3>",
+    "bbox_pdf": [
+      54.828,
+      82.7784,
+      378.8676,
+      101.9664
+    ]
+  },
+  {
+    "bbox": [
+      152.3,
+      330.44,
+      1471.24,
+      417.24
+    ],
+    "label": "Text",
+    "content": "<p>2022年職業傷害所造成的死亡比率(0)、失能傷害頻率(0.11)、失能傷害嚴重率(13)及總合傷害指數為(0.03)，發生件數較2021年少，但因員工3度灼傷住院致損失日數較2021年多。</p>",
+    "bbox_pdf": [
+      54.828,
+      118.9584,
+      529.6464,
+      150.2064
+    ]
+  },
+  {
+    "bbox": [
+      152.3,
+      481.2,
+      1169.68,
+      520.79
+    ],
+    "label": "Text",
+    "content": "<p>2022年員工職災計1件、承攬商職災計5件，共造成6人失能傷害，分別：</p>",
+    "bbox_pdf": [
+      54.828,
+      173.232,
+      421.0848,
+      187.4844
+    ]
+  },
+  {
+    "bbox": [
+      158.39,
+      531.45,
+      1353.97,
+      616.73
+    ],
+    "label": "List-Group",
+    "content": "<ul><li>員工職災計1件：為灼傷1人。</li><li>承攬商職災計5件，分別為割傷2件（2人），跌落2件（2人），捲入1件（1人）。</li></ul>",
+    "bbox_pdf": [
+      57.0204,
+      191.322,
+      487.4292,
+      222.0228
+    ]
+  },
+  {
+    "bbox": [
+      152.3,
+      680.69,
+      1230.6,
+      717.23
+    ],
+    "label": "Text",
+    "content": "<p>近四年員工傷、承攬商比率詳細資料請閱：附件 ESG 各主題數據績效 - 社會面向</p>",
+    "bbox_pdf": [
+      54.828,
+      245.0484,
+      443.016,
+      258.2028
+    ]
+  },
+  {
+    "bbox": [
+      152.3,
+      764.44,
+      1028.04,
+      813.17
+    ],
+    "label": "Section-Header",
+    "content": "<h4>● 2019-2022年台塑石化與業界總合傷害指數比較</h4>",
+    "bbox_pdf": [
+      54.828,
+      275.1984,
+      370.0944,
+      292.7412
+    ]
+  },
+  {
+    "bbox": [
+      152.3,
+      858.85,
+      1495.61,
+      1658.31
+    ],
+    "label": "Figure",
+    "content": "<img alt=\"Line graph showing the combined injury index from 2019 to 2022 for Taichung Petrochemical Company and various industry groups. The Y-axis ranges from 0.00 to 0.80. The X-axis shows years 2019, 2020, 2021, and 2022. The legend indicates five groups: Taichung Petrochemical (dotted line), All Industries (pink line), Manufacturing (yellow triangle line), Chemical Materials (blue diamond line), and Chemical Products (green star line). Data points are: 2019 (Taichung: 0.18, All Industries: 0.35, Manufacturing: 0.38, Chemical Materials: 0.67, Chemical Products: 0.61); 2020 (Taichung: 0.02, All Industries: 0.35, Manufacturing: 0.4, Chemical Materials: 0.49, Chemical Products: 0.23); 2021 (Taichung: 0.02, All Industries: 0.36, Manufacturing: 0.39, Chemical Materials: 0.76, Chemical Products: 0.25); 2022 (Taichung: 0.03, All Industries: 0.36, Manufacturing: 0.39, Chemical Materials: 0.76, Chemical Products: 0.25).\"/>",
+    "bbox_pdf": [
+      54.828,
+      309.186,
+      538.4196,
+      596.9916
+    ]
+  },
+  {
+    "bbox": [
+      152.3,
+      1699.43,
+      868.12,
+      1731.41
+    ],
+    "label": "Text",
+    "content": "<p>註：由於勞動部尚未公告2022年數據，故缺少2022年業界資料</p>",
+    "bbox_pdf": [
+      54.828,
+      611.7948,
+      312.5232,
+      623.3076
+    ]
+  },
+  {
+    "bbox": [
+      152.3,
+      1792.32,
+      1484.94,
+      1879.12
+    ],
+    "label": "Text",
+    "content": "<p>持續透過每月安衛環通報、指定訓練、擬定強化對策，推動承攬商自主管理降低風險。2022年無重大違規事件（一百萬以上），違反法令遭主管機關處罰事件計4件。</p>",
+    "bbox_pdf": [
+      54.828,
+      645.2352,
+      534.5784,
+      676.4832
+    ]
+  },
+  {
+    "bbox": [
+      702.11,
+      1941.55,
+      1509.31,
+      2339.0
+    ],
+    "label": "Image",
+    "content": "<img alt=\"Illustration showing three people sitting around a table discussing data displayed on a screen, with pie charts and bar graphs visible.\"/>",
+    "bbox_pdf": [
+      252.7596,
+      698.958,
+      543.3516,
+      842.04
+    ]
+  },
+  {
+    "bbox": [
+      100.52,
+      2203.47,
+      127.93,
+      2230.88
+    ],
+    "label": "Page-Footer",
+    "content": "<p>71</p>",
+    "bbox_pdf": [
+      36.1872,
+      793.2492,
+      46.0548,
+      803.1168
+    ]
+  }
+]

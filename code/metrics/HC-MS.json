@@ -1,0 +1,182 @@
+[
+  {
+    "sid": 1,
+    "code": "HC-MS-240a.2",
+    "topic": "Affordability & Pricing",
+    "metricEn": "Description of how price information for each product is disclosed to customers or to their agents",
+    "metric": "說明各項產品價格資訊如何揭露給顧客或其代理人",
+    "category": "討論及分析",
+    "unit": "n/a"
+  },
+  {
+    "sid": 2,
+    "code": "HC-MS-240a.3",
+    "topic": "Affordability & Pricing",
+    "metricEn": "(1) Percentage change in weighted average list price across product portfolio compared to previous reporting period",
+    "metric": "(1) 加權平均定價相較前一報告期間的變動百分比",
+    "category": "量化",
+    "unit": "Percentage (%)"
+  },
+  {
+    "sid": 3,
+    "code": "HC-MS-240a.3",
+    "topic": "Affordability & Pricing",
+    "metricEn": "(2) Percentage change in weighted average net price across product portfolio compared to previous reporting period",
+    "metric": "(2) 加權平均淨價相較前一報告期間的變動百分比",
+    "category": "量化",
+    "unit": "Percentage (%)"
+  },
+  {
+    "sid": 4,
+    "code": "HC-MS-250a.1",
+    "topic": "Product Safety",
+    "metricEn": "(1) Number of recalls issued",
+    "metric": "(1) 發布產品召回的次數",
+    "category": "量化",
+    "unit": "Number"
+  },
+  {
+    "sid": 5,
+    "code": "HC-MS-250a.1",
+    "topic": "Product Safety",
+    "metricEn": "(2) Total units recalled",
+    "metric": "(2) 總召回產品單位數",
+    "category": "量化",
+    "unit": "Number"
+  },
+  {
+    "sid": 6,
+    "code": "HC-MS-250a.2",
+    "topic": "Product Safety",
+    "metricEn": "Products listed in any public medical product safety or adverse event alert database",
+    "metric": "列入任何公開醫療產品安全或不良事件警示資料庫的產品",
+    "category": "討論及分析",
+    "unit": "n/a"
+  },
+  {
+    "sid": 7,
+    "code": "HC-MS-250a.3",
+    "topic": "Product Safety",
+    "metricEn": "Number of fatalities associated with products",
+    "metric": "與產品相關的死亡事件數量",
+    "category": "量化",
+    "unit": "Number"
+  },
+  {
+    "sid": 8,
+    "code": "HC-MS-250a.4",
+    "topic": "Product Safety",
+    "metricEn": "Number of enforcement actions taken in response to violations of good manufacturing practices (GMP) or equivalent standards, by type",
+    "metric": "因違反良好製造規範（GMP）或同等標準而採取之執法行動次數，按類型區分",
+    "category": "量化",
+    "unit": "Number"
+  },
+  {
+    "sid": 9,
+    "code": "HC-MS-270a.1",
+    "topic": "Ethical Marketing",
+    "metricEn": "Total amount of monetary losses as a result of legal proceedings associated with false marketing claims",
+    "metric": "因虛假行銷主張所引發之法律訴訟造成的金額損失總額",
+    "category": "量化",
+    "unit": "Presentation currency"
+  },
+  {
+    "sid": 10,
+    "code": "HC-MS-270a.2",
+    "topic": "Ethical Marketing",
+    "metricEn": "Description of code of ethics governing promotion of off-label use of products",
+    "metric": "說明規範產品非標示用途推廣行為的倫理準則",
+    "category": "討論及分析",
+    "unit": "n/a"
+  },
+  {
+    "sid": 11,
+    "code": "HC-MS-410a.1",
+    "topic": "Product Design & Lifecycle Management",
+    "metricEn": "Discussion of process to assess and manage environmental and human health considerations associated with chemicals in products, and meet demand for sustainable products",
+    "metric": "說明評估與管理產品中化學品對環境與人體健康影響之流程，並因應永續產品的市場需求",
+    "category": "討論及分析",
+    "unit": "n/a"
+  },
+  {
+    "sid": 12,
+    "code": "HC-MS-410a.2",
+    "topic": "Product Design & Lifecycle Management",
+    "metricEn": "(1) Total amount of products accepted for take-back and reused, recycled or donated, broken down by: (1) devices and equipment",
+    "metric": "(1) 接受回收、重複使用、捐贈之產品總量：設備與器材類別",
+    "category": "量化",
+    "unit": "Metric tonnes (t)"
+  },
+  {
+    "sid": 13,
+    "code": "HC-MS-410a.2",
+    "topic": "Product Design & Lifecycle Management",
+    "metricEn": "(2) Total amount of products accepted for take-back and reused, recycled or donated, broken down by: (2) supplies",
+    "metric": "(2) 接受回收、重複使用、捐贈之產品總量：耗材類別",
+    "category": "量化",
+    "unit": "Metric tonnes (t)"
+  },
+  {
+    "sid": 14,
+    "code": "HC-MS-430a.1",
+    "topic": "Supply Chain Management",
+    "metricEn": "Percentage of (1) entity’s facilities participating in third-party audit programmes for manufacturing and product quality",
+    "metric": "(1) 實體設施參與製造與產品品質第三方稽核計畫之比例",
+    "category": "量化",
+    "unit": "Percentage (%)"
+  },
+  {
+    "sid": 15,
+    "code": "HC-MS-430a.1",
+    "topic": "Supply Chain Management",
+    "metricEn": "Percentage of (2) Tier 1 suppliers’ facilities participating in third-party audit programmes for manufacturing and product quality",
+    "metric": "(2) 第一層供應商設施參與製造與產品品質第三方稽核計畫之比例",
+    "category": "量化",
+    "unit": "Percentage (%)"
+  },
+  {
+    "sid": 16,
+    "code": "HC-MS-430a.2",
+    "topic": "Supply Chain Management",
+    "metricEn": "Description of efforts to maintain traceability within the distribution chain",
+    "metric": "說明於配銷鏈中維持產品可追溯性之措施",
+    "category": "討論及分析",
+    "unit": "n/a"
+  },
+  {
+    "sid": 17,
+    "code": "HC-MS-430a.3",
+    "topic": "Supply Chain Management",
+    "metricEn": "Description of the management of risks associated with the use of critical materials",
+    "metric": "說明與關鍵原料使用相關之風險管理措施",
+    "category": "討論及分析",
+    "unit": "n/a"
+  },
+  {
+    "sid": 18,
+    "code": "HC-MS-510a.1",
+    "topic": "Business Ethics",
+    "metricEn": "Total amount of monetary losses as a result of legal proceedings associated with bribery or corruption",
+    "metric": "因行賄或貪污相關法律訴訟所造成之金額損失總額",
+    "category": "量化",
+    "unit": "Presentation currency"
+  },
+  {
+    "sid": 19,
+    "code": "HC-MS-510a.2",
+    "topic": "Business Ethics",
+    "metricEn": "Description of code of ethics governing interactions with health care professionals",
+    "metric": "說明規範與醫療專業人員互動的倫理準則",
+    "category": "討論及分析",
+    "unit": "n/a"
+  },
+  {
+    "sid": 20,
+    "code": "HC-MS-000.A",
+    "topic": "Activity Metrics",
+    "metricEn": "Number of units sold by product category",
+    "metric": "依產品類別劃分之銷售單位總數",
+    "category": "量化",
+    "unit": "Number"
+  }
+]

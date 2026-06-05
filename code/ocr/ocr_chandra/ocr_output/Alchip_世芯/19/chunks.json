@@ -1,0 +1,242 @@
+[
+  {
+    "bbox": [
+      191.87,
+      108.13,
+      278.67,
+      155.35
+    ],
+    "label": "Page-Header",
+    "content": "第三章<br/>公司治理",
+    "bbox_pdf": [
+      69.0732,
+      38.9268,
+      100.3212,
+      55.926
+    ]
+  },
+  {
+    "bbox": [
+      2025.31,
+      108.13,
+      2217.18,
+      155.35
+    ],
+    "label": "Page-Header",
+    "content": "ALCHIP 2022<br/>永續報告書",
+    "bbox_pdf": [
+      729.1116,
+      38.9268,
+      798.1848,
+      55.926
+    ]
+  },
+  {
+    "bbox": [
+      191.87,
+      286.33,
+      653.28,
+      351.82
+    ],
+    "label": "Section-Header",
+    "content": "<h2>CH3 公司治理</h2>",
+    "bbox_pdf": [
+      69.0732,
+      103.0788,
+      235.1808,
+      126.6552
+    ]
+  },
+  {
+    "bbox": [
+      191.87,
+      432.54,
+      443.13,
+      478.23
+    ],
+    "label": "Section-Header",
+    "content": "<h3>3.1 組織架構</h3>",
+    "bbox_pdf": [
+      69.0732,
+      155.7144,
+      159.5268,
+      172.1628
+    ]
+  },
+  {
+    "bbox": [
+      191.87,
+      514.78,
+      1134.48,
+      688.41
+    ],
+    "label": "Text",
+    "content": "<p>世芯電子致力遵循公司治理制度相關法規，並制定「公司治理實務守則」、「誠信經營作業程序及行為指南」及「永續發展實務守則」作為公司治理架構遵循依據，要求世芯電子全體同仁（含董事會成員及經理人）等相關人員執行職務時，能遵守道德規範，以維護公司、股東及社會之利益。</p>",
+    "bbox_pdf": [
+      69.0732,
+      185.3208,
+      408.4128,
+      247.8276
+    ]
+  },
+  {
+    "bbox": [
+      191.87,
+      705.16,
+      1134.48,
+      784.36
+    ],
+    "label": "Text",
+    "content": "<p>董事會下設有審計委員會與薪酬委員會，藉由功能性委員會的專業審查與建議，協助董事會做適當的決策。</p>",
+    "bbox_pdf": [
+      69.0732,
+      253.8576,
+      408.4128,
+      282.3696
+    ]
+  },
+  {
+    "bbox": [
+      191.87,
+      802.63,
+      1137.52,
+      1494.08
+    ],
+    "label": "Figure",
+    "content": "<p>Organizational Chart:</p><ul><li>Shareholders (股東會) leads to Board of Directors / Chairman (董事會 / 董事長).</li><li>Board of Directors / Chairman is supported by Audit Committee (審計委員會) and Remuneration Committee (薪酬委員會).</li><li>Board of Directors / Chairman is supported by the General Manager (總經理).</li><li>General Manager is supported by the Audit Department (稽核部).</li><li>General Manager leads to Finance Director (財務長) and Operations Director (營運長).</li><li>Finance Director leads to Finance, Investor Relations, and Business Development.</li><li>Operations Director leads to Human Resources, Strategy Alliance, China Management Office, Japan Management Office, North America Management Office, Manufacturing Engineering, System Single Chip Design, and R&amp;D.</li><li>Human Resources, Strategy Alliance, China Management Office, Japan Management Office, and North America Management Office lead to Administration Management, Strategy Development, Information, Quality System, and Finance.</li></ul>",
+    "bbox_pdf": [
+      69.0732,
+      288.9468,
+      409.5072,
+      537.8688
+    ]
+  },
+  {
+    "bbox": [
+      1228.89,
+      289.37,
+      1420.76,
+      333.54
+    ],
+    "label": "Section-Header",
+    "content": "<h3>3.2 董事會</h3>",
+    "bbox_pdf": [
+      442.4004,
+      104.1732,
+      511.4736,
+      120.0744
+    ]
+  },
+  {
+    "bbox": [
+      1262.39,
+      394.46,
+      1655.27,
+      429.49
+    ],
+    "label": "Section-Header",
+    "content": "<h4>3.2.1 董事會組成與遴選機制</h4>",
+    "bbox_pdf": [
+      454.4604,
+      142.0056,
+      595.8972,
+      154.6164
+    ]
+  },
+  {
+    "bbox": [
+      1207.57,
+      467.57,
+      2142.56,
+      688.41
+    ],
+    "label": "Text",
+    "content": "<p>董事會職責在於確保公司營運資訊公開透明及遵循相關法規，負責指導公司策略、監督管理階層、公司治理制度之各項作業安排、對公司股東會負責及依照法令及公司章程之規定行使職權。世芯電子董事會成員選任依據「董事選舉辦法」相關規範辦理，採候選人提名制，於股東會以單記名累積投票制方式選出。本屆董事會於 2022 年 6 月 10 日選任，任期為三年。</p>",
+    "bbox_pdf": [
+      434.7252,
+      168.3252,
+      771.3216,
+      247.8276
+    ]
+  },
+  {
+    "bbox": [
+      1207.57,
+      705.16,
+      2142.56,
+      926.0
+    ],
+    "label": "Text",
+    "content": "<p>世芯電子之「公司治理實務守則」已明訂董事會成員組成應考量多元化，且不限制性別、年齡、國籍及文化，除應具備執行業務所必需之條件，為達到公司治理之理想目標，董事會整體應具備包括營運判斷能力、會計及財務分析能力、經營管理能力、危機處理能力、產業知識、國際市場觀、領導能力與決策能力等多元化專業背景。</p>",
+    "bbox_pdf": [
+      434.7252,
+      253.8576,
+      771.3216,
+      333.36
+    ]
+  },
+  {
+    "bbox": [
+      1207.57,
+      956.46,
+      1434.46,
+      993.01
+    ],
+    "label": "Section-Header",
+    "content": "<h4>董事多元化情形</h4>",
+    "bbox_pdf": [
+      434.7252,
+      344.3256,
+      516.4056,
+      357.4836
+    ]
+  },
+  {
+    "bbox": [
+      1207.57,
+      1009.76,
+      2139.51,
+      1422.5
+    ],
+    "label": "Table",
+    "content": "<table><thead><tr><th>職位</th><th>姓名</th><th>性別</th><th>年齡</th><th>國籍</th><th>經營管理</th><th>領導決策</th><th>產業經歷</th><th>財務會計</th></tr></thead><tbody><tr><td>董事長</td><td>關建英</td><td>男</td><td>61-70歲</td><td>美國 / 中華民國</td><td>✓</td><td>✓</td><td>✓</td><td>-</td></tr><tr><td>董事</td><td>張國威</td><td>男</td><td>61-70歲</td><td>中華民國</td><td>✓</td><td>✓</td><td>✓</td><td>-</td></tr><tr><td>董事</td><td>沈翔霖</td><td>男</td><td>51-60歲</td><td>美國 / 中華民國</td><td>✓</td><td>✓</td><td>✓</td><td>-</td></tr><tr><td>董事</td><td>王德善</td><td>男</td><td>41-50歲</td><td>中華民國</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td></tr><tr><td>獨立董事</td><td>洪茂蔚</td><td>男</td><td>61-70歲</td><td>中華民國</td><td>✓</td><td>✓</td><td>-</td><td>✓</td></tr><tr><td>獨立董事</td><td>江善頌</td><td>男</td><td>61-70歲</td><td>中華民國</td><td>✓</td><td>✓</td><td>✓</td><td>-</td></tr><tr><td>獨立董事</td><td>莊彬甫</td><td>男</td><td>71-80歲</td><td>美國 / 中華民國</td><td>✓</td><td>✓</td><td>✓</td><td>-</td></tr></tbody></table>",
+    "bbox_pdf": [
+      434.7252,
+      363.5136,
+      770.2236,
+      512.1
+    ]
+  },
+  {
+    "bbox": [
+      1207.57,
+      1433.16,
+      1749.68,
+      1457.53
+    ],
+    "label": "Footnote",
+    "content": "<p># 註 1：董事沈翔霖兼任總經理，董事王德善兼任財務長。</p>",
+    "bbox_pdf": [
+      434.7252,
+      515.9376,
+      629.8848,
+      524.7108
+    ]
+  },
+  {
+    "bbox": [
+      1207.57,
+      1468.19,
+      1905.01,
+      1494.08
+    ],
+    "label": "Footnote",
+    "content": "<p># 註 2：董事之詳細學經歷、多元化及獨立性等情形請參閱年報 P.9~P.13。</p>",
+    "bbox_pdf": [
+      434.7252,
+      528.5484,
+      685.8036,
+      537.8688
+    ]
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "sid": 1,
+    "code": "IF-GU-240a.1",
+    "topic": "Energy Affordability",
+    "metricEn": "Average retail gas rate for (1) residential customers",
+    "metric": "(1) 住宅用戶的零售天然氣平均費率",
+    "category": "量化",
+    "unit": "Rate"
+  },
+  {
+    "sid": 2,
+    "code": "IF-GU-240a.1",
+    "topic": "Energy Affordability",
+    "metricEn": "Average retail gas rate for (2) commercial customers",
+    "metric": "(2) 商業用戶的零售天然氣平均費率",
+    "category": "量化",
+    "unit": "Rate"
+  },
+  {
+    "sid": 3,
+    "code": "IF-GU-240a.1",
+    "topic": "Energy Affordability",
+    "metricEn": "Average retail gas rate for (3) industrial customers",
+    "metric": "(3) 工業用戶的零售天然氣平均費率",
+    "category": "量化",
+    "unit": "Rate"
+  },
+  {
+    "sid": 4,
+    "code": "IF-GU-240a.1",
+    "topic": "Energy Affordability",
+    "metricEn": "Average retail gas rate for (4) transportation services only",
+    "metric": "(4) 僅供運輸服務使用的零售天然氣平均費率",
+    "category": "量化",
+    "unit": "Rate"
+  },
+  {
+    "sid": 5,
+    "code": "IF-GU-240a.3",
+    "topic": "Energy Affordability",
+    "metricEn": "(1) Number of residential customer gas disconnections for non-payment",
+    "metric": "(1) 因未付款導致住宅用戶遭斷氣的戶數",
+    "category": "量化",
+    "unit": "Number"
+  },
+  {
+    "sid": 6,
+    "code": "IF-GU-240a.3",
+    "topic": "Energy Affordability",
+    "metricEn": "(2) Percentage reconnected within 30 days",
+    "metric": "(2) 於 30 天內恢復供氣之比例",
+    "category": "量化",
+    "unit": "Percentage (%)"
+  },
+  {
+    "sid": 7,
+    "code": "IF-GU-240a.4",
+    "topic": "Energy Affordability",
+    "metricEn": "Discussion of impact of external factors on customer affordability of gas, including the economic conditions of the service territory",
+    "metric": "探討外部因素對客戶支付天然氣能力之影響，包括服務地區的經濟狀況",
+    "category": "討論及分析",
+    "unit": "n/a"
+  },
+  {
+    "sid": 8,
+    "code": "IF-GU-420a.2",
+    "topic": "End-Use Efficiency",
+    "metricEn": "Customer gas savings from efficiency measures, by market",
+    "metric": "因效率措施產生的用戶天然氣節省量，依市場別區分",
+    "category": "量化",
+    "unit": "Million British Thermal Units (MMBtu)"
+  },
+  {
+    "sid": 9,
+    "code": "IF-GU-540a.1",
+    "topic": "Integrity of Gas Delivery Infrastructure",
+    "metricEn": "(1) Number of reportable pipeline incidents",
+    "metric": "(1) 可申報之管線事故數量",
+    "category": "量化",
+    "unit": "Number"
+  },
+  {
+    "sid": 10,
+    "code": "IF-GU-540a.1",
+    "topic": "Integrity of Gas Delivery Infrastructure",
+    "metricEn": "(2) Number of corrective actions received",
+    "metric": "(2) 接獲之改善措施次數",
+    "category": "量化",
+    "unit": "Number"
+  },
+  {
+    "sid": 11,
+    "code": "IF-GU-540a.1",
+    "topic": "Integrity of Gas Delivery Infrastructure",
+    "metricEn": "(3) Number of violations of pipeline safety statutes",
+    "metric": "(3) 違反管線安全法規之次數",
+    "category": "量化",
+    "unit": "Number"
+  },
+  {
+    "sid": 12,
+    "code": "IF-GU-540a.2",
+    "topic": "Integrity of Gas Delivery Infrastructure",
+    "metricEn": "Percentage of distribution pipeline that is (1) cast or wrought iron",
+    "metric": "(1) 使用鑄鐵或鍛鐵之配氣管線比例",
+    "category": "量化",
+    "unit": "Percentage (%) by length"
+  },
+  {
+    "sid": 13,
+    "code": "IF-GU-540a.2",
+    "topic": "Integrity of Gas Delivery Infrastructure",
+    "metricEn": "Percentage of distribution pipeline that is (2) unprotected steel",
+    "metric": "(2) 使用未防護鋼材之配氣管線比例",
+    "category": "量化",
+    "unit": "Percentage (%) by length"
+  },
+  {
+    "sid": 14,
+    "code": "IF-GU-540a.3",
+    "topic": "Integrity of Gas Delivery Infrastructure",
+    "metricEn": "Percentage of gas (1) transmission pipelines inspected",
+    "metric": "(1) 接受檢查之天然氣輸送管線比例",
+    "category": "量化",
+    "unit": "Percentage (%) by length"
+  },
+  {
+    "sid": 15,
+    "code": "IF-GU-540a.3",
+    "topic": "Integrity of Gas Delivery Infrastructure",
+    "metricEn": "Percentage of gas (2) distribution pipelines inspected",
+    "metric": "(2) 接受檢查之天然氣配氣管線比例",
+    "category": "量化",
+    "unit": "Percentage (%) by length"
+  },
+  {
+    "sid": 16,
+    "code": "IF-GU-540a.4",
+    "topic": "Integrity of Gas Delivery Infrastructure",
+    "metricEn": "Description of efforts to manage the integrity of gas delivery infrastructure, including risks related to safety and emissions",
+    "metric": "說明維護天然氣傳輸設施完整性之管理作法，包括與安全及排放相關之風險因應措施",
+    "category": "討論及分析",
+    "unit": "n/a"
+  },
+  {
+    "sid": 17,
+    "code": "IF-GU-000.A",
+    "topic": "Activity Metrics",
+    "metricEn": "Number of (1) residential customers served",
+    "metric": "(1) 服務之住宅用戶數量",
+    "category": "量化",
+    "unit": "Number"
+  },
+  {
+    "sid": 18,
+    "code": "IF-GU-000.A",
+    "topic": "Activity Metrics",
+    "metricEn": "Number of (2) commercial customers served",
+    "metric": "(2) 服務之商業用戶數量",
+    "category": "量化",
+    "unit": "Number"
+  },
+  {
+    "sid": 19,
+    "code": "IF-GU-000.A",
+    "topic": "Activity Metrics",
+    "metricEn": "Number of (3) industrial customers served",
+    "metric": "(3) 服務之工業用戶數量",
+    "category": "量化",
+    "unit": "Number"
+  },
+  {
+    "sid": 20,
+    "code": "IF-GU-000.B",
+    "topic": "Activity Metrics",
+    "metricEn": "Amount of natural gas delivered to (1) residential customers",
+    "metric": "(1) 運送至住宅用戶之天然氣總量",
+    "category": "量化",
+    "unit": "Million British Thermal Units (MMBtu)"
+  },
+  {
+    "sid": 21,
+    "code": "IF-GU-000.B",
+    "topic": "Activity Metrics",
+    "metricEn": "Amount of natural gas delivered to (2) commercial customers",
+    "metric": "(2) 運送至商業用戶之天然氣總量",
+    "category": "量化",
+    "unit": "Million British Thermal Units (MMBtu)"
+  },
+  {
+    "sid": 22,
+    "code": "IF-GU-000.B",
+    "topic": "Activity Metrics",
+    "metricEn": "Amount of natural gas delivered to (3) industrial customers",
+    "metric": "(3) 運送至工業用戶之天然氣總量",
+    "category": "量化",
+    "unit": "Million British Thermal Units (MMBtu)"
+  },
+  {
+    "sid": 23,
+    "code": "IF-GU-000.B",
+    "topic": "Activity Metrics",
+    "metricEn": "Amount of natural gas (4) transferred to a third party",
+    "metric": "(4) 轉交給第三方之天然氣總量",
+    "category": "量化",
+    "unit": "Million British Thermal Units (MMBtu)"
+  },
+  {
+    "sid": 24,
+    "code": "IF-GU-000.C",
+    "topic": "Activity Metrics",
+    "metricEn": "Length of gas (1) transmission pipelines",
+    "metric": "(1) 天然氣輸送管線長度",
+    "category": "量化",
+    "unit": "Kilometres (km)"
+  },
+  {
+    "sid": 25,
+    "code": "IF-GU-000.C",
+    "topic": "Activity Metrics",
+    "metricEn": "Length of gas (2) distribution pipelines",
+    "metric": "(2) 天然氣配氣管線長度",
+    "category": "量化",
+    "unit": "Kilometres (km)"
+  }
+]

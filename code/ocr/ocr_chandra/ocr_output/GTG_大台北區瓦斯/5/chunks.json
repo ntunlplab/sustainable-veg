@@ -1,0 +1,322 @@
+[
+  {
+    "bbox": [
+      193.83,
+      206.76,
+      1208.2,
+      523.37
+    ],
+    "label": "Section-Header",
+    "content": "ANNUAL HIGHLIGHTS 年度亮點",
+    "bbox_pdf": [
+      69.7788,
+      74.4336,
+      434.952,
+      188.4132
+    ]
+  },
+  {
+    "bbox": [
+      193.83,
+      572.9,
+      1421.41,
+      1921.17
+    ],
+    "label": "Table",
+    "content": "<table><thead><tr><th>ESG 面向</th><th>重大議題</th><th>2022執行績效</th><th>SDG</th></tr></thead><tbody><tr><td rowspan=\"4\">Environment<br/>環境面</td><td>能源管理</td><td>年度節能計畫,其執行結果與去年度相比耗熱值減少3.11%。</td><td>6 能源</td></tr><tr><td>溫室氣體減量</td><td>金屬廢料委託合格廠商回收再生;微電腦瓦斯表回收再使用。</td><td>7 氣候行動</td></tr><tr><td>災害應變能力</td><td>每年藉由演習模擬狀況以實兵演練方式,加強員工緊急應變能力。</td><td>11 城市與社區</td></tr><tr><td>供應商管理</td><td>定期或不定期進行物料供應商考核。</td><td>12 負責任消費</td></tr><tr><td rowspan=\"5\">Social<br/>社會面</td><td>資訊安全</td><td>2017年至2022年公司皆未發生資料外流、申訴違反相關法規之案件。</td><td>1 永續發展</td></tr><tr><td>客戶關係管理</td><td>臨櫃洽公用戶整體滿意度達92%。</td><td>3 良好工作環境</td></tr><tr><td>天然氣供應安全</td><td>市政府產業發展局公用天然氣事業安全管理工作檢查核計23場次,查核項次262項,無缺失事項。</td><td>5 性別平等</td></tr><tr><td>人權保障與薪酬福利</td><td>進用身心障礙者4名、僱用5名具原住民身分員工,僱用比率優於法令規定。</td><td>8 就業與經濟</td></tr><tr><td>勞資關係</td><td>結社自由,企業工會已成立27年。</td><td>9 永續經濟</td></tr><tr><td rowspan=\"5\">Governance<br/>治理面</td><td>職業安全與衛生</td><td>人員完成應接受訓練比率達100%;全年零事故。</td><td>10 責任投資</td></tr><tr><td>法令遵循</td><td>無違反天然氣事業法之情事。</td><td>16 平等與包容</td></tr><tr><td>營運績效</td><td>在疫情期間創造的經濟價值達到新臺幣1,338,750千元,42%分配給股東。</td><td>10 責任投資</td></tr><tr><td>公司治理</td><td>揭露並落實董事會成員多元化政策。</td><td>7 氣候行動</td></tr><tr><td>股東權益</td><td>連續6年配發股利1.1元。</td><td>12 責任消費</td></tr><tr><td></td><td>風險管理</td><td>重大改變之風險控制則提案董事會議決。</td><td>15 對抗貧窮</td></tr></tbody></table>",
+    "bbox_pdf": [
+      69.7788,
+      206.244,
+      511.7076,
+      691.6212
+    ]
+  },
+  {
+    "bbox": [
+      1957.66,
+      185.22,
+      2263.48,
+      620.29
+    ],
+    "label": "Image",
+    "content": "<img alt=\"ISO 45001 Occupational Safety and Health Management System Certificate issued to National Taiwan Gas Corp.\"/>",
+    "bbox_pdf": [
+      704.7576,
+      66.6792,
+      814.8528,
+      223.3044
+    ]
+  },
+  {
+    "bbox": [
+      2315.17,
+      185.22,
+      2636.06,
+      620.29
+    ],
+    "label": "Image",
+    "content": "<img alt=\"ISO 45001 Occupational Safety and Health Management System Certificate issued to National Taiwan Gas Corp.\"/>",
+    "bbox_pdf": [
+      833.4612,
+      66.6792,
+      948.9816,
+      223.3044
+    ]
+  },
+  {
+    "bbox": [
+      2689.9,
+      185.22,
+      3012.95,
+      620.29
+    ],
+    "label": "Image",
+    "content": "<img alt=\"Taipei City Government Award Certificate for the company's contribution to the 111th National Education Day activities and epidemic prevention.\"/>",
+    "bbox_pdf": [
+      968.364,
+      66.6792,
+      1084.662,
+      223.3044
+    ]
+  },
+  {
+    "bbox": [
+      1957.66,
+      633.21,
+      2470.23,
+      695.67
+    ],
+    "label": "Caption",
+    "content": "ISO 45001/TOSHMS職業安全衛生管理系統驗證合格<br/>(有效期間至2023年5月17日)",
+    "bbox_pdf": [
+      704.7576,
+      227.9556,
+      889.2828,
+      250.4412
+    ]
+  },
+  {
+    "bbox": [
+      2689.9,
+      633.21,
+      2974.18,
+      695.67
+    ],
+    "label": "Caption",
+    "content": "捐贈300台e+自動閘瓦斯爐<br/>自動關火器",
+    "bbox_pdf": [
+      968.364,
+      227.9556,
+      1070.7048,
+      250.4412
+    ]
+  },
+  {
+    "bbox": [
+      1957.66,
+      743.05,
+      2263.48,
+      1178.12
+    ],
+    "label": "Image",
+    "content": "<img alt=\"ISO 9001 Quality Management System Certificate issued to National Taiwan Gas Corp.\"/>",
+    "bbox_pdf": [
+      704.7576,
+      267.498,
+      814.8528,
+      424.1232
+    ]
+  },
+  {
+    "bbox": [
+      2315.17,
+      743.05,
+      2636.06,
+      1178.12
+    ],
+    "label": "Image",
+    "content": "<img alt=\"ISO 9001 Quality Management System Certificate issued to National Taiwan Gas Corp.\"/>",
+    "bbox_pdf": [
+      833.4612,
+      267.498,
+      948.9816,
+      424.1232
+    ]
+  },
+  {
+    "bbox": [
+      2689.9,
+      743.05,
+      3012.95,
+      1178.12
+    ],
+    "label": "Image",
+    "content": "<img alt=\"Taipei City Government Award Certificate for the company's contribution to the 111th National Education Day activities and epidemic prevention.\"/>",
+    "bbox_pdf": [
+      968.364,
+      267.498,
+      1084.662,
+      424.1232
+    ]
+  },
+  {
+    "bbox": [
+      1957.66,
+      1191.04,
+      2263.48,
+      1255.65
+    ],
+    "label": "Caption",
+    "content": "ISO9001品質管理系統驗證合格<br/>(有效期間至2024年11月27日)",
+    "bbox_pdf": [
+      704.7576,
+      428.7744,
+      814.8528,
+      452.034
+    ]
+  },
+  {
+    "bbox": [
+      2315.17,
+      1191.04,
+      2636.06,
+      1255.65
+    ],
+    "label": "Caption",
+    "content": "ISO50001能源管理系統驗證合格<br/>(有效期間至2023年12月18日)",
+    "bbox_pdf": [
+      833.4612,
+      428.7744,
+      948.9816,
+      452.034
+    ]
+  },
+  {
+    "bbox": [
+      2689.9,
+      1191.04,
+      2939.73,
+      1229.81
+    ],
+    "label": "Caption",
+    "content": "舉辦安全宣導活動計19場",
+    "bbox_pdf": [
+      968.364,
+      428.7744,
+      1058.3028,
+      442.7316
+    ]
+  },
+  {
+    "bbox": [
+      1957.66,
+      1309.5,
+      2263.48,
+      1744.56
+    ],
+    "label": "Image",
+    "content": "<img alt=\"Drawing of a colorful globe/painting, representing the 'Achievement in Statistics Award'.\"/>",
+    "bbox_pdf": [
+      704.7576,
+      471.42,
+      814.8528,
+      628.0416
+    ]
+  },
+  {
+    "bbox": [
+      2300.09,
+      1335.34,
+      2597.3,
+      1406.42
+    ],
+    "label": "Caption",
+    "content": "人資單位榮獲2022年度行政院<br/>主計總處「功在統計獎」",
+    "bbox_pdf": [
+      828.0324,
+      480.7224,
+      935.028,
+      506.3112
+    ]
+  },
+  {
+    "bbox": [
+      2661.91,
+      1309.5,
+      2806.2,
+      1494.72
+    ],
+    "label": "Image",
+    "content": "<img alt=\"Illustration of a green lightbulb representing the 3rd Achievement in Statistics Award.\"/>",
+    "bbox_pdf": [
+      958.2876,
+      471.42,
+      1010.232,
+      538.0992
+    ]
+  },
+  {
+    "bbox": [
+      2900.96,
+      1309.5,
+      3012.95,
+      1535.64
+    ],
+    "label": "Image",
+    "content": "<img alt=\"Illustration of a yellow lightbulb representing the 12th Achievement in Statistics Award.\"/>",
+    "bbox_pdf": [
+      1044.3456,
+      471.42,
+      1084.662,
+      552.8304
+    ]
+  },
+  {
+    "bbox": [
+      3062.48,
+      1173.81,
+      3193.86,
+      1348.26
+    ],
+    "label": "Image",
+    "content": "<img alt=\"Decorative illustration of a green landscape with hills, trees, and buildings.\"/>",
+    "bbox_pdf": [
+      1102.4928,
+      422.5716,
+      1149.7896,
+      485.3736
+    ]
+  },
+  {
+    "bbox": [
+      71.07,
+      2181.77,
+      118.45,
+      2222.7
+    ],
+    "label": "Page-Footer",
+    "content": "06",
+    "bbox_pdf": [
+      25.5852,
+      785.4372,
+      42.642,
+      800.172
+    ]
+  },
+  {
+    "bbox": [
+      3174.47,
+      2181.77,
+      3230.47,
+      2222.7
+    ],
+    "label": "Page-Footer",
+    "content": "07",
+    "bbox_pdf": [
+      1142.8092,
+      785.4372,
+      1162.9692,
+      800.172
+    ]
+  }
+]
