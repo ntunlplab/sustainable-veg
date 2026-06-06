@@ -8,5 +8,6 @@ pymupdf
 torch
 transformers
 chandra-ocr
+olmocr
 openai
 python-dotenv

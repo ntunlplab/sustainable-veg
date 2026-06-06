@@ -29,11 +29,10 @@ DPI = 200
 # ------------------ 建立 tasks ------------------
 def build_tasks_from_train_test(
     report_dir: str,
-    train_json_path: str,
-    test_json_path: str,
+    data_json_path: str,
 ) -> List[Tuple[str, str, int]]:
     """
-    從 train.json 與 test.json 讀取所有 esg_report + page 組合，
+    從 data.json 讀取所有 esg_report + page 組合，
     回傳唯一 (pdf_path, pdf_name, page_idx) list
     """
     pairs_set = set()
@@ -77,15 +76,14 @@ def build_tasks_from_train_test(
             pairs_set.add((pdf_path, page_idx))
             print(f"[MAIN] Found task: {pdf_path} page {page_idx}")
 
-    _add_from_file(train_json_path)
-    _add_from_file(test_json_path)
+    _add_from_file(data_json_path)
 
     tasks: List[Tuple[str, str, int]] = []
     for pdf_path, page_idx in sorted(pairs_set):
         pdf_name = os.path.basename(pdf_path)
         tasks.append((pdf_path, pdf_name, page_idx))
 
-    print(f"[MAIN] Built {len(tasks)} unique (pdf, page) tasks from train/test.")
+    print(f"[MAIN] Built {len(tasks)} unique (pdf, page) tasks from data.")
     return tasks
 
 # ------------------ bbox 還原 ------------------
@@ -164,12 +162,11 @@ def process_task(pdf_path, pdf_name, page_index, output_base="./ocr_output"):
 # ------------------ 主程式 ------------------
 def main():
     REPORT_DIR = "../../../data/reports"
-    TRAIN_JSON = "../../../data/Sustainable-VEG.json"
-    TEST_JSON = "../../../data/Sustainable-VEG.json"
+    DATA_JSON = "../../../data/Sustainable-VEG.json"
     OUTPUT_BASE = "./ocr_output"
     os.makedirs(OUTPUT_BASE, exist_ok=True)
 
-    tasks = build_tasks_from_train_test(REPORT_DIR, TRAIN_JSON, TEST_JSON)
+    tasks = build_tasks_from_train_test(REPORT_DIR, DATA_JSON)
     for pdf_path, pdf_name, page_index in tasks:
         process_task(pdf_path, pdf_name, page_index, output_base=OUTPUT_BASE)
 
