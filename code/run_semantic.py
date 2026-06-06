@@ -48,11 +48,8 @@ def main(args):
     # 1. Load embedding model
     model = SentenceTransformer(config["model"]["name"])
 
-    # 2. Load training data list
-    if args.test:
-        data_path = config["paths"]["test_data"]
-    else:
-        data_path = config["paths"]["train_data"]
+    # 2. Load data list
+    data_path = config["paths"]["data"]
     with open(data_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
@@ -78,8 +75,6 @@ def main(args):
             )
 
             # Load OCR JSON
-            if args.test:
-                esg_file = os.path.basename(esg_file)
             report_folder = os.path.splitext(esg_file)[0]
             ocr_path = f"{config['paths']['ocr_output']}/{report_folder}/{page}/output.json"
 

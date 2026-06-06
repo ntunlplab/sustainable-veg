@@ -43,3 +43,9 @@ python code/score.py
 ├── results/               # Generated prediction outputs
 └── README.md
 ```
+
+## TODO
+1. 先照 .env.example 的格式建一份 .env 填上 api_key
+2. run_direct.py 和 run_semantic.py 可能還有一些路徑錯誤，盡量改程式內部邏輯不要動到 config.yaml 定義的路徑
+3. 檢查有沒有殘留 train/test 的判斷
+4. 有些常用函數我搬到 utils.py 了，如果程式裡面有重複定義可以拿掉
