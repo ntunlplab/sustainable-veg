@@ -1,6 +1,0 @@
-numpy
-sentence_transformers
-faiss-gpu-cu12
-pickle
-PyMuPDF
-Pillow

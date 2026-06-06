@@ -1,0 +1,32 @@
+model:
+  name: "BAAI/bge-large-zh-v1.5"
+  normalize: true
+  regression: true
+
+reranker:
+  name: "BAAI/bge-reranker-v2-m3"
+  top_k: 10
+  threshold: 0.4
+
+paths:
+  sasb_metrics: "./metrics"
+  sasb_database: "./sasb_db"
+  sasb_index: "./sasb_idx"
+  faiss_index: "faiss.index"      
+  vector_data: "vector_data.pkl" 
+  data: "./data/Sustainable-VEG.json"
+  ocr_output: "./ocr/ocr_olm/ocr_output"
+  chandra_ocr_output: "./ocr/ocr_chandra/ocr_output"
+  esg_reports_pdf: "../data/reports"
+  results_output: "../results/{strategy}/prediction.csv"
+  marked_results_output: "../results/{strategy}/plots"
+
+  train_labels: ./train.csv     
+
+train:
+  batch_size: 8
+  epochs: 3
+  lr: 2e-5
+  warmup_ratio: 0.1
+
+threshold: 0.55

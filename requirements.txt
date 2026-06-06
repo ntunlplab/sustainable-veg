@@ -1,0 +1,12 @@
+numpy
+pyyaml
+faiss-cpu
+sentence-transformers
+beautifulsoup4
+pillow
+pymupdf
+torch
+transformers
+chandra-ocr
+openai
+python-dotenv
